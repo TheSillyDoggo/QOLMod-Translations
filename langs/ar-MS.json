@@ -28,12 +28,13 @@
     "strings": {
         "Level": "اللعب",
         "Universal": "عالمي",
-        "Creator": "الخالق",
+        "Creator": "الصانع",
         "Cosmetic": "مستحضرات التجميل",
         "Icon Effects": "أيقونة التأثيرات",
         "Speedhack": "سبيد هاك",
         "Labels": "تسميات",
         "Config": "تهيئة",
+        
         "Noclip": "نوكليب",
         "Tint on death": "الصبغة عند الموت",
         "Tint Opacity:": "عتامة الصبغة:",
