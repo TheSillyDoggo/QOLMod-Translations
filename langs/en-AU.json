@@ -2,6 +2,7 @@
     "display_name_english": "TODO",
     "display_name_native": "TODO",
     "contributors": [],
+    "fallback-lang": "",
     "input-hints": {
         "seconds": "sec",
         "semitones": "semitones"

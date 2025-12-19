@@ -22,8 +22,8 @@ Change `display_name_native` to the name of the language as written in the langu
 For Japanese this would be
 ```json
 "display_name_english": "Japanese",
-"display_name_native": "にほんじん",
-```
+"display_name_native": "日本語",
+`
 
 ### Actual Translation
 There is a section of the file called `strings`.

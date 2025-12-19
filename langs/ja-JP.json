@@ -1,0 +1,29 @@
+{
+    "display_name_english": "Japanese",
+    "display_name_native": "日本語",
+    "contributors": [],
+    "fallback-lang": "en-AU.json",
+    "input-hints": {
+        "seconds": "秒",
+        "semitones": "半音"
+    },
+    "names": {
+        "noclip": "",
+        "instant": "",
+        "search/show-options": "",
+        "allow-dragging": "",
+        "blur-background": "背景をにじむ",
+        "button-scale": "",
+        "no-open-in-level": "",
+        "show-favourites": "",
+        "gradient-bg/start-colour": "上の色:",
+        "gradient-bg/end-colour": "下の色:",
+        "hide-btn": "",
+        "internal/open-menu": "",
+        "save-pos": "",
+        "show-searchbox": "",
+        "seperate-colour-cheat-name": "",
+        "seperate-colour-cheat-name/colour": "色",
+        "smooth-move": ""
+    }
+}
