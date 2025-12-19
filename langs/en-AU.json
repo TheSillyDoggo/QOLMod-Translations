@@ -3,6 +3,17 @@
     "display_name_native": "TODO",
     "contributors": [],
     "fallback-lang": "",
+    "categories": {
+        "level": "Level",
+        "universal": "Universal",
+        "creator": "Creator",
+        "cosmetic": "Cosmetic",
+        "speedhack": "Speedhack",
+        "labels": "Labels",
+        "config": "Config",
+        "search": "Search",
+        "favourites": "Favourites"
+    },
     "input-hints": {
         "seconds": "sec",
         "semitones": "semitones"
