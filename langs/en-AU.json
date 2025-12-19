@@ -1,0 +1,28 @@
+{
+    "display_name_english": "TODO",
+    "display_name_native": "TODO",
+    "contributors": [],
+    "input-hints": {
+        "seconds": "sec",
+        "semitones": "semitones"
+    },
+    "names": {
+        "noclip": "Noclip",
+        "instant": "Instant Complete",
+        "search/show-options": "Show options",
+        "allow-dragging": "Allow Dragging",
+        "blur-background": "Blur Background",
+        "button-scale": "Scale:",
+        "no-open-in-level": "Disable Opening In Level",
+        "show-favourites": "Favourites Tab",
+        "gradient-bg/start-colour": "Top Colour:",
+        "gradient-bg/end-colour": "Bottom Colour:",
+        "hide-btn": "Hide Button",
+        "internal/open-menu": "Menu Keybind:",
+        "save-pos": "Save Position",
+        "show-searchbox": "Search Box",
+        "seperate-colour-cheat-name": "Seperate Colour Cheat Names",
+        "seperate-colour-cheat-name/colour": "Colour",
+        "smooth-move": "Smooth Movement"
+    }
+}
