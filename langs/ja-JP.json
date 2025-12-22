@@ -26,6 +26,20 @@
         "coming-soon": "カミングスーン",
         "themes-edit-button": "色を変える"
     },
+    "animation": {
+        "none": "なし",
+        "from-top": "上から来る",
+        "from-bottom": "下から来る",
+        "from-left": "左から来る",
+        "from-right": "右から来る",
+        "scale-in": "",
+        "fade-in": "",
+        "preview-error-none": {
+            "title": "アニメーションを試写",
+            "text": "There is no animation to preview.",
+            "button": "OK"
+        }
+    },
     "names": {
         "noclip": "",
         "instant": "",
