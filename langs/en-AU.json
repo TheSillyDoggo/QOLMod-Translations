@@ -12,11 +12,33 @@
         "labels": "Labels",
         "config": "Config",
         "search": "Search",
-        "favourites": "Favourites"
+        "favourites": "Favourites",
+        "menu": "Menu",
+        "button": "Button",
+        "theme": "Theme",
+        "language": "Language"
     },
     "input-hints": {
         "seconds": "sec",
         "semitones": "semitones"
+    },
+    "ui": {
+        "coming-soon": "Coming soon",
+        "themes-edit-button": "Edit Colours"
+    },
+    "animation": {
+        "none": "None",
+        "from-top": "From Top",
+        "from-bottom": "From Bottom",
+        "from-left": "From Left",
+        "from-right": "From Right",
+        "scale-in": "Scale",
+        "fade-in": "Fade In",
+        "preview-error-none": {
+            "title": "Preview Animation",
+            "text": "There is no animation to preview.",
+            "button": "OK"
+        }
     },
     "names": {
         "noclip": "Noclip",

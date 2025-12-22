@@ -25,6 +25,11 @@ For Japanese this would be
 "display_name_native": "日本語",
 `
 
+### What languages can I translate it into?
+No English language translations, the only english variant is en-AU.
+No Arabic languages - Cocos struggles to render the letters correctly on some platforms, resulting in unreadable text
+No Hebrew - Cocos just straight up won't render the letters at all
+
 ### Actual Translation
 There is a section of the file called `strings`.
 In this object there are the strings for the mod.

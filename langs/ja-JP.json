@@ -3,9 +3,28 @@
     "display_name_native": "日本語",
     "contributors": [],
     "fallback-lang": "en-AU.json",
+    "categories": {
+        "level": "レベル",
+        "universal": "一般",
+        "creator": "クリエイター",
+        "cosmetic": "コスメティック",
+        "speedhack": "スピードハック",
+        "labels": "ラベル",
+        "config": "コンフィグ",
+        "search": "検索",
+        "favourites": "ブックマーク",
+        "menu": "メニュー",
+        "button": "ボタン",
+        "theme": "テーマ",
+        "language": "言語"
+    },
     "input-hints": {
         "seconds": "秒",
         "semitones": "半音"
+    },
+    "ui": {
+        "coming-soon": "カミングスーン",
+        "themes-edit-button": "色を変える"
     },
     "names": {
         "noclip": "",
