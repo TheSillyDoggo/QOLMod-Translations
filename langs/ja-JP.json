@@ -28,12 +28,12 @@
     },
     "animation": {
         "none": "なし",
-        "from-top": "上から来る",
-        "from-bottom": "下から来る",
-        "from-left": "左から来る",
-        "from-right": "右から来る",
-        "scale-in": "",
-        "fade-in": "",
+        "from-top": "上から",
+        "from-bottom": "下から",
+        "from-left": "左から",
+        "from-right": "右から",
+        "scale-in": "中点から",
+        "fade-in": "フェードイン",
         "preview-error-none": {
             "title": "アニメーションを試写",
             "text": "There is no animation to preview.",
