@@ -3,6 +3,7 @@
     "display_name_native": "日本語",
     "contributors": [],
     "fallback-lang": "en-AU.json",
+    "font": "kosugimaru.fnt",
     "categories": {
         "level": "レベル",
         "universal": "一般",
@@ -35,8 +36,8 @@
         "scale-in": "中点から",
         "fade-in": "フェードイン",
         "preview-error-none": {
-            "title": "アニメーションを試写",
-            "text": "There is no animation to preview.",
+            "title": "アニメーションをプレビューする",
+            "text": "プレビューのアニメーションはできません",
             "button": "OK"
         }
     },
