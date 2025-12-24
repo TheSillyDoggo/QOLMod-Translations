@@ -4,60 +4,53 @@
     "contributors": [],
     "fallback-lang": "en-AU.json",
     "font": "kosugimaru.fnt",
-    "categories": {
-        "level": "レベル",
-        "universal": "一般",
-        "creator": "クリエイター",
-        "cosmetic": "コスメティック",
-        "speedhack": "スピードハック",
-        "labels": "ラベル",
-        "config": "コンフィグ",
-        "search": "検索",
-        "favourites": "ブックマーク",
-        "menu": "メニュー",
-        "button": "ボタン",
-        "theme": "テーマ",
-        "language": "言語"
-    },
-    "input-hints": {
-        "seconds": "秒",
-        "semitones": "半音"
-    },
-    "ui": {
-        "coming-soon": "カミングスーン",
-        "themes-edit-button": "色を変える"
-    },
-    "animation": {
-        "none": "なし",
-        "from-top": "上から",
-        "from-bottom": "下から",
-        "from-left": "左から",
-        "from-right": "右から",
-        "scale-in": "中点から",
-        "fade-in": "フェードイン",
-        "preview-error-none": {
-            "title": "アニメーションをプレビューする",
-            "text": "プレビューのアニメーションはできません",
-            "button": "OK"
+    "strings": {
+        "categories": {
+            "level": "レベル",
+            "universal": "一般",
+            "creator": "クリエイター",
+            "cosmetic": "コスメティック",
+            "speedhack": "スピードハック",
+            "labels": "ラベル",
+            "config": "コンフィグ",
+            "search": "検索",
+            "favourites": "ブックマーク",
+            "menu": "メニュー",
+            "button": "ボタン",
+            "theme": "テーマ",
+            "language": "言語"
+        },
+        "input-hints": {
+            "seconds": "秒",
+            "semitones": "半音"
+        },
+        "ui": {
+            "coming-soon": "カミングスーン",
+            "themes-edit-button": "色を変える",
+            "ok-button": "OK",
+            "default-button": "デフォルト",
+            "undo-button": "アンドゥ"
+        },
+        "animation": {
+            "none": "なし",
+            "from-top": "上から",
+            "from-bottom": "下から",
+            "from-left": "左から",
+            "from-right": "右から",
+            "scale-in": "中点から",
+            "fade-in": "フェードイン",
+            "preview-error-none": {
+                "title": "アニメーションをプレビューする",
+                "text": "プレビューのアニメーションはできません",
+                "button": "OK"
+            }
+        },
+        "names": {
+            "noclip": "ノクリップ",
+            "blur-background": "背景をにじむ",
+            "gradient-bg/start-colour": "上の色:",
+            "gradient-bg/end-colour": "下の色:",
+            "seperate-colour-cheat-name/colour": "色",
         }
-    },
-    "names": {
-        "noclip": "",
-        "instant": "",
-        "search/show-options": "",
-        "allow-dragging": "",
-        "blur-background": "背景をにじむ",
-        "button-scale": "",
-        "no-open-in-level": "",
-        "show-favourites": "",
-        "gradient-bg/start-colour": "上の色:",
-        "gradient-bg/end-colour": "下の色:",
-        "hide-btn": "",
-        "internal/open-menu": "",
-        "save-pos": "",
-        "show-searchbox": "",
-        "seperate-colour-cheat-name": "",
-        "seperate-colour-cheat-name/colour": "色",
-        "smooth-move": ""
     }
 }
