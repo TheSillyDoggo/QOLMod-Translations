@@ -23,7 +23,7 @@ For Japanese this would be
 ```json
 "display_name_english": "Japanese",
 "display_name_native": "日本語",
-`
+```
 
 ### What languages can I translate it into?
 No English language translations, the only english variant is en-AU.

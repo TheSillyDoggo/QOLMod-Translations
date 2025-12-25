@@ -37,13 +37,15 @@
         },
         "font-select": {
             "title": "Select Font",
-            "japanese-supported": "This font supports Hiragana, Katakana and Kanji",
-            "russian-supported": "This font supports the Cyrillic writing system",
-            "korean-supported": "This font supports the Hangul writing system"
+            "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
+            "russian-supported": "This font supports the Cyrillic writing system (Russian)",
+            "korean-supported": "This font supports the Hangul writing system (Korean)",
+            "chinese-supported": "This font supports the Hanzi writing system (Chinese"
         },
         "labels": {
             "cheat-indicator-label": "Cheat Indicator",
-            "noclip-only-label": "Noclip Only"
+            "noclip-only-label": "Noclip Only",
+            "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
         },
         "animation": {
             "none": "None",
