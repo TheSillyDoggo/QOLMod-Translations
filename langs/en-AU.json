@@ -25,18 +25,25 @@
             "semitones": "semitones"
         },
         "ui": {
-            "coming-soon": "Coming soon",
+            "coming-soon": "Coming Soon",
             "themes-edit-button": "Edit Colours",
             "ok-button": "OK",
             "default-button": "Default",
             "undo-button": "Undo",
-            "change-font-button": "Change Font"
+            "change-font-button": "Change Font",
+            "safe-mode-view-reason-button": "View Reason",
+            "export-to-file-button": "Export to file",
+            "import-from-file-button": "Import from file"
         },
         "font-select": {
             "title": "Select Font",
             "japanese-supported": "This font supports Hiragana, Katakana and Kanji",
             "russian-supported": "This font supports the Cyrillic writing system",
             "korean-supported": "This font supports the Hangul writing system"
+        },
+        "labels": {
+            "cheat-indicator-label": "Cheat Indicator",
+            "noclip-only-label": "Noclip Only"
         },
         "animation": {
             "none": "None",
@@ -213,7 +220,8 @@
             "save-pos": "Save Position",
             "seperate-colour-cheat-name": "Seperate colour cheat names",
             "seperate-colour-cheat-name/colour": "Colour:",
-            "labels/hide-all-labels": "Hide Labels"
+            "labels/hide-all-labels": "Hide Labels",
+            "full-options": "Full Options Menu"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -376,7 +384,8 @@
             "seperate-colour-cheat-name": "Changes the colour of mod names if it is a cheat",
             "seperate-colour-cheat-name/colour": "",
             "speedhack/music": "Speedhack all sound by your speed modifier",
-            "labels/hide-all-labels": "Hides all the labels"
+            "labels/hide-all-labels": "Hides all the labels",
+            "full-options": "Replaces the mini options menu in the pause menu with the full options menu"
         }
     }
 }
