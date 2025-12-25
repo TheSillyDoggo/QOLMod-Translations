@@ -33,7 +33,10 @@
             "change-font-button": "Change Font"
         },
         "font-select": {
-            "title": "Select Font"
+            "title": "Select Font",
+            "japanese-supported": "This font supports Hiragana, Katakana and Kanji",
+            "russian-supported": "This font supports the Cyrillic writing system",
+            "korean-supported": "This font supports the Hangul writing system"
         },
         "animation": {
             "none": "None",
