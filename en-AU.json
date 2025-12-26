@@ -76,8 +76,7 @@
             "fade-in": "Fade In",
             "preview-error-none": {
                 "title": "Preview Animation",
-                "text": "There is no animation to preview.",
-                "button": "OK"
+                "text": "There is no animation to preview."
             }
         },
         "names": {
