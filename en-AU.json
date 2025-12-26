@@ -35,6 +35,25 @@
             "export-to-file-button": "Export to file",
             "import-from-file-button": "Import from file"
         },
+        "colour-setup": {
+            "title": "Select Colour",
+            "add-step": "Add Step",
+            "remove-step": "Remove Step",
+            "player-primary": "Player\nPrimary",
+            "player-secondary": "Player\nSecondary",
+            "player-glow": "Player\nGlow",
+            "chroma": "Chroma",
+            "pastel": "Pastel",
+            "gradient": "Gradient",
+            "colour-hint": "Colour:"
+        },
+        "extra-theme-settings": {
+            "title": "Edit Gradient Colours"
+        },
+        "edit-keybind-ui": {
+            "title": "Edit Keybind",
+            "no-keybind": "No Keybind"
+        },
         "font-select": {
             "title": "Select Font",
             "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
@@ -223,7 +242,10 @@
             "seperate-colour-cheat-name": "Seperate colour cheat names",
             "seperate-colour-cheat-name/colour": "Colour:",
             "labels/hide-all-labels": "Hide Labels",
-            "full-options": "Full Options Menu"
+            "full-options": "Full Options Menu",
+            "search/show-options": "Show options",
+            "auto-song": "Auto Song Download",
+            "pitch-shifter/music-only": "Music only"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -387,7 +409,10 @@
             "seperate-colour-cheat-name/colour": "",
             "speedhack/music": "Speedhack all sound by your speed modifier",
             "labels/hide-all-labels": "Hides all the labels",
-            "full-options": "Replaces the mini options menu in the pause menu with the full options menu"
+            "full-options": "Replaces the mini options menu in the pause menu with the full options menu",
+            "search/show-options": "Shows mod options in the search results",
+            "auto-song": "Automatically downloads songs when you open a level",
+            "pitch-shifter/music-only": "Only changes the pitch of music"
         }
     }
 }

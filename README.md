@@ -12,7 +12,7 @@ Japanese would be `ja-JP.json`
 ## Contributing:
 
 ### Copying base
-Copy the `base.json` file from the root directory into the **langs** folder.
+Copy the `en-AU.json` file from the root directory into the **langs** folder.
 Change the name of this file to the **correct** region name.
 
 ### Edit the language info at the top

@@ -11,6 +11,7 @@
             "creator": "クリエイター",
             "cosmetic": "コスメティック",
             "speedhack": "スピードハック",
+            "icon effects": "アイコンエフェクト",
             "labels": "ラベル",
             "config": "コンフィグ",
             "search": "検索",
@@ -31,6 +32,9 @@
             "default-button": "デフォルト",
             "undo-button": "アンドゥ"
         },
+        "labels": {
+            
+        },
         "animation": {
             "none": "なし",
             "from-top": "上から",
@@ -50,7 +54,7 @@
             "blur-background": "背景をにじむ",
             "gradient-bg/start-colour": "上の色:",
             "gradient-bg/end-colour": "下の色:",
-            "seperate-colour-cheat-name/colour": "色",
+            "seperate-colour-cheat-name/colour": "色:"
         }
     }
 }
