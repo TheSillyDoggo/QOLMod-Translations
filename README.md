@@ -16,7 +16,7 @@ Copy the `en-AU.json` file from the root directory into the **langs** folder.
 Change the name of this file to the **correct** region name.
 
 ### Edit the language info at the top
-Change `display_name_english` to the name of the language in **english**.
+Change `display_name_english` to the name of the language in **English**.
 Change `display_name_native` to the name of the language as written in the language.
 
 For Japanese this would be
@@ -30,10 +30,15 @@ No English language translations, the only english variant is en-AU.
 No Arabic languages - Cocos struggles to render the letters correctly on some platforms, resulting in unreadable text
 No Hebrew - Cocos just straight up won't render the letters at all
 
+### Can I use Google Translate / Chat GPT / Other translation tools
+
+**No.**
+All translations must be done by a real person.
+
 ### Actual Translation
 There is a section of the file called `strings`.
 In this object there are the strings for the mod.
-The Key (value on the left) is the text in english.
+The Key (value on the left) is how the mod menu finds the text.
 You add the translated text **after** this text.
 **DO NOT MODIFY THE TEXT ON THE LEFT**
 
