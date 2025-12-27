@@ -14,7 +14,7 @@
         }
     ],
     "fallback-lang": "en-AU.json",
-    "font": "chatFont.fnt",
+    "font": "notosans.fnt",
     "strings": {
         "categories": {
             "level": "Уровень",
@@ -39,7 +39,7 @@
         "ui": {
             "coming-soon": "Скоро",
             "themes-edit-button": "Изменить цвета",
-            "ok-button": "ОК",
+            "ok-button": "OK",
             "default-button": "По умолчанию",
             "undo-button": "Откатить",
             "change-font-button": "Изменить шрифт",

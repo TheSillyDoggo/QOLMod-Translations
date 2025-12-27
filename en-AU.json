@@ -244,7 +244,8 @@
             "full-options": "Full Options Menu",
             "search/show-options": "Show options",
             "auto-song": "Auto Song Download",
-            "pitch-shifter/music-only": "Music only"
+            "pitch-shifter/music-only": "Music only",
+            "no-particles-adv/teleport-portal-particles": "Teleport Portal Objects"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -411,7 +412,8 @@
             "full-options": "Replaces the mini options menu in the pause menu with the full options menu",
             "search/show-options": "Shows mod options in the search results",
             "auto-song": "Automatically downloads songs when you open a level",
-            "pitch-shifter/music-only": "Only changes the pitch of music"
+            "pitch-shifter/music-only": "Only changes the pitch of music",
+            "no-particles-adv/teleport-portal-particles": ""
         }
     }
 }

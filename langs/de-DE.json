@@ -1,6 +1,7 @@
 {
     "display_name_english": "german",
     "display_name_native": "Deutsch",
+    "fallback-lang": "en-AU.json",
     "alt-font-usage": "Forced",
     "contributors": [
         {
@@ -14,7 +15,6 @@
             "death-effect-id": 20
         }
     ],
-    "fallback-lang": "",
     "font": "lexend.fnt",
     "strings": {
         "categories": {
@@ -336,7 +336,7 @@
             "december-snow": "Dies ist die einzige Option die Schnee in meinen Leben bringt :/  leider geht sie nur im Dezember...",
             "syzzi.click_between_frames/soft-toggle": "die 'Click Between Frames'-Mod von <cc>syzzi</c> kann von hier aktiviert werden",
             "chest-unlock-bypass": "",
-            "suicide": "<cc>BLUUUTT BLUUT MUAHAHAHAHAAA</c> \n uwu ",
+            "suicide": "<cc>BLUUUTT BLUUT MUAHAHAHAHAAA</c>\nuwu",
             "stop-triggers-on-death": "stoppt alle Ausführungobjekte/Triggers, wenn man gestorben ist",
             "startpos-switcher": "",
             "startpos-switcher/use-percentage": "zeigt in Prozent wo deine Startpunkte sind",

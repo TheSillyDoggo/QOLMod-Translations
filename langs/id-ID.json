@@ -2,19 +2,19 @@
     "display_name_english": "Indonesian",
     "display_name_native": "Indonesia",
     "contributors": [
-    {
-        "username": "Nangka",
-        "account-id": 36908260,
-        "icon-id": 35,
-        "primary-col": 11,
-        "secondary-col": 12,
-        "glow-enabled": true,
-        "glow-col": 12,
-        "death-effect-id": 1
-    }
-],
-    "fallback-lang": "Bahasa cadangan",
-    "font": "fontpesan.fnt",
+        {
+            "username": "Nangka",
+            "account-id": 36908260,
+            "icon-id": 35,
+            "primary-col": 11,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 1
+        }
+    ],
+    "fallback-lang": "en-AU.json",
+    "font": "lexend.fnt",
     "strings": {
         "categories": {
             "level": "Level",
@@ -33,8 +33,7 @@
             "language": "Bahasa"
         },
         "input-hints": {
-            "seconds": "
-          Detik",
+            "seconds": "Detik",
             "semitones": "Semiton"
         },
         "ui": {
@@ -371,3 +370,6 @@
             "auto-practice/demons-only": "Hanya Mengaktifkan Mode Latihan Saat Anda Membuka Level Setan",
             "auto-coins": "Otomatis Mengkoleksi Koin Di Level",
             "verify-hack": "Memungkinkan Anda mengunggah level tanpa verifikasi."
+        }
+    }
+}
