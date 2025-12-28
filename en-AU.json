@@ -22,7 +22,8 @@
         },
         "input-hints": {
             "seconds": "sec",
-            "semitones": "semitones"
+            "semitones": "semitones",
+            "fps": "fps"
         },
         "ui": {
             "coming-soon": "Coming Soon",
@@ -33,7 +34,8 @@
             "change-font-button": "Change Font",
             "safe-mode-view-reason-button": "View Reason",
             "export-to-file-button": "Export to file",
-            "import-from-file-button": "Import from file"
+            "import-from-file-button": "Import from file",
+            "language-contributors-button": "View Contributors"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -53,6 +55,9 @@
         "edit-keybind-ui": {
             "title": "Edit Keybind",
             "no-keybind": "No Keybind"
+        },
+        "language-credits": {
+            "title": "Language Credits"
         },
         "font-select": {
             "title": "Select Font",
@@ -245,7 +250,9 @@
             "search/show-options": "Show options",
             "auto-song": "Auto Song Download",
             "pitch-shifter/music-only": "Music only",
-            "no-particles-adv/teleport-portal-particles": "Teleport Portal Objects"
+            "no-particles-adv/teleport-portal-particles": "Teleport Portal Objects",
+            "trail-cutting": "Trail Cutting",
+            "trail-cutting/fps": "Update FPS:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -413,7 +420,9 @@
             "search/show-options": "Shows mod options in the search results",
             "auto-song": "Automatically downloads songs when you open a level",
             "pitch-shifter/music-only": "Only changes the pitch of music",
-            "no-particles-adv/teleport-portal-particles": ""
+            "no-particles-adv/teleport-portal-particles": "",
+            "trail-cutting": "Change the fps that the trail updates at, similar to 2.1.\nRequires reopening level for settings to apply",
+            "trail-cutting/fps": ""
         }
     }
 }

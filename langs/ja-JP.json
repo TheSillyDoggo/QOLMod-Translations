@@ -1,7 +1,18 @@
 {
     "display_name_english": "Japanese",
     "display_name_native": "日本語",
-    "contributors": [],
+    "contributors": [
+        {
+            "username": "TheSillyDoggo",
+            "account-id": 16778880,
+            "icon-id": 98,
+            "primary-col": 41,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 1
+        }
+    ],
     "fallback-lang": "en-AU.json",
     "font": "kosugimaru.fnt",
     "strings": {
@@ -28,9 +39,10 @@
         "ui": {
             "coming-soon": "カミングスーン",
             "themes-edit-button": "色を変える",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "デフォルト",
-            "undo-button": "アンドゥ"
+            "undo-button": "アンドゥ",
+            "language-contributors-button": "コントリビューターを見る"
         },
         "labels": {
             

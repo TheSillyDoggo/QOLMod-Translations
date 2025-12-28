@@ -35,18 +35,20 @@
         },
         "input-hints": {
             "seconds": "giây",
-            "semitones": "semitones"
+            "semitones": "semitones",
+            "fps": "fps"
         },
         "ui": {
             "coming-soon": "Sắp ra mắt",
             "themes-edit-button": "Điều chỉnh màu",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "Bình thường",
             "undo-button": "Quay lại",
             "change-font-button": "Chỉnh phông chữ",
             "safe-mode-view-reason-button": "Xem lí do",
             "export-to-file-button": "Xuất ra thành tệp",
-            "import-from-file-button": "Nhập vào từ tệp"
+            "import-from-file-button": "Nhập vào từ tệp",
+            "language-contributors-button": "Xem những người hỗ trợ"
         },
         "colour-setup": {
             "title": "Chọn màu",
@@ -66,6 +68,9 @@
         "edit-keybind-ui": {
             "title": "Chỉnh nút tắt",
             "no-keybind": "Không nút tắt"
+        },
+        "language-credits": {
+            "title": "Những người dịch ngôn ngu6"
         },
         "font-select": {
             "title": "Chọn phông chữ",
@@ -256,7 +261,11 @@
             "full-options": "Cài Đặt đầy đủ",
             "search/show-options": "Hiện cài đặt",
             "auto-song": "Tự tải nhạc",
-            "pitch-shifter/music-only": "Chỉ nhạc"
+            "pitch-shifter/music-only": "Chỉ nhạc",
+            "no-particles-adv/teleport-portal-particles": "Các vật thể cổng dịch chuyển",
+            "trail-cutting": "Cắt dấu vết",
+            "trail-cutting/fps": "Cập Nhật FPS:",
+            "no-trail-blending": "Không pha trộn dấu vết"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -423,7 +432,10 @@
             "full-options": "Thay thế menu tùy chọn thu nhỏ trong menu tạm dừng bằng menu tùy chọn đầy đủ.",
             "search/show-options": "Hiển thị các tùy chọn mod trong kết quả tìm kiếm",
             "auto-song": "Tự động tải xuống bài hát khi bạn mở một màn chơi",
-            "pitch-shifter/music-only": "Chỉ thay đổi cao độ của âm nhạc."
+            "pitch-shifter/music-only": "Chỉ thay đổi cao độ của âm nhạc.",
+            "trail-cutting": "Thay đổi tốc độ khung hình (fps) mà vệt sáng cập nhật, tương tự như phiên bản 2.1.\nYêu cầu mở lại cấp độ để các thiết lập có hiệu lực.",
+            "trail-cutting/fps": "",
+            "no-particles-adv/teleport-portal-particles": ""
         }
     }
 }
