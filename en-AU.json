@@ -59,6 +59,14 @@
         "language-credits": {
             "title": "Language Credits"
         },
+        "speedhack": {
+            "speed-label": "Speed:",
+            "delete-hint": "Tap a preset to remove it",
+            "add-preset-exist": {
+                "title": "Speedhack Preset",
+                "text": "There's already a preset with the value <cc>%s</c>"
+            }
+        },
         "font-select": {
             "title": "Select Font",
             "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
