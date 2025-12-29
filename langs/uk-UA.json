@@ -14,7 +14,8 @@
         }
     ],
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "notosans.fnt",
+    "alt-font-usage": "Forced",
     "strings": {
         "categories": {
             "level": "Ріень",
@@ -39,7 +40,7 @@
         "ui": {
             "coming-soon": "Незабаром Вийде",
             "themes-edit-button": "Редагувати Кольори",
-            "ok-button": "ОК",
+            "ok-button": "<bm>OK",
             "default-button": "Зкинути",
             "undo-button": "Відмінити Дію",
             "change-font-button": "Змінити Шрифт",

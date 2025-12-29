@@ -35,7 +35,8 @@
         },
         "input-hints": {
             "seconds": "Sekunde",
-            "semitones": "Halbtöne"
+            "semitones": "Halbtöne",
+            "fps": "fps"
         },
         "ui": {
             "coming-soon": "demnächst kommend",
@@ -67,6 +68,9 @@
         "edit-keybind-ui": {
             "title": "ändere Tastenkombination",
             "no-keybind": "keine Tastenkombination"
+        },
+        "language-credits": {
+            "title": "Danksagung der Sprache"
         },
         "font-select": {
             "title": "Schrift auswählen",
@@ -258,7 +262,10 @@
             "full-options": "voller Optionsmenü",
             "search/show-options": "zeige Optionen",
             "auto-song": "automatisches Lied-Runterladen",
-            "pitch-shifter/music-only": "nur Musik"
+            "pitch-shifter/music-only": "nur Musik",
+            "no-particles-adv/teleport-portal-particles": "Teleportations-Portal Partikel",
+            "trail-cutting": "Pfadabschneidung",
+            "trail-cutting/fps": "aktualisiere FPS"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -427,7 +434,8 @@
             "auto-song": "lädt automatisch die Lieder des Levels, welches du geöffnet hast, herunter",
             "pitch-shifter/music-only": "ändert nur die Tonhöhe der Musik",
             "no-particles-adv/teleport-portal-particles": "",
-            "trail-cutting/fps": ""
+            "trail-cutting/fps": "",
+            "trail-cutting": "ändert die FPS, in der dein Pfad aktualisiert. Dadurch wird der Pfad, wie vor 2.2, von dem Spieler abgeschnitten.\n(du musst das Level nochmal öffnen um die Änderungen zu aktualisieren)"
         }
     }
 }

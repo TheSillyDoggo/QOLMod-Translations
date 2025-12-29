@@ -6,7 +6,7 @@
             "icon-id": 373,
             "primary-col": 11,
             "secondary-col": 12,
-            "glow-enabled": true,
+            "glow-enabled": false,
             "glow-col": 12,
             "death-effect-id": 3
         }

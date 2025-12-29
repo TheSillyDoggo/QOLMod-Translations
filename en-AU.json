@@ -23,7 +23,8 @@
         "input-hints": {
             "seconds": "sec",
             "semitones": "semitones",
-            "fps": "fps"
+            "fps": "fps",
+            "percentage": "%"
         },
         "ui": {
             "coming-soon": "Coming Soon",
@@ -35,7 +36,8 @@
             "safe-mode-view-reason-button": "View Reason",
             "export-to-file-button": "Export to file",
             "import-from-file-button": "Import from file",
-            "language-contributors-button": "View Contributors"
+            "language-contributors-button": "View Contributors",
+            "cancel-button": "Cancel"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -73,6 +75,10 @@
             "russian-supported": "This font supports the Cyrillic writing system (Russian)",
             "korean-supported": "This font supports the Hangul writing system (Korean)",
             "chinese-supported": "This font supports the Hanzi writing system (Chinese"
+        },
+        "create-custom-reward": {
+            "first-use-warning": "<cr>Warning</c>\nUsing this tool will permenently edit your save file, this may result in a leaderboard ban.\n<cl>Use at your own risk</c>",
+            "create-button": "Create"
         },
         "labels": {
             "cheat-indicator-label": "Cheat Indicator",
@@ -260,7 +266,18 @@
             "pitch-shifter/music-only": "Music only",
             "no-particles-adv/teleport-portal-particles": "Teleport Portal Objects",
             "trail-cutting": "Trail Cutting",
-            "trail-cutting/fps": "Update FPS:"
+            "trail-cutting/fps": "Update FPS:",
+            "create-custom-reward": "Create Custom Reward",
+            "noclip/player1": "Player 1",
+            "noclip/player2": "Player 2",
+            "noclip/player1/use-min-accuracy": "Minimum Accuracy",
+            "noclip/player2/use-min-accuracy": "Minimum Accuracy",
+            "noclip/player1/min-accuracy": "Min Accuracy:",
+            "noclip/player2/min-accuracy": "Min Accuracy:",
+            "noclip/player1/use-max-deaths": "Max Deaths",
+            "noclip/player2/use-max-deaths": "Max Deaths",
+            "noclip/player1/max-deaths": "Max Deaths:",
+            "noclip/player2/max-deaths": "Max Deaths:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -430,7 +447,14 @@
             "pitch-shifter/music-only": "Only changes the pitch of music",
             "no-particles-adv/teleport-portal-particles": "",
             "trail-cutting": "Change the fps that the trail updates at, similar to 2.1.\nRequires reopening level for settings to apply",
-            "trail-cutting/fps": ""
+            "trail-cutting/fps": "",
+            "create-custom-reward": "Creates a custom chest that gives you rewards of your choice",
+            "noclip/player1": "Disabling this allows player 1 to die with noclip on",
+            "noclip/player2": "Disabling this allows player 1 to die with noclip on",
+            "noclip/player1/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
+            "noclip/player2/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
+            "noclip/player1/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
+            "noclip/player2/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count"
         }
     }
 }
