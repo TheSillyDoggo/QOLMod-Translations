@@ -1,101 +1,101 @@
 {
-    "display_name_english": "English",
-    "display_name_native": "English",
+    "display_name_english": "Polish",
+    "display_name_native": "Polski",
     "fallback-lang": "",
     "font": "chatFont.fnt",
     "strings": {
         "categories": {
-            "level": "Level",
-            "universal": "Universal",
-            "creator": "Creator",
-            "cosmetic": "Cosmetic",
+            "level": "Poziom",
+            "universal": "Uniwersalne",
+            "creator": "Twórca",
+            "cosmetic": "Kosmetyczne",
             "speedhack": "Speedhack",
-            "icon effects": "Icon Effects",
-            "labels": "Labels",
-            "config": "Config",
-            "search": "Search",
-            "favourites": "Favourites",
+            "icon effects": "Efekty ikon",
+            "labels": "Etykiety",
+            "config": "Konfiguracja",
+            "search": "Wyszukiwanie",
+            "favourites": "Ulubione",
             "menu": "Menu",
-            "button": "Button",
-            "theme": "Theme",
-            "language": "Language"
+            "button": "Przycisk",
+            "theme": "Motyw",
+            "language": "Język"
         },
         "input-hints": {
-            "seconds": "sec",
-            "semitones": "semitones",
+            "seconds": "sek.",
+            "semitones": "semitony",
             "fps": "fps",
             "percentage": "%"
         },
         "ui": {
-            "coming-soon": "Coming Soon",
-            "themes-edit-button": "Edit Colours",
+            "coming-soon": "Już wkrótce",
+            "themes-edit-button": "Edytuj kolory",
             "ok-button": "OK",
-            "default-button": "Default",
-            "undo-button": "Undo",
-            "change-font-button": "Change Font",
-            "safe-mode-view-reason-button": "View Reason",
-            "export-to-file-button": "Export to file",
-            "import-from-file-button": "Import from file",
-            "language-contributors-button": "View Contributors",
-            "cancel-button": "Cancel"
+            "default-button": "Domyślny",
+            "undo-button": "Cofnij",
+            "change-font-button": "Zmień czcionke",
+            "safe-mode-view-reason-button": "Wyświetl powód",
+            "export-to-file-button": "Eksportuj do pliku",
+            "import-from-file-button": "Importuj z pliku",
+            "language-contributors-button": "Wyświetl kontrybutorów",
+            "cancel-button": "Anuluj"
         },
         "colour-setup": {
-            "title": "Select Colour",
-            "add-step": "Add Step",
-            "remove-step": "Remove Step",
-            "player-primary": "Player\nPrimary",
-            "player-secondary": "Player\nSecondary",
-            "player-glow": "Player\nGlow",
+            "title": "Wybierz kolor",
+            "add-step": "Dodaj krok",
+            "remove-step": "Usuń krok",
+            "player-primary": "Gracz\npierwszy",
+            "player-secondary": "Gracz\ndrugi",
+            "player-glow": "Obrys\ngracza",
             "chroma": "Chroma",
             "pastel": "Pastel",
             "gradient": "Gradient",
-            "colour-hint": "Colour:"
+            "colour-hint": "Kolor:"
         },
         "extra-theme-settings": {
-            "title": "Edit Gradient Colours"
+            "title": "Edytuj kolory gradientu"
         },
         "edit-keybind-ui": {
-            "title": "Edit Keybind",
-            "no-keybind": "No Keybind"
+            "title": "Edytuj keybind",
+            "no-keybind": "Brak keybindu"
         },
         "language-credits": {
-            "title": "Language Credits"
+            "title": "Kontrybutorzy języku" 
         },
         "speedhack": {
-            "speed-label": "Speed:",
-            "delete-hint": "Tap a preset to remove it",
+            "speed-label": "Prędkość:",
+            "delete-hint": "Kliknij na preset aby go usunąć",
             "add-preset-exist": {
-                "title": "Speedhack Preset",
-                "text": "There's already a preset with the value <cc>%s</c>"
+                "title": "Preset speedhacku",
+                "text": "Istnieje już preset z wartością <cc>%s</c>"
             }
         },
         "font-select": {
-            "title": "Select Font",
-            "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
-            "russian-supported": "This font supports the Cyrillic writing system (Russian)",
-            "korean-supported": "This font supports the Hangul writing system (Korean)",
-            "chinese-supported": "This font supports the Hanzi writing system (Chinese"
+            "title": "Wybierz czcionkę",
+            "japanese-supported": "Ta czcionka obsługuje Hiragana, Katakana oraz Kanji (Japoński)",
+            "russian-supported": "Ta czcionka obsługuje Cyryliczny system pisania (Rosyjski)",
+            "korean-supported": "Ta czcionka obsługuje system pisania Hangul (Koreański)",
+            "chinese-supported": "Ta czcionka obsługuje system pisania Hanzi (Chiński)"
         },
         "create-custom-reward": {
-            "first-use-warning": "<cr>Warning</c>\nUsing this tool will permenently edit your save file, this may result in a leaderboard ban.\n<cl>Use at your own risk</c>",
-            "create-button": "Create"
+            "first-use-warning": "<cr>Warning</c>\nUżywanie tego narzędzia nieodwracalnie modyfikuje twój zapis, co może spowodować ban na ranking.\n<cl>Używaj na własną odpowiedzialność.</c>",
+            "create-button": "Utwórz"
         },
         "labels": {
-            "cheat-indicator-label": "Cheat Indicator",
-            "noclip-only-label": "Noclip Only",
-            "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
+            "cheat-indicator-label": "Indykator cheatów",
+            "noclip-only-label": "Jedynie Noclip",
+            "none-added-hint": "Nie dodano żadnych etykiet.\nMożesz <cc>dodać</c> etykiety używając\n<cl>przycisków</c> po <cp>prawej</c> stronie."
         },
         "animation": {
-            "none": "None",
-            "from-top": "From Top",
-            "from-bottom": "From Bottom",
-            "from-left": "From Left",
-            "from-right": "From Right",
-            "scale-in": "Scale",
-            "fade-in": "Fade In",
+            "none": "Brak",
+            "from-top": "Od góry",
+            "from-bottom": "Od dołu",
+            "from-left": "Od lewej",
+            "from-right": "Od prawej",
+            "scale-in": "Skaluj",
+            "fade-in": "Zanikaj",
             "preview-error-none": {
-                "title": "Preview Animation",
-                "text": "There is no animation to preview."
+                "title": "Pokaż animacje",
+                "text": "Brak animacji do pokazania."
             }
         },
         "names": {
