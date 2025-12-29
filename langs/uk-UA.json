@@ -8,13 +8,14 @@
             "icon-id": 371,
             "primary-col": 4,
             "secondary-col": 14,
-            "glow-enabled": true,
+            "glow-enabled": false,
             "glow-col": 13,
             "death-effect-id": 10
         }
     ],
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "notosans.fnt",
+    "alt-font-usage": "Forced",
     "strings": {
         "categories": {
             "level": "Рівень",
@@ -39,7 +40,7 @@
         "ui": {
             "coming-soon": "Незабаром Вийде",
             "themes-edit-button": "Редагувати Кольори",
-            "ok-button": "ОК",
+            "ok-button": "<bm>ОК",
             "default-button": "Скинути",
             "undo-button": "Відмінити Дію",
             "change-font-button": "Змінити Шрифт",
