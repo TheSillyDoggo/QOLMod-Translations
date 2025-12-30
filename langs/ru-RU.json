@@ -15,6 +15,7 @@
     ],
     "fallback-lang": "en-AU.json",
     "font": "notosans.fnt",
+    "alt-font-usage": "Forced",
     "strings": {
         "categories": {
             "level": "Уровень",
@@ -39,7 +40,7 @@
         "ui": {
             "coming-soon": "Скоро",
             "themes-edit-button": "Изменить цвета",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "По умолчанию",
             "undo-button": "Откатить",
             "change-font-button": "Изменить шрифт",

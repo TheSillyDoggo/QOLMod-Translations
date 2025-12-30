@@ -44,6 +44,9 @@
             "undo-button": "アンドゥ",
             "language-contributors-button": "コントリビューターを見る"
         },
+        "language-credits": {
+            "title": "言語のコントリビュター"
+        },
         "labels": {
             
         },
