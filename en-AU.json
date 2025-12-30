@@ -277,7 +277,9 @@
             "noclip/player1/use-max-deaths": "Max Deaths",
             "noclip/player2/use-max-deaths": "Max Deaths",
             "noclip/player1/max-deaths": "Max Deaths:",
-            "noclip/player2/max-deaths": "Max Deaths:"
+            "noclip/player2/max-deaths": "Max Deaths:",
+            "show-hitboxes-on-death/death-object-only": "Death Object Only",
+            "show-hitboxes-on-death/trail": "Hitbox Trail"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -454,7 +456,9 @@
             "noclip/player1/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
             "noclip/player2/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
             "noclip/player1/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
-            "noclip/player2/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count"
+            "noclip/player2/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
+            "show-hitboxes-on-death/death-object-only": "Only shows the hitbox for the object you died to",
+            "show-hitboxes-on-death/trail": "Allows hitbox trail to work with show hitboxes on death"
         }
     }
 }
