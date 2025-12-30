@@ -452,7 +452,7 @@
             "trail-cutting/fps": "",
             "create-custom-reward": "Creates a custom chest that gives you rewards of your choice",
             "noclip/player1": "Disabling this allows player 1 to die with noclip on",
-            "noclip/player2": "Disabling this allows player 1 to die with noclip on",
+            "noclip/player2": "Disabling this allows player 2 to die with noclip on",
             "noclip/player1/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
             "noclip/player2/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
             "noclip/player1/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
