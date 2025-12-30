@@ -3,6 +3,18 @@
     "display_name_native": "Polski",
     "fallback-lang": "",
     "font": "chatFont.fnt",
+    "contributors": [
+    {
+        "username": "heresdavid",
+        "account-id": 35993468,
+        "icon-id": 376,
+        "primary-col": 12,
+        "secondary-col": 12,
+        "glow-enabled": true,
+        "glow-col": 12,
+        "death-effect-id": 3
+    }
+],
     "strings": {
         "categories": {
             "level": "Poziom",
