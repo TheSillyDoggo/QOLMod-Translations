@@ -34,7 +34,8 @@
         },
         "input-hints": {
             "seconds": "秒",
-            "semitones": "半音"
+            "semitones": "半音",
+            "percentage": "%"
         },
         "ui": {
             "coming-soon": "カミングスーン",
@@ -42,7 +43,8 @@
             "ok-button": "<bm>OK",
             "default-button": "デフォルト",
             "undo-button": "アンドゥ",
-            "language-contributors-button": "コントリビューターを見る"
+            "language-contributors-button": "コントリビューターを見る",
+            "import-from-file-button": "ファイルからインポート"
         },
         "language-credits": {
             "title": "言語のコントリビュター"

@@ -5,17 +5,17 @@
     "font": "lexend.fnt",
     "alt-font-usage": "Forced",
     "contributors": [
-    {
-        "username": "heresdavid",
-        "account-id": 35993468,
-        "icon-id": 376,
-        "primary-col": 12,
-        "secondary-col": 12,
-        "glow-enabled": true,
-        "glow-col": 12,
-        "death-effect-id": 3
-    }
-],
+        {
+            "username": "heresdavid",
+            "account-id": 35993468,
+            "icon-id": 376,
+            "primary-col": 12,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 3
+        }
+    ],
     "strings": {
         "categories": {
             "level": "Poziom",
@@ -97,6 +97,9 @@
             "cheat-indicator-label": "Indykator cheatów",
             "noclip-only-label": "Jedynie Noclip",
             "none-added-hint": "Nie dodano żadnych etykiet.\nMożesz <cc>dodać</c> etykiety używając\n<cl>przycisków</c> po <cp>prawej</c> stronie."
+        },
+        "search-tab": {
+            "placeholder": "Wyszukaj moda..."
         },
         "animation": {
             "none": "Brak",
@@ -461,7 +464,7 @@
             "auto-song": "Automatycznie pobiera piosenkę gdy otwierasz poziom",
             "pitch-shifter/music-only": "Tylko zmienia wysokość piosenki",
             "no-particles-adv/teleport-portal-particles": "",
-            "trail-cutting": "Zmienia fps w których odświeża się ślad, podobnie do 2.1.\nWymaga ponowne otwarcie poziomu żeby zapisać",
+            "trail-cutting": "Zmienia fps w których odświeża się ślad, podobnie do 2.1",
             "trail-cutting/fps": "",
             "create-custom-reward": "Tworzy własną skrzynie zawierająca własne nagrody",
             "noclip/player1": "Wyłączenie tego zezwoli na to, żeby gracz 1 mógł umrzeć",

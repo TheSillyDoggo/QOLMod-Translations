@@ -36,7 +36,8 @@
         "input-hints": {
             "seconds": "giây",
             "semitones": "semitones",
-            "fps": "fps"
+            "fps": "fps",
+            "percentage": "%"
         },
         "ui": {
             "coming-soon": "Sắp ra mắt",
@@ -265,7 +266,15 @@
             "no-particles-adv/teleport-portal-particles": "Các vật thể cổng dịch chuyển",
             "trail-cutting": "Cắt dấu vết",
             "trail-cutting/fps": "Cập Nhật FPS:",
-            "no-trail-blending": "Không pha trộn dấu vết"
+            "no-trail-blending": "Không pha trộn dấu vết",
+            "noclip/player1/min-accuracy": "Sự chính xác tối thiểu:",
+            "noclip/player2/min-accuracy": "Sự chính xác tối thiểu:",
+            "noclip/player1/use-max-deaths": "Số lần chết tối đa",
+            "noclip/player2/use-max-deaths": "Số lần chết tối đa",
+            "noclip/player1/max-deaths": "Số lần chết tối đa:",
+            "noclip/player2/max-deaths": "Số lần chết tối đa:",
+            "show-hitboxes-on-death/death-object-only": "Chỉ vật gây chết",
+            "show-hitboxes-on-death/trail": "Dấu vết Hitbox"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -433,9 +442,15 @@
             "search/show-options": "Hiển thị các tùy chọn mod trong kết quả tìm kiếm",
             "auto-song": "Tự động tải xuống bài hát khi bạn mở một màn chơi",
             "pitch-shifter/music-only": "Chỉ thay đổi cao độ của âm nhạc.",
-            "trail-cutting": "Thay đổi tốc độ khung hình (fps) mà vệt sáng cập nhật, tương tự như phiên bản 2.1.\nYêu cầu mở lại cấp độ để các thiết lập có hiệu lực.",
+            "trail-cutting": "Thay đổi tốc độ khung hình (fps) mà vệt sáng cập nhật, tương tự như phiên bản 2.1",
             "trail-cutting/fps": "",
-            "no-particles-adv/teleport-portal-particles": ""
+            "no-particles-adv/teleport-portal-particles": "",
+            "noclip/player1/use-min-accuracy": "Cho phép người chơi chết khi độ chính xác giảm xuống dưới tỷ lệ phần trăm được chỉ định.",
+            "noclip/player2/use-min-accuracy": "Cho phép người chơi chết khi độ chính xác giảm xuống dưới tỷ lệ phần trăm được chỉ định.",
+            "show-hitboxes-on-death/trail": "Cho phép hiệu ứng vệt va chạm hoạt động cùng với chức năng hiển thị va chạm khi chết.",
+            "create-custom-reward": "Tạo rương tùy chỉnh chứa phần thưởng theo lựa chọn của bạn.",
+            "noclip/player1": "Việc vô hiệu hóa tùy chọn này cho phép người chơi 1 chết ngay cả khi chế độ noclip đang bật.",
+            "noclip/player2": "Việc vô hiệu hóa tùy chọn này cho phép người chơi 2 chết ngay cả khi chế độ noclip đang bật."
         }
     }
 }
