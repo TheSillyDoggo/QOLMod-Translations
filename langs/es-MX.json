@@ -433,7 +433,7 @@
             "search/show-options": "Muestra algunos mods como opciones cuando buscas.",
             "auto-song": "Descarga la canción y los SFX's al momento de abrir un nivel.",
             "pitch-shifter/music-only": "Solo cambia el Pitch/tono de la música y no otros elementos de sonido.",
-            "trail-cutting": "Cambiar los fps que el camino se actualiza, similar a la 2.1.\nRequiere reabrir el nivel para que las opciones se apliquen.",
+            "trail-cutting": "Cambiar los fps que el camino se actualiza, similar a la 2.1",
             "no-particles-adv/teleport-portal-particles": "",
             "trail-cutting/fps": ""
         }
