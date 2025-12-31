@@ -2,7 +2,8 @@
     "display_name_english": "Polish",
     "display_name_native": "Polski",
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "lexend.fnt",
+    "alt-font-usage": "Forced",
     "contributors": [
     {
         "username": "heresdavid",
@@ -41,7 +42,7 @@
         "ui": {
             "coming-soon": "Już wkrótce",
             "themes-edit-button": "Edytuj kolory",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "Domyślny",
             "undo-button": "Cofnij",
             "change-font-button": "Zmień czcionke",

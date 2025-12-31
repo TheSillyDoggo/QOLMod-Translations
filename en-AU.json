@@ -85,6 +85,9 @@
             "noclip-only-label": "Noclip Only",
             "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
         },
+        "search-tab": {
+            "placeholder": "Search a mod..."
+        },
         "animation": {
             "none": "None",
             "from-top": "From Top",
