@@ -90,7 +90,8 @@
         },
         "setup-rotation": {
             "title": "Edit Rotation",
-            "input-placeholder": "Rotation"
+            "input-placeholder": "Rotation",
+            "input-title": "Rotation"
         },
         "animation": {
             "none": "None",
