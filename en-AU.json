@@ -85,6 +85,13 @@
             "noclip-only-label": "Noclip Only",
             "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
         },
+        "search-tab": {
+            "placeholder": "Search a mod..."
+        },
+        "setup-rotation": {
+            "title": "Edit Rotation",
+            "input-placeholder": "Rotation"
+        },
         "animation": {
             "none": "None",
             "from-top": "From Top",
@@ -277,7 +284,10 @@
             "noclip/player1/use-max-deaths": "Max Deaths",
             "noclip/player2/use-max-deaths": "Max Deaths",
             "noclip/player1/max-deaths": "Max Deaths:",
-            "noclip/player2/max-deaths": "Max Deaths:"
+            "noclip/player2/max-deaths": "Max Deaths:",
+            "show-hitboxes-on-death/death-object-only": "Death Object Only",
+            "show-hitboxes-on-death/trail": "Hitbox Trail",
+            "gradient-bg/rotation": "Direction:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -446,15 +456,17 @@
             "auto-song": "Automatically downloads songs when you open a level",
             "pitch-shifter/music-only": "Only changes the pitch of music",
             "no-particles-adv/teleport-portal-particles": "",
-            "trail-cutting": "Change the fps that the trail updates at, similar to 2.1.\nRequires reopening level for settings to apply",
+            "trail-cutting": "Change the fps that the trail updates at, similar to 2.1",
             "trail-cutting/fps": "",
             "create-custom-reward": "Creates a custom chest that gives you rewards of your choice",
             "noclip/player1": "Disabling this allows player 1 to die with noclip on",
-            "noclip/player2": "Disabling this allows player 1 to die with noclip on",
+            "noclip/player2": "Disabling this allows player 2 to die with noclip on",
             "noclip/player1/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
             "noclip/player2/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
             "noclip/player1/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
-            "noclip/player2/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count"
+            "noclip/player2/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
+            "show-hitboxes-on-death/death-object-only": "Only shows the hitbox for the object you died to",
+            "show-hitboxes-on-death/trail": "Allows hitbox trail to work with show hitboxes on death"
         }
     }
 }

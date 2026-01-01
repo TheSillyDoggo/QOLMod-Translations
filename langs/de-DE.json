@@ -435,7 +435,7 @@
             "pitch-shifter/music-only": "ändert nur die Tonhöhe der Musik",
             "no-particles-adv/teleport-portal-particles": "",
             "trail-cutting/fps": "",
-            "trail-cutting": "ändert die FPS, in der dein Pfad aktualisiert. Dadurch wird der Pfad, wie vor 2.2, von dem Spieler abgeschnitten.\n(du musst das Level nochmal öffnen um die Änderungen zu aktualisieren)"
+            "trail-cutting": "ändert die FPS, in der dein Pfad aktualisiert. Dadurch wird der Pfad, wie vor 2.2, von dem Spieler abgeschnitten"
         }
     }
 }

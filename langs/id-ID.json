@@ -11,6 +11,16 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 1
+        },
+        {
+            "username": "CatXus",
+            "account-id": 14467409,
+            "icon-id": 98,
+            "primary-col": 9,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 3,
+            "death-effect-id": 1
         }
     ],
     "fallback-lang": "en-AU.json",
@@ -34,7 +44,8 @@
         },
         "input-hints": {
             "seconds": "Detik",
-            "semitones": "Semiton"
+            "semitones": "Semiton",
+            "fps": "fps"
         },
         "ui": {
             "coming-soon": "Segera Datang",
@@ -45,7 +56,12 @@
             "change-font-button": "Ganti Font",
             "safe-mode-view-reason-button": "Liat Alasan",
             "export-to-file-button": "Expor Ke File",
-            "import-from-file-button": "Impor Dari File"
+            "import-from-file-button": "Impor Dari File",
+            "language-contributors-button": "Lihat Kontributor",
+            "cancel-button": "Batal"
+        },
+        "speedhack": {
+            "delete-hint": "Tekan Preset untuk menghapus"
         },
         "colour-setup": {
             "title": "Pilih Warna",
@@ -77,6 +93,12 @@
             "cheat-indicator-label": "Indikator Cheat",
             "noclip-only-label": "Hanya Noclip",
             "none-added-hint": "Tidak Ada Label Ditambahkan.\nKamu Bisa <cc>Menambahkan</c> label Dengan\n<cl>Tombol</c> Di Sebelah <cp>Kanan</c>."
+        },
+        "language-credits": {
+            "title": "Kredit Bahasa"
+        },
+        "create-custom-reward": {
+            "create-button": "Buat"
         },
         "animation": {
             "none": "Tidak Ada",
@@ -255,8 +277,13 @@
             "labels/hide-all-labels": "Sembunyikan Label",
             "full-options": "Full Pengaturan Menu",
             "search/show-options": "Lihat Pengaturan",
-            "auto-song": "Otomatis Download Lagu",
-            "pitch-shifter/music-only": "Hanya Musik"
+            "auto-song": "Auto Download Lagu",
+            "pitch-shifter/music-only": "Hanya Musik",
+            "noclip/player1/min-accuracy": "Akurasi Minimum:",
+            "noclip/player1/use-min-accuracy": "Akurasi Minimum:",
+            "noclip/player2/min-accuracy": "Akurasi Minimum:",
+            "noclip/player2/use-min-accuracy": "Akurasi Minimum:",
+            "show-hitboxes-on-death/trail": "Jejak Hitbox"
         },
         "descriptions": {
             "internal/open-menu": "Buka Menu",
@@ -369,7 +396,10 @@
             "auto-practice": "Secara otomatis mengaktifkan mode latihan saat Anda membuka level.",
             "auto-practice/demons-only": "Hanya Mengaktifkan Mode Latihan Saat Anda Membuka Level Setan",
             "auto-coins": "Otomatis Mengkoleksi Koin Di Level",
-            "verify-hack": "Memungkinkan Anda mengunggah level tanpa verifikasi."
+            "verify-hack": "Memungkinkan Anda mengunggah level tanpa verifikasi.",
+            "use-:3-button": "Ubah tombol \">_\" ke \":3\"",
+            "no-shaders": "Mematikan Shaders",
+            "labels/hide-all-labels": "Sembunyikan semua label"
         }
     }
 }
