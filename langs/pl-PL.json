@@ -103,7 +103,7 @@
         },
         "setup-rotation": {
             "title": "Edytuj obrót",
-            "input-placeholder": "Obrót"
+            "input-placeholder": "Obrót",
             "input-title": "Obrót"
         },
         "animation": {
@@ -301,7 +301,7 @@
             "noclip/player2/max-deaths": "Maksymalne śmierci:",
             "show-hitboxes-on-death/death-object-only": "Tylko obiekty niebezpieczne",
             "show-hitboxes-on-death/trail": "Ślad hitboxów",
-            "gradient-bg/rotation": "Kierunek:"
+            "gradient-bg/rotation": "Kierunek:",
             "search-on-keypress": "Wyszukuj przy zaczynaniu pisania"
         },
         "descriptions": {
