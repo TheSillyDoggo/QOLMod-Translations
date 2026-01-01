@@ -101,6 +101,10 @@
         "search-tab": {
             "placeholder": "Wyszukaj moda..."
         },
+        "setup-rotation": {
+            "title": "Edytuj obrót",
+            "input-placeholder": "Obrót"
+        },
         "animation": {
             "none": "Brak",
             "from-top": "Od góry",
@@ -295,7 +299,8 @@
             "noclip/player1/max-deaths": "Maksymalne śmierci:",
             "noclip/player2/max-deaths": "Maksymalne śmierci:",
             "show-hitboxes-on-death/death-object-only": "Tylko obiekty niebezpieczne",
-            "show-hitboxes-on-death/trail": "Ślad hitboxów"
+            "show-hitboxes-on-death/trail": "Ślad hitboxów",
+            "gradient-bg/rotation": "Kierunek:"
         },
         "descriptions": {
             "internal/open-menu": "",
