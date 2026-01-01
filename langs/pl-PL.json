@@ -302,6 +302,7 @@
             "show-hitboxes-on-death/death-object-only": "Tylko obiekty niebezpieczne",
             "show-hitboxes-on-death/trail": "Ślad hitboxów",
             "gradient-bg/rotation": "Kierunek:"
+            "search-on-keypress": "Wyszukuj przy zaczynaniu pisania"
         },
         "descriptions": {
             "internal/open-menu": "",
