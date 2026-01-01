@@ -104,6 +104,7 @@
         "setup-rotation": {
             "title": "Edytuj obrót",
             "input-placeholder": "Obrót"
+            "input-title": "Obrót"
         },
         "animation": {
             "none": "Brak",
