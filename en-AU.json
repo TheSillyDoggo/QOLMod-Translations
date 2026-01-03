@@ -93,6 +93,18 @@
             "input-placeholder": "Rotation",
             "input-title": "Rotation"
         },
+        "setup-shortcut": {
+            "title": "Edit Shortcut",
+            "in-menu": "In Menu",
+            "in-game": "In Game",
+            "in-game-pause": "In Pause",
+            "in-editor": "In Editor",
+            "in-editor-pause": "In Editor Pause",
+            "scale-title": "Scale",
+            "opacity-title": "Opacity",
+            "enabled-title": "Enabled",
+            "movable-title": "Movable"
+        },
         "animation": {
             "none": "None",
             "from-top": "From Top",
@@ -289,7 +301,8 @@
             "show-hitboxes-on-death/death-object-only": "Death Object Only",
             "show-hitboxes-on-death/trail": "Hitbox Trail",
             "gradient-bg/rotation": "Direction:",
-            "search-on-keypress": "Search on Keypress"
+            "search-on-keypress": "Search on Keypress",
+            "disable-shortcuts": "Disable Shortcuts"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -469,7 +482,8 @@
             "noclip/player2/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
             "show-hitboxes-on-death/death-object-only": "Only shows the hitbox for the object you died to",
             "show-hitboxes-on-death/trail": "Allows hitbox trail to work with show hitboxes on death",
-            "search-on-keypress": "Switches to the search tab when you press a keybind"
+            "search-on-keypress": "Switches to the search tab when you press a keybind",
+            "disable-shortcuts": "Disables the on-screen shortcuts"
         }
     }
 }
