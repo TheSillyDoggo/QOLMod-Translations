@@ -443,7 +443,7 @@
             "no-blink": "Disables the blinking when the player respawns",
             "no-rot": "Disables rotation on players",
             "plat-jump-anim": "Disables the squish animation when jumping in <cc>platformer mode</c>",
-            "no-orb-pulse": "Disables orb's from pulsing, Doesn't work on main levels made before 2.2",
+            "no-orb-pulse": "Disables orb's from pulsing",
             "no-lightning": "Disables the lightning when touching certain portals",
             "no-glow": "Disables object glow.\nRequires re-entering the level to apply",
             "no-death": "Disables the death effect on the player",
