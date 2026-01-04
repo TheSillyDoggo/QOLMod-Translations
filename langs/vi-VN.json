@@ -59,7 +59,8 @@
             "safe-mode-view-reason-button": "Xem lí do",
             "export-to-file-button": "Xuất ra thành tệp",
             "import-from-file-button": "Nhập vào từ tệp",
-            "language-contributors-button": "Xem những người hỗ trợ"
+            "language-contributors-button": "Xem những người hỗ trợ",
+            "cancel-button": "Từ chối"
         },
         "colour-setup": {
             "title": "Chọn màu",
@@ -94,6 +95,43 @@
             "cheat-indicator-label": "Báo gian lận",
             "noclip-only-label": "Chỉ cho Noclip",
             "none-added-hint": "Không có nhãn.\n Bạn có thể<cc>thêm</c> nhãn với các\n<cl>nút</c>  ở bên<cp>phải</c> "
+        },
+        "speedhack": {
+            "add-preset-exist": {
+                "text": "Đã có sẵn một thiết lập với giá trị đó <cc>%s</c>"
+            },
+            "delete-hint": "Bấm vào một giá trị để xoá nó",
+            "add-preset-exist/title": "Giá trị tốc độ",
+            "speed-label": "Tốc độ:"
+        },
+        "setup-shortcut": {
+            "title": "Chỉnh sửa lối tắt",
+            "in-menu": "Trong Menu",
+            "in-game-pause": "Tạm dừng",
+            "in-editor": "Trong Editor",
+            "in-editor-pause": "Trong Editor (màn hình tạm dừng)",
+            "in-game": "Trong Game",
+            "scale-title": "Kích thước",
+            "enabled-title": "Đã bật",
+            "movable-title": "Di động",
+            "opacity-title": "Độ mờ"
+        },
+        "create-custom-reward": {
+            "create-button": "Tạo",
+            "first-use-warning": "<cr>Cảnh báo</c>\nSử dụng công cụ này sẽ chỉnh sửa vĩnh viễn save file của bạn. Bạn sẽ có nguy cơ bị cấm leaderboard.\n<cl>Sử dụng với rủi ro của riêng bạn</c>"
+        },
+        "setup-rotation": {
+            "title": "Chỉnh sửa xoay",
+            "input-title": "Xoay",
+            "input-placeholder": "xoay"
+        },
+        "search-tab": {
+            "placeholder": "Tìm một mod nào đó..."
+        },
+        "select-item": {
+            "title-background": "Chọn nền cho lối tắt",
+            "title-generic": "Chọn item",
+            "title-icon": "Chọn biểu tượng lối tắt"
         },
         "animation": {
             "none": "Không có",
@@ -284,7 +322,18 @@
             "noclip/player1/max-deaths": "Số lần chết tối đa:",
             "noclip/player2/max-deaths": "Số lần chết tối đa:",
             "show-hitboxes-on-death/death-object-only": "Chỉ vật gây chết",
-            "show-hitboxes-on-death/trail": "Dấu vết Hitbox"
+            "show-hitboxes-on-death/trail": "Dấu vết Hitbox",
+            "noclip/player1": "Người chơi số 1",
+            "noclip/player2": "Người chơi số 2",
+            "noclip/player1/use-min-accuracy": "Độ chính xác tối thiểu",
+            "noclip/player2/use-min-accuracy": "Độ chính xác tối thiểu",
+            "gradient-bg/rotation": "Phương hướng:",
+            "shortcut/open-settings": "Mở menu cài đặt",
+            "shortcut/toggle-practice": "Bật/tắt Chế độ luyện tập",
+            "search-on-keypress": "Tìm kiếm trên keypress",
+            "shortcut/restart-attempt": "Khởi động lại các lần thử",
+            "create-custom-reward": "Tạo một phần thưởng tùy chỉnh",
+            "disable-shortcuts": "Vô hiệu hóa phím tắt"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -460,7 +509,15 @@
             "show-hitboxes-on-death/trail": "Cho phép hiệu ứng vệt va chạm hoạt động cùng với chức năng hiển thị va chạm khi chết.",
             "create-custom-reward": "Tạo rương tùy chỉnh chứa phần thưởng theo lựa chọn của bạn.",
             "noclip/player1": "Việc vô hiệu hóa tùy chọn này cho phép người chơi 1 chết ngay cả khi chế độ noclip đang bật.",
-            "noclip/player2": "Việc vô hiệu hóa tùy chọn này cho phép người chơi 2 chết ngay cả khi chế độ noclip đang bật."
+            "noclip/player2": "Việc vô hiệu hóa tùy chọn này cho phép người chơi 2 chết ngay cả khi chế độ noclip đang bật.",
+            "show-hitboxes-on-death/death-object-only": "Chỉ hiện hitbox từ vật thể người chơi đã chết",
+            "noclip/player2/use-max-deaths": "Làm cho người chơi chết khi số lần chết quá số lượng đã nhập",
+            "disable-shortcuts": "Vô hiệu hóa các phím tắt trên màn hình",
+            "search-on-keypress": "Duy chuyển sang tab tìm kiếm khí một phím đã được bấm",
+            "shortcut/open-settings": "Mở menu cài đặt",
+            "noclip/player1/use-max-deaths": "Cho phép người chơi chết khi số lần chết quá số lượng đã cho",
+            "shortcut/restart-attempt": "Khởi động lại lượt chơi hiện tại nếu bạn đang ở trong một level",
+            "shortcut/toggle-practice": "Bật/tắt chế độ luyện tập nếu bạn đang ở trong một level"
         }
     }
 }
