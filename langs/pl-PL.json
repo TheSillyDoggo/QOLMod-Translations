@@ -106,6 +106,23 @@
             "input-placeholder": "Obrót",
             "input-title": "Obrót"
         },
+        "setup-shortcut": {
+            "title": "Edytuj skróty",
+            "in-menu": "W menu",
+            "in-game": "W grze",
+            "in-game-pause": "W menu pauzy",
+            "in-editor": "W edytorze",
+            "in-editor-pause": "W menu pauzy edytora",
+            "scale-title": "Skaluj",
+            "opacity-title": "Przezroczystosc",
+            "enabled-title": "Włączony",
+            "movable-title": "Przesuwalny"
+        },
+        "select-item": {
+            "title-generic": "Wybierz obiekt",
+            "title-background": "Wybierz tło skrótu",
+            "title-icon": "Wybierz ikone skróu"
+        },
         "animation": {
             "none": "Brak",
             "from-top": "Od góry",
