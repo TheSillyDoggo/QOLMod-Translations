@@ -105,6 +105,11 @@
             "enabled-title": "Enabled",
             "movable-title": "Movable"
         },
+        "select-item": {
+            "title-generic": "Select Item",
+            "title-background": "Select Shortcut Background",
+            "title-icon": "Select Shortcut Icon"
+        },
         "animation": {
             "none": "None",
             "from-top": "From Top",
@@ -302,7 +307,10 @@
             "show-hitboxes-on-death/trail": "Hitbox Trail",
             "gradient-bg/rotation": "Direction:",
             "search-on-keypress": "Search on Keypress",
-            "disable-shortcuts": "Disable Shortcuts"
+            "disable-shortcuts": "Disable Shortcuts",
+            "shortcut/open-settings": "Open Settings",
+            "shortcut/restart-attempt": "Restart Attempt",
+            "shortcut/toggle-practice": "Toggle Practice Mode"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -483,7 +491,10 @@
             "show-hitboxes-on-death/death-object-only": "Only shows the hitbox for the object you died to",
             "show-hitboxes-on-death/trail": "Allows hitbox trail to work with show hitboxes on death",
             "search-on-keypress": "Switches to the search tab when you press a keybind",
-            "disable-shortcuts": "Disables the on-screen shortcuts"
+            "disable-shortcuts": "Disables the on-screen shortcuts",
+            "shortcut/open-settings": "Opens the settings menu",
+            "shortcut/restart-attempt": "Restarts the current attempt if you are in a level",
+            "shortcut/toggle-practice": "Toggles practice mode if you are in a level"
         }
     }
 }
