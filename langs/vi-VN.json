@@ -9,6 +9,16 @@
             "glow-enabled": false,
             "glow-col": 12,
             "death-effect-id": 3
+        },
+        {
+            "username": "Haturz1",
+            "account-id": 26441935,
+            "icon-id": 84,
+            "primary-col": 12,
+            "secondary-col": 11,
+            "glow-enabled": false,
+            "glow-col": 12,
+            "death-effect-id": 3
         }
     ],
     "display_name_english": "Vietnamese",
@@ -71,14 +81,14 @@
             "no-keybind": "Không nút tắt"
         },
         "language-credits": {
-            "title": "Những người dịch ngôn ngu6"
+            "title": "Những người dịch ngôn ngữ"
         },
         "font-select": {
             "title": "Chọn phông chữ",
-            "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
-            "russian-supported": "This font supports the Cyrillic writing system (Russian)",
-            "korean-supported": "This font supports the Hangul writing system (Korean)",
-            "chinese-supported": "This font supports the Hanzi writing system (Chinese"
+            "japanese-supported": "Phông chữ này hỗ trợ Hiragana, Katakana và Kanji (Tiếng Nhật)",
+            "russian-supported": "Phông chữ này hỗ trợ hệ thống chữ viết Cyrillic (Tiếng Nga)",
+            "korean-supported": "Phông chữ này hỗ trợ hệ thống chữ viết Hangul (Hàn Quốc)",
+            "chinese-supported": "Phông chữ này hỗ trợ hệ thống chữ viết Hanzi (Trung Quốc)"
         },
         "labels": {
             "cheat-indicator-label": "Báo gian lận",
@@ -86,7 +96,7 @@
             "none-added-hint": "Không có nhãn.\n Bạn có thể<cc>thêm</c> nhãn với các\n<cl>nút</c>  ở bên<cp>phải</c> "
         },
         "animation": {
-            "none": "Không",
+            "none": "Không có",
             "from-top": "Từ trên lên",
             "from-bottom": "Từ dưới lên",
             "from-left": "Từ trái sang",
@@ -136,7 +146,7 @@
             "no-particles-adv/speed-change-particles": "Hạt chỉnh tốc độ",
             "no-particles-adv/speed-portal-particles": "Hạt cổng tốc độ",
             "no-particles-adv/mirror-portal-particles": "Hạt cổng gương",
-            "no-particles-adv/size-portal-particles": "Hạt cổng độ lớn",
+            "no-particles-adv/size-portal-particles": " Kích thước hạt của cổng",
             "no-particles-adv/dual-portal-particles": "Hạt cổng 2 người chơi",
             "no-particles-adv/gamemode-portal-particles": "Hạt cổng các chế độ",
             "no-particles-adv/gravity-portal-particles": "Hạt cổng trọng lực",
@@ -176,7 +186,7 @@
             "december-snow": "Tuyết vào Tháng 12",
             "syzzi.click_between_frames/soft-toggle": "Nhấn giữa khung hình",
             "chest-unlock-bypass": "Bypass rương kho báu",
-            "suicide": "tutu",
+            "suicide": "Tự tử",
             "stop-triggers-on-death": "Dừng trigger lúc chết",
             "startpos-switcher": "Chuyển đổi Startpos",
             "startpos-switcher/use-percentage": "Dùng phần trăm",
@@ -209,7 +219,7 @@
             "coin-tracers/colour": "Màu:",
             "auto-practice": "Tự động vào chế độ luyện tập",
             "auto-practice/demons-only": "Chỉ cấp độ Demon",
-            "auto-coins": "Tự nhặt xu",
+            "auto-coins": "Tự động nhặt xu",
             "verify-hack": "Hack xác minh",
             "toolbox-buttons": " Bypass Các nút hộp công cụ",
             "smooth-editor-trail": "Dấu vết chế độ tạo mượt",
@@ -217,7 +227,7 @@
             "custom-star-rating": "Điều chỉnh đánh giá màn chơi",
             "copy-hack": "Hack sao chép",
             "wave-trail-size": "Kích thước dấu vết của Wave",
-            "wave-trail-size/thickness": "Độ lớn",
+            "wave-trail-size/thickness": "Độ dày",
             "unlock-buttons": "Mở khoá nút",
             "solid-wave": "Dấu vết Wave là chất rắn",
             "no-wave": "Không dấu vết Wave",
@@ -251,7 +261,7 @@
             "no-open-in-level": "Tắt mở trong màn chơi",
             "show-searchbox": "Ô tìm kiếm",
             "show-favourites": "Ô yêu thích",
-            "button-scale": "Độ lớn:",
+            "button-scale": "Kích thước:",
             "smooth-move": "Di chuyển mượt",
             "allow-dragging": "Cho phép Di chuyển",
             "hide-btn": "Ẩn nút",
@@ -353,8 +363,8 @@
             "december-snow": "Thêm hiệu ứng tuyết vào menu chính trong tháng 12..",
             "syzzi.click_between_frames/soft-toggle": "Bật/tắt tùy chọn \"CBF Enabled\" trong cài đặt mod cbf.",
             "chest-unlock-bypass": "Cho phép bạn mở bất kỳ rương nào trong <cc>phòng kho báu</c>",
-            "suicide": "Giết chết người chơi của bạn ngay lập tức",
-            "stop-triggers-on-death": "Stops triggers whenever you die",
+            "suicide": "Giết chết người chơi của bạn ngay lập tức ở một phần trăm nào đó",
+            "stop-triggers-on-death": "Dừng trigger lúc chết khi người chơi chết",
             "startpos-switcher": "Bạn có thể chuyển đổi giữa các vị trí bắt đầu trong màn chơi bất cứ lúc nào.",
             "startpos-switcher/use-percentage": "Hiển thị tỷ lệ phần trăm của từng vị trí xuất phát.",
             "startpos-switcher/hide-ui": "Ẩn giao diện người dùng và khiến nó không thể tương tác được.",

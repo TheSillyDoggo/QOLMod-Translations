@@ -70,7 +70,8 @@
             "blur-background": "背景をにじむ",
             "gradient-bg/start-colour": "上の色:",
             "gradient-bg/end-colour": "下の色:",
-            "seperate-colour-cheat-name/colour": "色:"
+            "seperate-colour-cheat-name/colour": "色:",
+            "labels/hide-all-labels": "すべてのラベルが非表示"
         }
     }
 }
