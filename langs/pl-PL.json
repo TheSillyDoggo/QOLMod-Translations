@@ -319,7 +319,11 @@
             "show-hitboxes-on-death/death-object-only": "Tylko obiekty niebezpieczne",
             "show-hitboxes-on-death/trail": "Ślad hitboxów",
             "gradient-bg/rotation": "Kierunek:",
-            "search-on-keypress": "Wyszukuj przy zaczynaniu pisania"
+            "search-on-keypress": "Wyszukuj przy zaczynaniu pisania",
+            "disable-shortcuts": "Wyłącz skróty",
+            "shortcut/open-settings": "Otwórz ustawienia",
+            "shortcut/restart-attempt": "Zrestartuj próbę",
+            "shortcut/toggle-practice": "Przełącz tryb Practice"
         },
         "descriptions": {
             "internal/open-menu": "",
