@@ -42,6 +42,12 @@ The Key (value on the left) is how the mod menu finds the text.
 You add the translated text **after** this text.
 **DO NOT MODIFY THE TEXT ON THE LEFT**
 
+### Useful Info
+
+You can use the tags `<bm>` and `<ttf>` to force bitmap font or ttf font usage.
+bitmap font is the normal font (like pusab).
+ttf is the custom font added for the language
+
 ### Crediting yourself
 There is a `contributors` array at the top of the file.
 This is for adding credits to yourself by linking your **gd profile**.

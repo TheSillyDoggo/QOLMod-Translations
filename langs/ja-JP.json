@@ -1,7 +1,18 @@
 {
     "display_name_english": "Japanese",
     "display_name_native": "日本語",
-    "contributors": [],
+    "contributors": [
+        {
+            "username": "TheSillyDoggo",
+            "account-id": 16778880,
+            "icon-id": 98,
+            "primary-col": 41,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 1
+        }
+    ],
     "fallback-lang": "en-AU.json",
     "font": "kosugimaru.fnt",
     "strings": {
@@ -23,14 +34,20 @@
         },
         "input-hints": {
             "seconds": "秒",
-            "semitones": "半音"
+            "semitones": "半音",
+            "percentage": "%"
         },
         "ui": {
             "coming-soon": "カミングスーン",
             "themes-edit-button": "色を変える",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "デフォルト",
-            "undo-button": "アンドゥ"
+            "undo-button": "アンドゥ",
+            "language-contributors-button": "コントリビューターを見る",
+            "import-from-file-button": "ファイルからインポート"
+        },
+        "language-credits": {
+            "title": "言語のコントリビュター"
         },
         "labels": {
             
@@ -53,7 +70,8 @@
             "blur-background": "背景をにじむ",
             "gradient-bg/start-colour": "上の色:",
             "gradient-bg/end-colour": "下の色:",
-            "seperate-colour-cheat-name/colour": "色:"
+            "seperate-colour-cheat-name/colour": "色:",
+            "labels/hide-all-labels": "すべてのラベルが非表示"
         }
     }
 }

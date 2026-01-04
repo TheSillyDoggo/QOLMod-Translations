@@ -22,7 +22,9 @@
         },
         "input-hints": {
             "seconds": "sec",
-            "semitones": "semitones"
+            "semitones": "semitones",
+            "fps": "fps",
+            "percentage": "%"
         },
         "ui": {
             "coming-soon": "Coming Soon",
@@ -33,7 +35,9 @@
             "change-font-button": "Change Font",
             "safe-mode-view-reason-button": "View Reason",
             "export-to-file-button": "Export to file",
-            "import-from-file-button": "Import from file"
+            "import-from-file-button": "Import from file",
+            "language-contributors-button": "View Contributors",
+            "cancel-button": "Cancel"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -54,6 +58,17 @@
             "title": "Edit Keybind",
             "no-keybind": "No Keybind"
         },
+        "language-credits": {
+            "title": "Language Credits"
+        },
+        "speedhack": {
+            "speed-label": "Speed:",
+            "delete-hint": "Tap a preset to remove it",
+            "add-preset-exist": {
+                "title": "Speedhack Preset",
+                "text": "There's already a preset with the value <cc>%s</c>"
+            }
+        },
         "font-select": {
             "title": "Select Font",
             "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
@@ -61,10 +76,39 @@
             "korean-supported": "This font supports the Hangul writing system (Korean)",
             "chinese-supported": "This font supports the Hanzi writing system (Chinese"
         },
+        "create-custom-reward": {
+            "first-use-warning": "<cr>Warning</c>\nUsing this tool will permenently edit your save file, this may result in a leaderboard ban.\n<cl>Use at your own risk</c>",
+            "create-button": "Create"
+        },
         "labels": {
             "cheat-indicator-label": "Cheat Indicator",
             "noclip-only-label": "Noclip Only",
             "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
+        },
+        "search-tab": {
+            "placeholder": "Search a mod..."
+        },
+        "setup-rotation": {
+            "title": "Edit Rotation",
+            "input-placeholder": "Rotation",
+            "input-title": "Rotation"
+        },
+        "setup-shortcut": {
+            "title": "Edit Shortcut",
+            "in-menu": "In Menu",
+            "in-game": "In Game",
+            "in-game-pause": "In Pause",
+            "in-editor": "In Editor",
+            "in-editor-pause": "In Editor Pause",
+            "scale-title": "Scale",
+            "opacity-title": "Opacity",
+            "enabled-title": "Enabled",
+            "movable-title": "Movable"
+        },
+        "select-item": {
+            "title-generic": "Select Item",
+            "title-background": "Select Shortcut Background",
+            "title-icon": "Select Shortcut Icon"
         },
         "animation": {
             "none": "None",
@@ -244,7 +288,29 @@
             "full-options": "Full Options Menu",
             "search/show-options": "Show options",
             "auto-song": "Auto Song Download",
-            "pitch-shifter/music-only": "Music only"
+            "pitch-shifter/music-only": "Music only",
+            "no-particles-adv/teleport-portal-particles": "Teleport Portal Objects",
+            "trail-cutting": "Trail Cutting",
+            "trail-cutting/fps": "Update FPS:",
+            "create-custom-reward": "Create Custom Reward",
+            "noclip/player1": "Player 1",
+            "noclip/player2": "Player 2",
+            "noclip/player1/use-min-accuracy": "Minimum Accuracy",
+            "noclip/player2/use-min-accuracy": "Minimum Accuracy",
+            "noclip/player1/min-accuracy": "Min Accuracy:",
+            "noclip/player2/min-accuracy": "Min Accuracy:",
+            "noclip/player1/use-max-deaths": "Max Deaths",
+            "noclip/player2/use-max-deaths": "Max Deaths",
+            "noclip/player1/max-deaths": "Max Deaths:",
+            "noclip/player2/max-deaths": "Max Deaths:",
+            "show-hitboxes-on-death/death-object-only": "Death Object Only",
+            "show-hitboxes-on-death/trail": "Hitbox Trail",
+            "gradient-bg/rotation": "Direction:",
+            "search-on-keypress": "Search on Keypress",
+            "disable-shortcuts": "Disable Shortcuts",
+            "shortcut/open-settings": "Open Settings",
+            "shortcut/restart-attempt": "Restart Attempt",
+            "shortcut/toggle-practice": "Toggle Practice Mode"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -377,7 +443,7 @@
             "no-blink": "Disables the blinking when the player respawns",
             "no-rot": "Disables rotation on players",
             "plat-jump-anim": "Disables the squish animation when jumping in <cc>platformer mode</c>",
-            "no-orb-pulse": "Disables orb's from pulsing, Doesn't work on main levels made before 2.2",
+            "no-orb-pulse": "Disables orb's from pulsing",
             "no-lightning": "Disables the lightning when touching certain portals",
             "no-glow": "Disables object glow.\nRequires re-entering the level to apply",
             "no-death": "Disables the death effect on the player",
@@ -411,7 +477,24 @@
             "full-options": "Replaces the mini options menu in the pause menu with the full options menu",
             "search/show-options": "Shows mod options in the search results",
             "auto-song": "Automatically downloads songs when you open a level",
-            "pitch-shifter/music-only": "Only changes the pitch of music"
+            "pitch-shifter/music-only": "Only changes the pitch of music",
+            "no-particles-adv/teleport-portal-particles": "",
+            "trail-cutting": "Change the fps that the trail updates at, similar to 2.1",
+            "trail-cutting/fps": "",
+            "create-custom-reward": "Creates a custom chest that gives you rewards of your choice",
+            "noclip/player1": "Disabling this allows player 1 to die with noclip on",
+            "noclip/player2": "Disabling this allows player 2 to die with noclip on",
+            "noclip/player1/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
+            "noclip/player2/use-min-accuracy": "Allows the player to die when their accuracy drops below the specified percentage",
+            "noclip/player1/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
+            "noclip/player2/use-max-deaths": "Allows the player to die when their noclip death count goes above the specified count",
+            "show-hitboxes-on-death/death-object-only": "Only shows the hitbox for the object you died to",
+            "show-hitboxes-on-death/trail": "Allows hitbox trail to work with show hitboxes on death",
+            "search-on-keypress": "Switches to the search tab when you press a keybind",
+            "disable-shortcuts": "Disables the on-screen shortcuts",
+            "shortcut/open-settings": "Opens the settings menu",
+            "shortcut/restart-attempt": "Restarts the current attempt if you are in a level",
+            "shortcut/toggle-practice": "Toggles practice mode if you are in a level"
         }
     }
 }
