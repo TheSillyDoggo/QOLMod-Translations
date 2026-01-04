@@ -503,7 +503,11 @@
             "noclip/player2/use-max-deaths": "Zezwala graczowi umrzeć gdy ich ilość śmierci w trybie noclip przejdzie wybraną wartość",
             "show-hitboxes-on-death/death-object-only": "Tylko pokazuje hitbox obiektu przez który gracz umarł",
             "show-hitboxes-on-death/trail": "Zezwala na to żeby slad gracza się pokazywał przy śmierci",
-            "search-on-keypress": "Przełącz do pasku wyszukiwania przy naciśnięciu klawisza"
+            "search-on-keypress": "Przełącz do pasku wyszukiwania przy naciśnięciu klawisza",
+            "disable-shortcuts": "Wyłącza skróty na ekranie",
+            "shortcut/open-settings": "Otwiera menu ustawień",
+            "shortcut/restart-attempt": "Restartuje próbe na której teraz jesteś",
+            "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie"
         }
     }
 }
