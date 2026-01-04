@@ -49,7 +49,7 @@
             "safe-mode-view-reason-button": "Wyświetl powód",
             "export-to-file-button": "Eksportuj do pliku",
             "import-from-file-button": "Importuj z pliku",
-            "language-contributors-button": "Wyświetl kontrybutorów",
+            "language-contributors-button": "Wyświetl autorów tlumaczenia",
             "cancel-button": "Anuluj"
         },
         "colour-setup": {
@@ -72,7 +72,7 @@
             "no-keybind": "Brak keybindu"
         },
         "language-credits": {
-            "title": "Kontrybutorzy języku" 
+            "title": "Autorzy tlumaczenia" 
         },
         "speedhack": {
             "speed-label": "Prędkość:",
