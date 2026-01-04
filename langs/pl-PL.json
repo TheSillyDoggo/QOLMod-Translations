@@ -103,7 +103,25 @@
         },
         "setup-rotation": {
             "title": "Edytuj obrót",
-            "input-placeholder": "Obrót"
+            "input-placeholder": "Obrót",
+            "input-title": "Obrót"
+        },
+        "setup-shortcut": {
+            "title": "Edytuj skróty",
+            "in-menu": "W menu",
+            "in-game": "W grze",
+            "in-game-pause": "W menu pauzy",
+            "in-editor": "W edytorze",
+            "in-editor-pause": "W menu pauzy edytora",
+            "scale-title": "Skaluj",
+            "opacity-title": "Przezroczystosc",
+            "enabled-title": "Włączony",
+            "movable-title": "Przesuwalny"
+        },
+        "select-item": {
+            "title-generic": "Wybierz obiekt",
+            "title-background": "Wybierz tło skrótu",
+            "title-icon": "Wybierz ikone skróu"
         },
         "animation": {
             "none": "Brak",
@@ -300,7 +318,12 @@
             "noclip/player2/max-deaths": "Maksymalne śmierci:",
             "show-hitboxes-on-death/death-object-only": "Tylko obiekty niebezpieczne",
             "show-hitboxes-on-death/trail": "Ślad hitboxów",
-            "gradient-bg/rotation": "Kierunek:"
+            "gradient-bg/rotation": "Kierunek:",
+            "search-on-keypress": "Wyszukuj przy zaczynaniu pisania",
+            "disable-shortcuts": "Wyłącz skróty",
+            "shortcut/open-settings": "Otwórz ustawienia",
+            "shortcut/restart-attempt": "Zrestartuj próbę",
+            "shortcut/toggle-practice": "Przełącz tryb Practice"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -479,7 +502,12 @@
             "noclip/player1/use-max-deaths": "Zezwala graczowi umrzeć gdy ich ilość śmierci w trybie noclip przejdzie wybraną wartość",
             "noclip/player2/use-max-deaths": "Zezwala graczowi umrzeć gdy ich ilość śmierci w trybie noclip przejdzie wybraną wartość",
             "show-hitboxes-on-death/death-object-only": "Tylko pokazuje hitbox obiektu przez który gracz umarł",
-            "show-hitboxes-on-death/trail": "Zezwala na to żeby slad gracza się pokazywał przy śmierci"
+            "show-hitboxes-on-death/trail": "Zezwala na to żeby slad gracza się pokazywał przy śmierci",
+            "search-on-keypress": "Przełącz do pasku wyszukiwania przy naciśnięciu klawisza",
+            "disable-shortcuts": "Wyłącza skróty na ekranie",
+            "shortcut/open-settings": "Otwiera menu ustawień",
+            "shortcut/restart-attempt": "Restartuje próbe na której teraz jesteś",
+            "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie"
         }
     }
 }
