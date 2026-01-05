@@ -24,7 +24,8 @@
             "seconds": "sec",
             "semitones": "semitones",
             "fps": "fps",
-            "percentage": "%"
+            "percentage": "%",
+            "tps": "tps"
         },
         "ui": {
             "coming-soon": "Coming Soon",
@@ -310,7 +311,10 @@
             "disable-shortcuts": "Disable Shortcuts",
             "shortcut/open-settings": "Open Settings",
             "shortcut/restart-attempt": "Restart Attempt",
-            "shortcut/toggle-practice": "Toggle Practice Mode"
+            "shortcut/toggle-practice": "Toggle Practice Mode",
+            "safe-mode/end-screen-cheat-indicator": "End Screen Cheat Indicator",
+            "tps-bypass": "TPS Bypass",
+            "tps-bypass/value": "TPS:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -494,7 +498,9 @@
             "disable-shortcuts": "Disables the on-screen shortcuts",
             "shortcut/open-settings": "Opens the settings menu",
             "shortcut/restart-attempt": "Restarts the current attempt if you are in a level",
-            "shortcut/toggle-practice": "Toggles practice mode if you are in a level"
+            "shortcut/toggle-practice": "Toggles practice mode if you are in a level",
+            "safe-mode/end-screen-cheat-indicator": "Shows a cheat indicator on the end screen",
+            "tps-bypass": "Allows your physics to update at a different \"frame rate\" than the default 240"
         }
     }
 }
