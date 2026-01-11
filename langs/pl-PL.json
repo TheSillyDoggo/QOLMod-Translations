@@ -37,7 +37,8 @@
             "seconds": "sek.",
             "semitones": "semitony",
             "fps": "fps",
-            "percentage": "%"
+            "percentage": "%",
+            "tps": "tps"
         },
         "ui": {
             "coming-soon": "Już wkrótce",
@@ -323,7 +324,10 @@
             "disable-shortcuts": "Wyłącz skróty",
             "shortcut/open-settings": "Otwórz ustawienia",
             "shortcut/restart-attempt": "Zrestartuj próbę",
-            "shortcut/toggle-practice": "Przełącz tryb Practice"
+            "shortcut/toggle-practice": "Przełącz tryb Practice",
+            "safe-mode/end-screen-cheat-indicator": "Indykator cheatów na ekranie końcowym",
+            "tps-bypass": "Bypass TPS",
+            "tps-bypass/value": "TPS:"
         },
         "descriptions": {
             "internal/open-menu": "",
