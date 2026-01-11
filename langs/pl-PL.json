@@ -511,7 +511,9 @@
             "disable-shortcuts": "Wyłącza skróty na ekranie",
             "shortcut/open-settings": "Otwiera menu ustawień",
             "shortcut/restart-attempt": "Restartuje próbe na której teraz jesteś",
-            "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie"
+            "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie",
+            "safe-mode/end-screen-cheat-indicator": "Pokaż indykator cheatow po pobiciu poziomu",
+            "tps-bypass": "Zezwala na to, żeby fizyka była aktualizowana w innej ilości\"klatek na sekunde\" niż domyślne 240."
         }
     }
 }
