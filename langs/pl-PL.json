@@ -8,12 +8,12 @@
         {
             "username": "heresdavid",
             "account-id": 35993468,
-            "icon-id": 376,
+            "icon-id": 35,
             "primary-col": 12,
-            "secondary-col": 12,
+            "secondary-col": 1,
             "glow-enabled": true,
-            "glow-col": 12,
-            "death-effect-id": 3
+            "glow-col": 1,
+            "death-effect-id": 12
         }
     ],
     "strings": {
