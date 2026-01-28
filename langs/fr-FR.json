@@ -14,7 +14,8 @@
             "death-effect-id": 1
         }
     ],
-    "font": "chatFont.fnt",
+    "font": "lexend.fnt",
+    "alt-font-usage": "Forced",
     "strings": {
         "categories": {
             "level": "Jeu",
