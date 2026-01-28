@@ -38,7 +38,12 @@
             "export-to-file-button": "Export to file",
             "import-from-file-button": "Import from file",
             "language-contributors-button": "View Contributors",
-            "cancel-button": "Cancel"
+            "cancel-button": "Cancel",
+            "notification-mod-enabled": "%s enabled",
+            "notification-mod-disabled": "%s disabled",
+            "notification-button-pressed": "%s activated",
+            "notification-speedhack-set": "Speedhack set to %s",
+            "notification-test": "This is a test notification :3"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -314,7 +319,14 @@
             "shortcut/toggle-practice": "Toggle Practice Mode",
             "safe-mode/end-screen-cheat-indicator": "End Screen Cheat Indicator",
             "tps-bypass": "TPS Bypass",
-            "tps-bypass/value": "TPS:"
+            "tps-bypass/value": "TPS:",
+            "hitbox-trail/darken-by-age": "Darken by age",
+            "notifications": "Notifications",
+            "notifications/test": "Send Test Notification",
+            "notifications/duration": "Duration",
+            "notifications/right": "Right side",
+            "notifications/blur": "Blur Background",
+            "high-fps-rotation": "High FPS Rotation"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -500,7 +512,13 @@
             "shortcut/restart-attempt": "Restarts the current attempt if you are in a level",
             "shortcut/toggle-practice": "Toggles practice mode if you are in a level",
             "safe-mode/end-screen-cheat-indicator": "Shows a cheat indicator on the end screen",
-            "tps-bypass": "Allows your physics to update at a different \"frame rate\" than the default 240"
+            "tps-bypass": "Allows your physics to update at a different \"frame rate\" than the default 240",
+            "hitbox-trail/darken-by-age": "Makes the trail become darker the older it is",
+            "notifications": "Displays a notification whenever you toggle a mod via a keybind or shortcut",
+            "notifications/test": "Sends a test notification",
+            "notifications/right": "Displays the notifications on the right side of the screen",
+            "notifications/blur": "Blurs the background behind the notifications.\nRequires the mod <cc>Blur API</c>",
+            "high-fps-rotation": "Makes the ship rotate like it does when your fps is over 1000"
         }
     }
 }

@@ -419,7 +419,7 @@
             "instant-restart": "Recommence le niveau instantanément à chaque mort",
             "pause-quests": "Ajoute un bouton pour ouvrir les quêtes directement dans le menu de pause",
             "practice-complete": "Permet de valider la complétion un niveau s'il est fini en Mode Practice en <cr>une</c> tentative",
-            "no-reverse": "Désactive les Portails Miroir"
+            "no-reverse": "Désactive les Portails Miroir",
             "jump-hack": "Permet de pouvoir sauter indéfiniment",
             "instant-reverse": "Rend la transition dans un Portail Miroir instantanée",
             "instant": "Valide la complétion d'un niveau instantanément.",
