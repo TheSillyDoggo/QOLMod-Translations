@@ -65,7 +65,11 @@
             "no-keybind": "No Keybind"
         },
         "language-credits": {
-            "title": "Language Credits"
+            "title": "Language Credits",
+            "warning": {
+                "title": "Note",
+                "text": "Language contributors are <cr>NOT</c> <co>QOLMod</c> developers, they <cr>cannot</c> add features or fix bugs.\nPlease <cr>do not</c> message language contributors for bug fixes"
+            }
         },
         "speedhack": {
             "speed-label": "Speed:",

@@ -43,7 +43,7 @@
         "ui": {
             "coming-soon": "A venir",
             "themes-edit-button": "Modifier les Couleurs",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "Défaut",
             "undo-button": "Annuler",
             "change-font-button": "Modifier la Police",
