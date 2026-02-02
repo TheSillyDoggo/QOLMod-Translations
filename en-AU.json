@@ -330,7 +330,16 @@
             "notifications/duration": "Duration",
             "notifications/right": "Right side",
             "notifications/blur": "Blur Background",
-            "high-fps-rotation": "High FPS Rotation"
+            "high-fps-rotation": "High FPS Rotation",
+            "no-rot/cube": "Cube",
+            "no-rot/ship": "Ship",
+            "no-rot/jetpack": "Jetpack",
+            "no-rot/ball": "Ball",
+            "no-rot/ufo": "Ufo",
+            "no-rot/wave": "Wave",
+            "no-rot/robot": "Robot",
+            "no-rot/spider": "Spider",
+            "no-rot/swing": "Swing"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -522,7 +531,16 @@
             "notifications/test": "Sends a test notification",
             "notifications/right": "Displays the notifications on the right side of the screen",
             "notifications/blur": "Blurs the background behind the notifications.\nRequires the mod <cc>Blur API</c>",
-            "high-fps-rotation": "Makes the ship rotate like it does when your fps is over 1000"
+            "high-fps-rotation": "Makes the ship rotate like it does when your fps is over 1000",
+            "no-rot/cube": "Disables rotation in the Cube gamemode",
+            "no-rot/ship": "Disables rotation in the Ship gamemode",
+            "no-rot/jetpack": "Disables rotation in the Jetpack gamemode",
+            "no-rot/ball": "Disables rotation in the Ball gamemode",
+            "no-rot/ufo": "Disables rotation in the Ufo gamemode",
+            "no-rot/wave": "Disables rotation in the Wave gamemode",
+            "no-rot/robot": "Disables rotation in the Robot gamemode",
+            "no-rot/spider": "Disables rotation in the Spider gamemode",
+            "no-rot/swing": "Disables rotation in the Swing gamemode"
         }
     }
 }
