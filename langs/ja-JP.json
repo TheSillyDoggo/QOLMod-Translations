@@ -14,7 +14,7 @@
         }
     ],
     "fallback-lang": "en-AU.json",
-    "font": "chirongo.fnt",
+    "font": "kosugimaru.fnt",
     "strings": {
         "categories": {
             "level": "レベル",

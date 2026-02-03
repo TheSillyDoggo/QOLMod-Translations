@@ -55,7 +55,8 @@
             "chroma": "Chroma",
             "pastel": "Pastel",
             "gradient": "Gradient",
-            "colour-hint": "Colour:"
+            "colour-hint": "Colour:",
+            "effect-speed": "Effect Speed"
         },
         "extra-theme-settings": {
             "title": "Edit Gradient Colours"
