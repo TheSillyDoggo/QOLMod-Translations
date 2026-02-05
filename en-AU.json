@@ -341,7 +341,12 @@
             "no-rot/robot": "Robot",
             "no-rot/spider": "Spider",
             "no-rot/swing": "Swing",
-            "no-invisible-objects": "No Fade Objects"
+            "no-invisible-objects": "No Fade Objects",
+            "hitbox-trail/click-colours": "Colour clicks",
+            "hitbox-trail/start-click-colour": "Click Colour",
+            "hitbox-trail/end-click-colour": "Release Colour",
+            "hitbox-trail/hold-click-colours": "Colour when held",
+            "hitbox-trail/hold-click-colour": "Hold Colour"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -543,7 +548,9 @@
             "no-rot/robot": "Disables rotation in the Robot gamemode",
             "no-rot/spider": "Disables rotation in the Spider gamemode",
             "no-rot/swing": "Disables rotation in the Swing gamemode",
-            "no-invisible-objects": "Makes fading objects show at max opacity"
+            "no-invisible-objects": "Makes fading objects show at max opacity",
+            "hitbox-trail/click-colours": "Changes the colour of the hitbox trail for the frame you click on",
+            "hitbox-trail/hold-click-colours": "Colours the hitbox trail when a click is held"
         }
     }
 }
