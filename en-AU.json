@@ -346,7 +346,8 @@
             "hitbox-trail/start-click-colour": "Click Colour",
             "hitbox-trail/end-click-colour": "Release Colour",
             "hitbox-trail/hold-click-colours": "Colour when held",
-            "hitbox-trail/hold-click-colour": "Hold Colour"
+            "hitbox-trail/hold-click-colour": "Hold Colour",
+            "main-level-bypass": "Main Level Bypass"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -550,7 +551,8 @@
             "no-rot/swing": "Disables rotation in the Swing gamemode",
             "no-invisible-objects": "Makes fading objects show at max opacity",
             "hitbox-trail/click-colours": "Changes the colour of the hitbox trail for the frame you click on",
-            "hitbox-trail/hold-click-colours": "Colours the hitbox trail when a click is held"
+            "hitbox-trail/hold-click-colours": "Colours the hitbox trail when a click is held",
+            "main-level-bypass": "Allows you to play all the demon main levels"
         }
     }
 }
