@@ -18,7 +18,8 @@
             "menu": "Menu",
             "button": "Button",
             "theme": "Theme",
-            "language": "Language"
+            "language": "Language",
+            "shortcuts": "Shortcuts"
         },
         "input-hints": {
             "seconds": "sec",
@@ -559,7 +560,8 @@
             "no-invisible-objects": "Makes fading objects show at max opacity",
             "hitbox-trail/click-colours": "Changes the colour of the hitbox trail for the frame you click on",
             "hitbox-trail/hold-click-colours": "Colours the hitbox trail when a click is held",
-            "main-level-bypass": "Allows you to play all the demon main levels"
+            "main-level-bypass": "Allows you to play all the demon main levels",
+            "shortcut/uncomplete-level": "Removes all progress and completion status of a level"
         }
     }
 }
