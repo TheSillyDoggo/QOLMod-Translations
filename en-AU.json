@@ -39,11 +39,13 @@
             "import-from-file-button": "Import from file",
             "language-contributors-button": "View Contributors",
             "cancel-button": "Cancel",
+            "confirm-button": "Confirm",
             "notification-mod-enabled": "%s enabled",
             "notification-mod-disabled": "%s disabled",
             "notification-button-pressed": "%s activated",
             "notification-speedhack-set": "Speedhack set to %s",
-            "notification-test": "This is a test notification :3"
+            "notification-test": "This is a test notification :3",
+            "title-error": "Error"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -133,6 +135,10 @@
                 "title": "Preview Animation",
                 "text": "There is no animation to preview."
             }
+        },
+        "uncomplete-level": {
+            "no-level-found": "No <cc>level</c> found, try opening a <cc>level</c> page.",
+            "found-confirmation": "Are you sure you want to uncomplete <cc>%s</c>.\nThis <cr>cannot be undone</c>"
         },
         "names": {
             "internal/open-menu": "Menu Keybind:",
@@ -347,7 +353,8 @@
             "hitbox-trail/end-click-colour": "Release Colour",
             "hitbox-trail/hold-click-colours": "Colour when held",
             "hitbox-trail/hold-click-colour": "Hold Colour",
-            "main-level-bypass": "Main Level Bypass"
+            "main-level-bypass": "Main Level Bypass",
+            "shortcut/uncomplete-level": "Uncomplete Level"
         },
         "descriptions": {
             "internal/open-menu": "",
