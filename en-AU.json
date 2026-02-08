@@ -369,7 +369,9 @@
             "shortcut/uncomplete-level": "Uncomplete Level",
             "shortcut/clone-level": "Clone Level",
             "custom-obj-limit": "No Custom Object Limit",
-            "show-touches/scale": "Scale"
+            "show-touches/scale": "Scale",
+            "shortcut/open-graphics-settings": "Open Graphics Settings",
+            "hide-editor-ui": "Hide Editor UI"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -578,7 +580,9 @@
             "main-level-bypass": "Allows you to play all the demon main levels",
             "shortcut/uncomplete-level": "Removes all progress and completion status of a level",
             "shortcut/clone-level": "Clones a level to your local levels",
-            "custom-obj-limit": "Removes the limit to the amount of custom objects you can have"
+            "custom-obj-limit": "Removes the limit to the amount of custom objects you can have",
+            "shortcut/open-graphics-settings": "Opens the graphics settings popup, used to enable Show FPS on mobile",
+            "hide-editor-ui": "Hides the editor UI, duh?"
         }
     }
 }

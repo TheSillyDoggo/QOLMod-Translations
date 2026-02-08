@@ -30,7 +30,8 @@
             "menu": "メニュー",
             "button": "ボタン",
             "theme": "テーマ",
-            "language": "言語"
+            "language": "言語",
+            "shortcuts": "ショートカット"
         },
         "input-hints": {
             "seconds": "秒",
