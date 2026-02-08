@@ -60,7 +60,11 @@
             "pastel": "Pastel",
             "gradient": "Gradient",
             "colour-hint": "Colour:",
-            "effect-speed": "Effect Speed"
+            "effect-speed": "Effect Speed",
+            "red": "R:",
+            "green": "G:",
+            "blue": "B:",
+            "hex": "HEX:"
         },
         "extra-theme-settings": {
             "title": "Edit Gradient Colours",
