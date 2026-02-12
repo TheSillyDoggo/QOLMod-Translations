@@ -371,7 +371,8 @@
             "custom-obj-limit": "No Custom Object Limit",
             "show-touches/scale": "Scale",
             "shortcut/open-graphics-settings": "Open Graphics Settings",
-            "hide-editor-ui": "Hide Editor UI"
+            "hide-editor-ui": "Hide Editor UI",
+            "fast-end-screen": "Fast Endscreen"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -582,7 +583,8 @@
             "shortcut/clone-level": "Clones a level to your local levels",
             "custom-obj-limit": "Removes the limit to the amount of custom objects you can have",
             "shortcut/open-graphics-settings": "Opens the graphics settings popup, used to enable Show FPS on mobile",
-            "hide-editor-ui": "Hides the editor UI, duh?"
+            "hide-editor-ui": "Hides the editor UI, duh?",
+            "fast-end-screen": "Shows the end screen as soon as you get pulled into the end portal"
         }
     }
 }
