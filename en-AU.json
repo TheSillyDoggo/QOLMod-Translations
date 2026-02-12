@@ -372,7 +372,9 @@
             "show-touches/scale": "Scale",
             "shortcut/open-graphics-settings": "Open Graphics Settings",
             "hide-editor-ui": "Hide Editor UI",
-            "fast-end-screen": "Fast Endscreen"
+            "fast-end-screen": "Fast Endscreen",
+            "show-touches/use-trail": "Show Trail",
+            "show-touches/show-duration": "Show Duration"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -584,7 +586,9 @@
             "custom-obj-limit": "Removes the limit to the amount of custom objects you can have",
             "shortcut/open-graphics-settings": "Opens the graphics settings popup, used to enable Show FPS on mobile",
             "hide-editor-ui": "Hides the editor UI, duh?",
-            "fast-end-screen": "Shows the end screen as soon as you get pulled into the end portal"
+            "fast-end-screen": "Shows the end screen as soon as you get pulled into the end portal",
+            "show-touches/use-trail": "Shows a trail behind the touch circle",
+            "show-touches/show-duration": "Shows the duration that a touch went for"
         }
     }
 }
