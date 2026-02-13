@@ -374,7 +374,8 @@
             "hide-editor-ui": "Hide Editor UI",
             "fast-end-screen": "Fast Endscreen",
             "show-touches/use-trail": "Show Trail",
-            "show-touches/show-duration": "Show Duration"
+            "show-touches/show-duration": "Show Duration",
+            "hitbox-trail/no-limit": "No Limit"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -588,7 +589,8 @@
             "hide-editor-ui": "Hides the editor UI, duh?",
             "fast-end-screen": "Shows the end screen as soon as you get pulled into the end portal",
             "show-touches/use-trail": "Shows a trail behind the touch circle",
-            "show-touches/show-duration": "Shows the duration that a touch went for"
+            "show-touches/show-duration": "Shows the duration that a touch went for",
+            "hitbox-trail/no-limit": "Removes the limit to the amount of positions that are saved"
         }
     }
 }
