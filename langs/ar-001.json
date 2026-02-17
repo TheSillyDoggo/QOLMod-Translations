@@ -4,6 +4,7 @@
     "fallback-lang": "",
     "font": "chatFont.fnt",
     "use-true-type-fallback": true,
+    "dont-split-descriptions": true,
     "contributors": [
         {
             "username": "Gread1",

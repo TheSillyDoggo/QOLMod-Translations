@@ -14,6 +14,7 @@
   "display_name_english": "Japanese",
   "display_name_native": "日本語",
   "fallback-lang": "en-AU.json",
+  "split-desc-by-every-char": true,
   "font": "kosugimaru.fnt",
   "strings": {
     "categories": {
