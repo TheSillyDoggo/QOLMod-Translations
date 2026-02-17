@@ -1,8 +1,4 @@
 {
-  "display_name_english": "Japanese",
-  "display_name_native": "日本語",
-  "fallback-lang": "en-AU.json",
-  "font": "kosugimaru.fnt",
   "contributors": [
     {
       "username": "million765",
@@ -15,6 +11,10 @@
       "death-effect-id": 11
     }
   ],
+  "display_name_english": "Japanese",
+  "display_name_native": "日本語",
+  "fallback-lang": "en-AU.json",
+  "font": "kosugimaru.fnt",
   "strings": {
     "categories": {
       "level": "レベル",
