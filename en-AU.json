@@ -375,7 +375,14 @@
             "fast-end-screen": "Fast Endscreen",
             "show-touches/use-trail": "Show Trail",
             "show-touches/show-duration": "Show Duration",
-            "hitbox-trail/no-limit": "No Limit"
+            "hitbox-trail/no-limit": "No Limit",
+            "safe-mode/disable-cheats-ui": "Disable cheats in UI",
+            "no-circles-adv/orb-touch": "Orb Touch",
+            "no-circles-adv/orb-click": "Orb Click",
+            "no-circles-adv/pad-touch": "Pad Touch",
+            "no-circles-adv/gravity-portal-touch": "Gravity Portal Touch",
+            "no-circles-adv/gamemode-portal-touch": "Gamemode Portal Touch",
+            "no-circles-adv/size-portal-touch": "Size Portal Touch"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -590,7 +597,14 @@
             "fast-end-screen": "Shows the end screen as soon as you get pulled into the end portal",
             "show-touches/use-trail": "Shows a trail behind the touch circle",
             "show-touches/show-duration": "Shows the duration that a touch went for",
-            "hitbox-trail/no-limit": "Removes the limit to the amount of positions that are saved"
+            "hitbox-trail/no-limit": "Removes the limit to the amount of positions that are saved",
+            "safe-mode/disable-cheats-ui": "Makes it so cheats literally cannot be enabled in the UI",
+            "no-circles-adv/orb-touch": "Disables the circle when you touch an orb",
+            "no-circles-adv/orb-click": "Disables the circle when you click an orb",
+            "no-circles-adv/pad-touch": "Disables the circle when you touch a pad",
+            "no-circles-adv/gravity-portal-touch": "Disables the circle when you touch a gravity portal",
+            "no-circles-adv/gamemode-portal-touch": "Disables the circle when you touch a gamemode portal",
+            "no-circles-adv/size-portal-touch": "Disables the circle when you touch a size portal"
         }
     }
 }
