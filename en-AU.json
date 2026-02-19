@@ -382,7 +382,9 @@
             "no-circles-adv/pad-touch": "Pad Touch",
             "no-circles-adv/gravity-portal-touch": "Gravity Portal Touch",
             "no-circles-adv/gamemode-portal-touch": "Gamemode Portal Touch",
-            "no-circles-adv/size-portal-touch": "Size Portal Touch"
+            "no-circles-adv/size-portal-touch": "Size Portal Touch",
+            "no-orb-pulse/size": "Orb Size",
+            "fast-chests": "Fast Chests"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -604,7 +606,8 @@
             "no-circles-adv/pad-touch": "Disables the circle when you touch a pad",
             "no-circles-adv/gravity-portal-touch": "Disables the circle when you touch a gravity portal",
             "no-circles-adv/gamemode-portal-touch": "Disables the circle when you touch a gamemode portal",
-            "no-circles-adv/size-portal-touch": "Disables the circle when you touch a size portal"
+            "no-circles-adv/size-portal-touch": "Disables the circle when you touch a size portal",
+            "fast-chests": "Shows the close button for chests immediately"
         }
     }
 }
