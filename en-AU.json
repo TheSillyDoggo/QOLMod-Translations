@@ -158,7 +158,7 @@
             "override-trail-label": "Override Trail",
             "override-ghost-label": "Override Ghost",
             "override-wave-trail-label": "Override Wave Trail",
-            "seperate-label": "Seperate\nColours"
+            "seperate-label": "Separate\nColours"
         },
         "names": {
             "internal/open-menu": "Menu Keybind:",
@@ -320,7 +320,7 @@
             "allow-dragging": "Allow Dragging",
             "hide-btn": "Hide Button",
             "save-pos": "Save Position",
-            "seperate-colour-cheat-name": "Seperate colour cheat names",
+            "seperate-colour-cheat-name": "Separate colour cheat names",
             "seperate-colour-cheat-name/colour": "Colour:",
             "labels/hide-all-labels": "Hide Labels",
             "full-options": "Full Options Menu",
