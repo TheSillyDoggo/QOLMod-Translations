@@ -151,6 +151,15 @@
         "clone-level": {
             "success": "<cg>Successfully</c> cloned level!"
         },
+        "iconic": {
+            "override-primary-label": "Override Primary",
+            "override-secondary-label": "Override Secondary",
+            "override-glow-label": "Override Glow",
+            "override-trail-label": "Override Trail",
+            "override-ghost-label": "Override Ghost",
+            "override-wave-trail-label": "Override Wave Trail",
+            "seperate-label": "Seperate\nColours"
+        },
         "names": {
             "internal/open-menu": "Menu Keybind:",
             "safe-mode": "Safe Mode",
