@@ -47,7 +47,9 @@
             "notification-speedhack-set": "Speedhack set to %s",
             "notification-test": "This is a test notification :3",
             "title-error": "Error",
-            "themes-edit-image-button": "Edit Image"
+            "themes-edit-image-button": "Edit Image",
+            "language-missing-unfinished": "Language missing / unfinished?",
+            "language-contribute-button": "Contribute!"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -158,7 +160,13 @@
             "override-trail-label": "Override Trail",
             "override-ghost-label": "Override Ghost",
             "override-wave-trail-label": "Override Wave Trail",
-            "seperate-label": "Seperate\nColours"
+            "override-fine-outline-label": "Override Fine Outline",
+            "seperate-label": "Seperate\nColours",
+            "dual-mode-invert": "Invert",
+            "dual-mode-same": "Same",
+            "dual-mode-seperate": "Seperate",
+            "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
+            "profiles-title": "Icon Effect Profiles"
         },
         "names": {
             "internal/open-menu": "Menu Keybind:",
