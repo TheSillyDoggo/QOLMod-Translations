@@ -14,6 +14,15 @@
             "glow-enabled": true,
             "glow-col": 1,
             "death-effect-id": 13
+        },{
+            "username": "Lpvapp",
+            "account-id": 6903012,
+            "icon-id": 133,
+            "primary-col": 39,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 11
         }
     ],
     "strings": {
