@@ -401,7 +401,8 @@
             "no-circles-adv/gamemode-portal-touch": "Gamemode Portal Touch",
             "no-circles-adv/size-portal-touch": "Size Portal Touch",
             "no-orb-pulse/size": "Orb Size",
-            "fast-chests": "Fast Chests"
+            "fast-chests": "Fast Chests",
+            "reset-percentage-on-save": "Reset percentage on save"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -624,7 +625,8 @@
             "no-circles-adv/gravity-portal-touch": "Disables the circle when you touch a gravity portal",
             "no-circles-adv/gamemode-portal-touch": "Disables the circle when you touch a gamemode portal",
             "no-circles-adv/size-portal-touch": "Disables the circle when you touch a size portal",
-            "fast-chests": "Shows the close button for chests immediately"
+            "fast-chests": "Shows the close button for chests immediately",
+            "reset-percentage-on-save": "Resets the percentage when you edit an editor level"
         }
     }
 }
