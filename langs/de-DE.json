@@ -31,7 +31,8 @@
             "menu": "Menü",
             "button": "Knopf",
             "theme": "Thema",
-            "language": "Sprache"
+            "language": "Sprache",
+            "shortcuts": "Abkürzungen"
         },
         "input-hints": {
             "seconds": "Sekunde",
@@ -48,7 +49,18 @@
             "safe-mode-view-reason-button": "sehe Grund an",
             "export-to-file-button": "Exportieren zu Datei",
             "import-from-file-button": "Importieren von Datei",
-            "language-contributors-button": "zeige Mitwirkende"
+            "language-contributors-button": "zeige Mitwirkende",
+            "cancel-button": "Abbrechen",
+            "confirm-button": "Bestätigen",
+            "notification-mod-enabled": "%s Eingeschaltet",
+            "notification-mod-disabled": "%s Ausgeschaltet",
+            "notification-button-pressed": "%s Aktiviert",
+            "notification-speedhack-set": "Geschwindigkeitshack wurde zu %s gesetzt",
+            "notification-test": "Das ist eine test Benachrichtigung :3",
+            "title-error": "Error",
+            "themes-edit-image-button": "Bild Ändern",
+            "language-missing-unfinished": "Eine Sprache fehlt oder ist unvollständig?",
+            "language-contribute-button": "Trage Bei!"
         },
         "colour-setup": {
             "title": "Farbe auswählen",
@@ -60,17 +72,35 @@
             "chroma": "Chroma",
             "pastel": "Pastell",
             "gradient": "Verlauf",
-            "colour-hint": "Farbe:"
+            "colour-hint": "Farbe:",
+            "effect-speed": "Effekt Geschwindigkeit",
+            "red": "R:",
+            "green": "G:",
+            "blue": "B:",
+            "hex": "HEX:"
         },
         "extra-theme-settings": {
-            "title": "ändere Farbverlauf"
+            "title": "ändere Farbverlauf",
+            "title-image": "ándere Hintergrund"
         },
         "edit-keybind-ui": {
             "title": "ändere Tastenkombination",
             "no-keybind": "keine Tastenkombination"
         },
         "language-credits": {
-            "title": "Danksagung der Sprache"
+            "title": "Danksagung der Sprache",
+            "warning": {
+                "title": "Beachte",
+                "text": "Sprachbeiträger sind <cr>NICHT</c> <co>QOLMod</c> Entwickler, sie können <cr>nicht</c> Funktionen hinzufügen oder Fehler beheben.\nBitte kontaktiere sie <cr>nicht</c> wegen Fehlern"
+            }
+        },
+        "speedhack": {
+            "speed-label": "Geschwindigkeit:",
+            "delete-hint": "Tippe eine Voreinstellung um sie zu entfernen",
+            "add-preset-exist": {
+                "title": "Geschwindigkeit Voreinstellung",
+                "text": "Es gibt schon eine Voreinstellung mit dem Wert <cc>%s</c>"
+            }
         },
         "font-select": {
             "title": "Schrift auswählen",
@@ -82,7 +112,32 @@
         "labels": {
             "cheat-indicator-label": "Cheat Indikator",
             "noclip-only-label": "nur in Noclip",
-            "none-added-hint": "kein Etikette.\nDu kannst Etikette mit den Knöpfen auf der rechten Seite hinzufügen."
+            "none-added-hint": "kein Etikette.\nDu kannst Etikette mit den <cl>Knöpfen</c> \nauf der <cp>rechten</c> Seite <cc>hinzufügen</c>."
+        },
+        "search-tab": {
+            "placeholder": "Suche nach einer Mod..."
+        },
+        "setup-rotation": {
+            "title": "Ändere Drehung",
+            "input-placeholder": "Drehung",
+            "input-title": "Drehung"
+        },
+        "setup-shortcut": {
+            "title": "Ändere Abkürzung",
+            "in-menu": "Im Menü",
+            "in-game": "Im Spiel",
+            "in-game-pause": "Im Pause-Menü",
+            "in-editor": "Im Editor",
+            "in-editor-pause": "Im Editor Pause-Menü",
+            "scale-title": "Skalierung",
+            "opacity-title": "Deckkraft",
+            "enabled-title": "Eingeschalted",
+            "movable-title": "Beweglich"
+        },
+        "select-item": {
+            "title-generic": "Auswählen",
+            "title-background": "Wähle einen Hintergrund",
+            "title-icon": "Wähle ein Symbol"
         },
         "animation": {
             "none": "keine",
@@ -184,6 +239,7 @@
             "startpos-switcher/prev-bind": "vorheriges:",
             "smart-startpos": "schlaue Startpositionen",
             "custom-respawn-time": "eigene Wiederbelebungszeit",
+            "fast-end-screen": "Schneller Endbildschirm",
             "instant-restart/practice": "Übungsmodus",
             "instant-restart/normal": "Normalmodus",
             "instant-restart": "schneller Neustart",
