@@ -306,7 +306,7 @@
             "no-particles-adv/glitter-particles": "",
             "no-particles-adv/robot-hold-particles": "",
             "no-particles-adv/ship-ground-particles": "",
-            "no-particles-adv/ufo-click-particles": "",
+            "no-particles-adv/ufo-click-particles": "Отключает частицы при клике НЛО ",
             "no-particles-adv/player-hold-particles": "",
             "no-particles-adv/player-trail-particles": "",
             "no-particles-adv/player-land-particles": "",
