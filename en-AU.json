@@ -47,7 +47,9 @@
             "notification-speedhack-set": "Speedhack set to %s",
             "notification-test": "This is a test notification :3",
             "title-error": "Error",
-            "themes-edit-image-button": "Edit Image"
+            "themes-edit-image-button": "Edit Image",
+            "language-missing-unfinished": "Language missing / unfinished?",
+            "language-contribute-button": "Contribute!"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -150,6 +152,21 @@
         },
         "clone-level": {
             "success": "<cg>Successfully</c> cloned level!"
+        },
+        "iconic": {
+            "override-primary-label": "Override Primary",
+            "override-secondary-label": "Override Secondary",
+            "override-glow-label": "Override Glow",
+            "override-trail-label": "Override Trail",
+            "override-ghost-label": "Override Ghost",
+            "override-wave-trail-label": "Override Wave Trail",
+            "override-fine-outline-label": "Override Fine Outline",
+            "seperate-label": "Seperate\nColours",
+            "dual-mode-invert": "Invert",
+            "dual-mode-same": "Same",
+            "dual-mode-seperate": "Seperate",
+            "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
+            "profiles-title": "Icon Effect Profiles"
         },
         "names": {
             "internal/open-menu": "Menu Keybind:",
@@ -384,7 +401,8 @@
             "no-circles-adv/gamemode-portal-touch": "Gamemode Portal Touch",
             "no-circles-adv/size-portal-touch": "Size Portal Touch",
             "no-orb-pulse/size": "Orb Size",
-            "fast-chests": "Fast Chests"
+            "fast-chests": "Fast Chests",
+            "reset-percentage-on-save": "Reset percentage on save"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -607,7 +625,8 @@
             "no-circles-adv/gravity-portal-touch": "Disables the circle when you touch a gravity portal",
             "no-circles-adv/gamemode-portal-touch": "Disables the circle when you touch a gamemode portal",
             "no-circles-adv/size-portal-touch": "Disables the circle when you touch a size portal",
-            "fast-chests": "Shows the close button for chests immediately"
+            "fast-chests": "Shows the close button for chests immediately",
+            "reset-percentage-on-save": "Resets the percentage when you edit an editor level"
         }
     }
 }
