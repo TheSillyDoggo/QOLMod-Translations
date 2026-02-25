@@ -15,6 +15,7 @@
     "display_name_native": "한글",
     "fallback-lang": "",
     "font": "chatFont.fnt",
+    "use-true-type-fallback": true,
     "strings": {
         "categories": {
             "level": "레벨",
@@ -231,7 +232,7 @@
             "no-particles-adv/player-hold-particles": "비행기 부스트 파티클",
             "no-particles-adv/player-trail-particles": "비행기 트레일 파티클",
             "no-particles-adv/player-land-particles": "플레이어 착지 파티클",
-            "no-particles-adv/player-ground-particles": "플레이어 이동 파티클,
+            "no-particles-adv/player-ground-particles": "플레이어 이동 파티클",
             "no-particles-adv/particle-objects": "파티클 오브젝트",
             "no-particles": "파티클 전부 제거",
             "no-particles/particles-in-editor": "에디터에서는 표시",
