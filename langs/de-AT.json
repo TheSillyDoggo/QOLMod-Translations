@@ -1,0 +1,181 @@
+{
+  "display_name_english": "German (Austria Oida Edition)",
+  "display_name_native": "Deutsch (Österreich – Oida Edition)",
+  "fallback-lang": "de-DE.json",
+  "alt-font-usage": "Forced",
+  "font": "lexend.fnt",
+
+  "strings": {
+
+    "categories": {
+      "level": "Level, heast",
+      "universal": "Für ois",
+      "creator": "Bau‑Eck",
+      "cosmetic": "Nur fürs Aug",
+      "speedhack": "Schnölla‑Machn",
+      "icon effects": "Figur‑Spielereien",
+      "labels": "Pickerl",
+      "config": "Einstöllunga",
+      "search": "Suachn",
+      "favourites": "Lieblings‑Zeigs",
+      "menu": "Menü",
+      "button": "Knopfal",
+      "theme": "Design‑Zeigs",
+      "language": "Sproch",
+      "shortcuts": "Tastn‑Tricks"
+    },
+
+    "input-hints": {
+      "seconds": "Sekundn",
+      "semitones": "Hoibtön",
+      "fps": "fps, eh kloa",
+      "percentage": "Prozent",
+      "tps": "tps"
+    },
+
+    "ui": {
+      "coming-soon": "Kimmt boid",
+      "themes-edit-button": "Farbn umdrahn",
+      "ok-button": "Basst scho",
+      "default-button": "Standard halt",
+      "undo-button": "Zruck damit",
+      "change-font-button": "Schrift umstöln",
+      "export-to-file-button": "Ois raus speichern",
+      "import-from-file-button": "Ois einiladn",
+      "cancel-button": "Loss stehn",
+      "confirm-button": "Jo passt",
+      "notification-mod-enabled": "%s is jetzt ei'gschalten, oida",
+      "notification-mod-disabled": "%s is jetzt aus, fertig",
+      "notification-speedhack-set": "Tempo steht jetzt auf %s, heast",
+      "notification-test": "Des is nur a Test, chill 😎",
+      "title-error": "Oasch... Fehler",
+      "language-contribute-button": "Hilf mit, Hawara!"
+    },
+
+    "colour-setup": {
+      "title": "Farb aussuachn",
+      "add-step": "Schritt dazua",
+      "remove-step": "Schritt weg",
+      "player-primary": "Hauptfarb",
+      "player-secondary": "Nebenfarb",
+      "player-glow": "Leuchten",
+      "chroma": "Regenbogen‑Gaudi",
+      "pastel": "Zart wie a Kipferl",
+      "gradient": "Farbverlauf",
+      "colour-hint": "Farb:",
+      "effect-speed": "Wia schnö soll's blinken?",
+      "red": "Rot:",
+      "green": "Grün:",
+      "blue": "Blau:",
+      "hex": "HEX:"
+    },
+
+    "speedhack": {
+      "speed-label": "Wia schnö?",
+      "delete-hint": "Tip drauf wennst's löschen wüst",
+      "add-preset-exist": {
+        "title": "Gibt's scho",
+        "text": "Des Tempo %s host eh scho."
+      }
+    },
+
+    "font-select": {
+      "title": "Schrift aussuachn",
+      "japanese-supported": "Des kann ka Japanisch, heast",
+      "russian-supported": "Ka Kyrillisch möglich",
+      "korean-supported": "Ka Koreanisch dabei",
+      "chinese-supported": "Ka Chinesisch dabei"
+    },
+
+    "labels": {
+      "cheat-indicator-label": "Schummel‑Warnung",
+      "noclip-only-label": "Nur mit Unsterblich",
+      "none-added-hint": "No nix da. Füg wos hinzu!"
+    },
+
+    "setup-rotation": {
+      "title": "Dreh'n wia ma wü",
+      "input-placeholder": "Grad eingeben",
+      "input-title": "Drehung"
+    },
+
+    "animation": {
+      "none": "Gar nix",
+      "from-top": "Von obn eina",
+      "from-bottom": "Von unt'n auffi",
+      "from-left": "Von links",
+      "from-right": "Von rechts",
+      "scale-in": "Reinzoomen",
+      "fade-in": "Langsam auftauchen",
+      "preview-error-none": {
+        "title": "Oida, ka Animation",
+        "text": "Da gibt's nix zum Abspün."
+      }
+    },
+
+    "names": {
+      "safe-mode": "Sicher is sicher",
+      "noclip": "Unsterblich‑Modus",
+      "show-touches": "Zeig ma meine Klicks",
+      "classic-percentage": "Oldschool Prozent",
+      "accurate-percentage": "Ganz genaue Prozent",
+      "hitbox-trail": "Treffer‑Spur",
+      "show-hitboxes": "Treffer‑Kastln anzeigen",
+      "no-particles": "Ka Funken mehr",
+      "auto-safe-mode": "Auto‑Sicher",
+      "suicide": "Selbstzerstörung",
+      "instant-restart": "Sofort neu starten",
+      "jump-hack": "Unendlich hupfen",
+      "instant": "Level sofort fertig",
+      "freeze-attempts": "Versuche einfrieren",
+      "hide-player": "Spieler verstecken",
+      "show-player": "Spieler immer zeigen",
+      "auto-coins": "Münzn automatisch einsammeln",
+      "verify-hack": "Verifizieren ohne schwitzen",
+      "copy-hack": "Ois kopieren, is ma wurscht",
+      "unlock-buttons": "Knöpfe freischalten",
+      "no-shaders": "Ka Grafik‑Firlefanz",
+      "no-glow": "Ka Leuchten",
+      "no-death": "Ka Todeseffekt",
+      "no-shake": "Ka Wackeln",
+      "longer-trail": "Längere Spur",
+      "ghost-off": "Geist aus",
+      "ghost-on": "Geist an",
+      "blur-background": "Hintergrund verschwommen",
+      "smooth-move": "Schön gschmeidig bewegen",
+      "hide-btn": "Knopfal verstecken",
+      "full-options": "Ois anzeigen",
+      "auto-song": "Lied automatisch holen",
+      "fast-chests": "Kisten turbo öffnen",
+      "main-level-bypass": "Hauptlevel freischalten",
+      "high-fps-rotation": "Ultra‑Drehung",
+      "disable-shortcuts": "Tastn‑Tricks aus"
+    },
+
+    "descriptions": {
+      "safe-mode": "Zählt deine Fortschritte ned, heast.",
+      "noclip": "Du stirbst nimma. Unkaputtbar.",
+      "show-touches": "Zeigt an wannst klickst – gut fürs Aufnehma.",
+      "classic-percentage": "So wie früher, oldschool halt.",
+      "hitbox-trail": "Zeigt wo dei Trefferkastl war.",
+      "show-hitboxes": "Macht alle Boxn sichtbar.",
+      "no-particles": "Entfernt den ganzen Funken‑Kram.",
+      "jump-hack": "Spring so oft wia wüst, oida.",
+      "instant": "Level is sofort gschafft.",
+      "freeze-attempts": "Dei Versuchszahl bleibt stehn.",
+      "verify-hack": "Du musst Level nimma schaffen zum Hochladen.",
+      "copy-hack": "Kopier ois, egal ob erlaubt oda ned.",
+      "no-glow": "Entfernt des Leuchten von Objekten.",
+      "no-shake": "Ka Kamerawackler mehr.",
+      "longer-trail": "Dei Spur wird dreimal so lang.",
+      "blur-background": "Hintergrund wird weichzeichnet.",
+      "auto-song": "Lädt automatisch des Level‑Lied."
+      "pitch-shifter/music-only": "Ändert nur die Tonhöh'n von da Musik, sonst nix.",
+      "no-particles-adv/teleport-portal-particles": "Ka Teleport‑Portal Funken mehr.",
+      "trail-cutting/fps": "FPS fürs Spur‑Abschneidn:",
+      "trail-cutting": "Stellt ei, mit wievü FPS dei Spur aktualisiert wird. So wird's wieder so abg'schnitten wie vor 2.2, heast."
+
+    }
+
+  }
+}
