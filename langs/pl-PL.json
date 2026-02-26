@@ -8,12 +8,12 @@
         {
             "username": "heresdavid",
             "account-id": 35993468,
-            "icon-id": 376,
+            "icon-id": 35,
             "primary-col": 12,
-            "secondary-col": 12,
+            "secondary-col": 1,
             "glow-enabled": true,
-            "glow-col": 12,
-            "death-effect-id": 3
+            "glow-col": 1,
+            "death-effect-id": 12
         }
     ],
     "strings": {
@@ -37,7 +37,8 @@
             "seconds": "sek.",
             "semitones": "semitony",
             "fps": "fps",
-            "percentage": "%"
+            "percentage": "%",
+            "tps": "tps"
         },
         "ui": {
             "coming-soon": "Już wkrótce",
@@ -49,7 +50,7 @@
             "safe-mode-view-reason-button": "Wyświetl powód",
             "export-to-file-button": "Eksportuj do pliku",
             "import-from-file-button": "Importuj z pliku",
-            "language-contributors-button": "Wyświetl kontrybutorów",
+            "language-contributors-button": "Wyświetl autorów tlumaczenia",
             "cancel-button": "Anuluj"
         },
         "colour-setup": {
@@ -72,7 +73,7 @@
             "no-keybind": "Brak keybindu"
         },
         "language-credits": {
-            "title": "Kontrybutorzy języku" 
+            "title": "Autorzy tłumaczenia" 
         },
         "speedhack": {
             "speed-label": "Prędkość:",
@@ -323,7 +324,10 @@
             "disable-shortcuts": "Wyłącz skróty",
             "shortcut/open-settings": "Otwórz ustawienia",
             "shortcut/restart-attempt": "Zrestartuj próbę",
-            "shortcut/toggle-practice": "Przełącz tryb Practice"
+            "shortcut/toggle-practice": "Przełącz na tryb Practice",
+            "safe-mode/end-screen-cheat-indicator": "Indykator cheatów na ekranie końcowym",
+            "tps-bypass": "Bypass TPS",
+            "tps-bypass/value": "TPS:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -507,7 +511,9 @@
             "disable-shortcuts": "Wyłącza skróty na ekranie",
             "shortcut/open-settings": "Otwiera menu ustawień",
             "shortcut/restart-attempt": "Restartuje próbe na której teraz jesteś",
-            "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie"
+            "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie",
+            "safe-mode/end-screen-cheat-indicator": "Pokaż indykator cheatow po pobiciu poziomu",
+            "tps-bypass": "Zezwala na to, żeby fizyka była aktualizowana w innej ilości\"klatek na sekunde\" niż domyślne 240."
         }
     }
 }

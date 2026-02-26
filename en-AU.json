@@ -18,13 +18,16 @@
             "menu": "Menu",
             "button": "Button",
             "theme": "Theme",
-            "language": "Language"
+            "language": "Language",
+            "shortcuts": "Shortcuts"
         },
         "input-hints": {
             "seconds": "sec",
             "semitones": "semitones",
             "fps": "fps",
-            "percentage": "%"
+            "percentage": "%",
+            "tps": "tps",
+            "cps": "cps"
         },
         "ui": {
             "coming-soon": "Coming Soon",
@@ -37,7 +40,17 @@
             "export-to-file-button": "Export to file",
             "import-from-file-button": "Import from file",
             "language-contributors-button": "View Contributors",
-            "cancel-button": "Cancel"
+            "cancel-button": "Cancel",
+            "confirm-button": "Confirm",
+            "notification-mod-enabled": "%s enabled",
+            "notification-mod-disabled": "%s disabled",
+            "notification-button-pressed": "%s activated",
+            "notification-speedhack-set": "Speedhack set to %s",
+            "notification-test": "This is a test notification :3",
+            "title-error": "Error",
+            "themes-edit-image-button": "Edit Image",
+            "language-missing-unfinished": "Language missing / unfinished?",
+            "language-contribute-button": "Contribute!"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -49,17 +62,27 @@
             "chroma": "Chroma",
             "pastel": "Pastel",
             "gradient": "Gradient",
-            "colour-hint": "Colour:"
+            "colour-hint": "Colour:",
+            "effect-speed": "Effect Speed",
+            "red": "R:",
+            "green": "G:",
+            "blue": "B:",
+            "hex": "HEX:"
         },
         "extra-theme-settings": {
-            "title": "Edit Gradient Colours"
+            "title": "Edit Gradient Colours",
+            "title-image": "Edit Background Image"
         },
         "edit-keybind-ui": {
             "title": "Edit Keybind",
             "no-keybind": "No Keybind"
         },
         "language-credits": {
-            "title": "Language Credits"
+            "title": "Language Credits",
+            "warning": {
+                "title": "Note",
+                "text": "Language contributors are <cr>NOT</c> <co>QOLMod</c> developers, they <cr>cannot</c> add features or fix bugs.\nPlease <cr>do not</c> message language contributors for bug fixes"
+            }
         },
         "speedhack": {
             "speed-label": "Speed:",
@@ -122,6 +145,29 @@
                 "title": "Preview Animation",
                 "text": "There is no animation to preview."
             }
+        },
+        "uncomplete-level": {
+            "no-level-found": "No <cc>level</c> found, try opening a <cc>level</c> page.",
+            "found-confirmation": "Are you sure you want to uncomplete <cc>%s</c>.\nThis <cr>cannot be undone</c>",
+            "wrong-type-confirmation": "Unsupported level type <cc>%s</c>"
+        },
+        "clone-level": {
+            "success": "<cg>Successfully</c> cloned level!"
+        },
+        "iconic": {
+            "override-primary-label": "Override Primary",
+            "override-secondary-label": "Override Secondary",
+            "override-glow-label": "Override Glow",
+            "override-trail-label": "Override Trail",
+            "override-ghost-label": "Override Ghost",
+            "override-wave-trail-label": "Override Wave Trail",
+            "override-fine-outline-label": "Override Fine Outline",
+            "seperate-label": "Seperate\nColours",
+            "dual-mode-invert": "Invert",
+            "dual-mode-same": "Same",
+            "dual-mode-seperate": "Seperate",
+            "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
+            "profiles-title": "Icon Effect Profiles"
         },
         "names": {
             "internal/open-menu": "Menu Keybind:",
@@ -260,7 +306,8 @@
             "no-glow": "No Glow",
             "no-death": "No Death Effect",
             "no-dash-fire": "No Dash Fire",
-            "no-circles": "No Circles",
+            "no-circles-adv": "No Circles",
+            "no-circles": "No Circles Classic",
             "no-shake": "No Camera Shake",
             "longer-trail": "Longer Trail",
             "longer-trail/player-only": "Player Only",
@@ -310,7 +357,61 @@
             "disable-shortcuts": "Disable Shortcuts",
             "shortcut/open-settings": "Open Settings",
             "shortcut/restart-attempt": "Restart Attempt",
-            "shortcut/toggle-practice": "Toggle Practice Mode"
+            "shortcut/toggle-practice": "Toggle Practice Mode",
+            "safe-mode/end-screen-cheat-indicator": "End Screen Cheat Indicator",
+            "tps-bypass": "TPS Bypass",
+            "tps-bypass/value": "TPS:",
+            "hitbox-trail/darken-by-age": "Darken by age",
+            "notifications": "Notifications",
+            "notifications/test": "Send Test Notification",
+            "notifications/duration": "Duration",
+            "notifications/right": "Right side",
+            "notifications/blur": "Blur Background",
+            "high-fps-rotation": "High FPS Rotation",
+            "no-rot/cube": "Cube",
+            "no-rot/ship": "Ship",
+            "no-rot/jetpack": "Jetpack",
+            "no-rot/ball": "Ball",
+            "no-rot/ufo": "Ufo",
+            "no-rot/wave": "Wave",
+            "no-rot/robot": "Robot",
+            "no-rot/spider": "Spider",
+            "no-rot/swing": "Swing",
+            "no-invisible-objects": "No Fade Objects",
+            "hitbox-trail/click-colours": "Colour clicks",
+            "hitbox-trail/start-click-colour": "Click Colour",
+            "hitbox-trail/end-click-colour": "Release Colour",
+            "hitbox-trail/hold-click-colours": "Colour when held",
+            "hitbox-trail/hold-click-colour": "Hold Colour",
+            "main-level-bypass": "Main Level Bypass",
+            "shortcut/uncomplete-level": "Uncomplete Level",
+            "shortcut/clone-level": "Clone Level",
+            "custom-obj-limit": "No Custom Object Limit",
+            "show-touches/scale": "Scale",
+            "shortcut/open-graphics-settings": "Open Graphics Settings",
+            "hide-editor-ui": "Hide Editor UI",
+            "fast-end-screen": "Fast Endscreen",
+            "show-touches/use-trail": "Show Trail",
+            "show-touches/show-duration": "Show Duration",
+            "hitbox-trail/no-limit": "No Limit",
+            "safe-mode/disable-cheats-ui": "Disable cheats in UI",
+            "no-circles-adv/orb-touch": "Orb Touch",
+            "no-circles-adv/orb-click": "Orb Click",
+            "no-circles-adv/pad-touch": "Pad Touch",
+            "no-circles-adv/gravity-portal-touch": "Gravity Portal Touch",
+            "no-circles-adv/gamemode-portal-touch": "Gamemode Portal Touch",
+            "no-circles-adv/size-portal-touch": "Size Portal Touch",
+            "no-orb-pulse/size": "Orb Size",
+            "fast-chests": "Fast Chests",
+            "reset-percentage-on-save": "Reset percentage on save",
+            "autoclicker": "Autoclicker",
+            "popup-ui-scale": "UI Scale:",
+            "autoclicker/player1": "Player 1",
+            "autoclicker/player2": "Player 2",
+            "autoclicker/player1/interval": "Interval",
+            "autoclicker/player2/interval": "Interval",
+            "autoclicker/player1/swift": "Swift click",
+            "autoclicker/player2/swift": "Swift click"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -448,6 +549,7 @@
             "no-glow": "Disables object glow.\nRequires re-entering the level to apply",
             "no-death": "Disables the death effect on the player",
             "no-dash-fire": "Hides the fire behind your icon when using a dash orb",
+            "no-circles-adv": "Disable specific circle effects on some objects",
             "no-circles": "Disables circle effects such as the one when you touch an orb",
             "no-shake": "Disables camera shaking",
             "longer-trail": "Lengthens your player's trail length by a factor of 3x",
@@ -494,7 +596,51 @@
             "disable-shortcuts": "Disables the on-screen shortcuts",
             "shortcut/open-settings": "Opens the settings menu",
             "shortcut/restart-attempt": "Restarts the current attempt if you are in a level",
-            "shortcut/toggle-practice": "Toggles practice mode if you are in a level"
+            "shortcut/toggle-practice": "Toggles practice mode if you are in a level",
+            "safe-mode/end-screen-cheat-indicator": "Shows a cheat indicator on the end screen",
+            "tps-bypass": "Allows your physics to update at a different \"frame rate\" than the default 240",
+            "hitbox-trail/darken-by-age": "Makes the trail become darker the older it is",
+            "notifications": "Displays a notification whenever you toggle a mod via a keybind or shortcut",
+            "notifications/test": "Sends a test notification",
+            "notifications/right": "Displays the notifications on the right side of the screen",
+            "notifications/blur": "Blurs the background behind the notifications.\nRequires the mod <cc>Blur API</c>",
+            "high-fps-rotation": "Makes the ship rotate like it does when your fps is over 1000",
+            "no-rot/cube": "Disables rotation in the Cube gamemode",
+            "no-rot/ship": "Disables rotation in the Ship gamemode",
+            "no-rot/jetpack": "Disables rotation in the Jetpack gamemode",
+            "no-rot/ball": "Disables rotation in the Ball gamemode",
+            "no-rot/ufo": "Disables rotation in the Ufo gamemode",
+            "no-rot/wave": "Disables rotation in the Wave gamemode",
+            "no-rot/robot": "Disables rotation in the Robot gamemode",
+            "no-rot/spider": "Disables rotation in the Spider gamemode",
+            "no-rot/swing": "Disables rotation in the Swing gamemode",
+            "no-invisible-objects": "Makes fading objects show at max opacity",
+            "hitbox-trail/click-colours": "Changes the colour of the hitbox trail for the frame you click on",
+            "hitbox-trail/hold-click-colours": "Colours the hitbox trail when a click is held",
+            "main-level-bypass": "Allows you to play all the demon main levels",
+            "shortcut/uncomplete-level": "Removes all progress and completion status of a level",
+            "shortcut/clone-level": "Clones a level to your local levels",
+            "custom-obj-limit": "Removes the limit to the amount of custom objects you can have",
+            "shortcut/open-graphics-settings": "Opens the graphics settings popup, used to enable Show FPS on mobile",
+            "hide-editor-ui": "Hides the editor UI, duh?",
+            "fast-end-screen": "Shows the end screen as soon as you get pulled into the end portal",
+            "show-touches/use-trail": "Shows a trail behind the touch circle",
+            "show-touches/show-duration": "Shows the duration that a touch went for",
+            "hitbox-trail/no-limit": "Removes the limit to the amount of positions that are saved",
+            "safe-mode/disable-cheats-ui": "Makes it so cheats literally cannot be enabled in the UI",
+            "no-circles-adv/orb-touch": "Disables the circle when you touch an orb",
+            "no-circles-adv/orb-click": "Disables the circle when you click an orb",
+            "no-circles-adv/pad-touch": "Disables the circle when you touch a pad",
+            "no-circles-adv/gravity-portal-touch": "Disables the circle when you touch a gravity portal",
+            "no-circles-adv/gamemode-portal-touch": "Disables the circle when you touch a gamemode portal",
+            "no-circles-adv/size-portal-touch": "Disables the circle when you touch a size portal",
+            "fast-chests": "Shows the close button for chests immediately",
+            "reset-percentage-on-save": "Resets the percentage when you edit an editor level",
+            "autoclicker": "Automatically clicks at a specified cps",
+            "autoclicker/player1": "Enables the autoclicker for player 1",
+            "autoclicker/player2": "Enables the autoclicker for player 2",
+            "autoclicker/player1/swift": "Clicks for only one tick",
+            "autoclicker/player2/swift": "Clicks for only one tick"
         }
     }
 }
