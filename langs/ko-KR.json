@@ -24,7 +24,7 @@
             "cosmetic": "장식",
             "speedhack": "스피드핵",
             "icon effects": "아이콘 효과",
-            "labels": "Labels",
+            "labels": "라벨",
             "config": "설정",
             "search": "검색",
             "favourites": "즐겨찾기 목록",
@@ -256,7 +256,7 @@
             "hide-pause-menu": "정지 메뉴 숨기기",
             "hide-pause-button": "정지 버튼 숨기기",
             "frame-extrapolation": "프레임 증폭",
-            "december-snow": "12월 눈",
+            "december-snow": "메인 메뉴 눈(12월)",
             "syzzi.click_between_frames/soft-toggle": "CBF(Click Between Frames)",
             "chest-unlock-bypass": "보물방 상자 잠금 해제",
             "suicide": "자살",
@@ -416,6 +416,14 @@
             "no-orb-pulse/size": "공점 크기",
             "fast-chests": "상자 닫기 버튼 빨리 활성화",
             "reset-percentage-on-save": "저장 시 진행도 초기화"
+            "autoclicker": "오토클리커",
+            "popup-ui-scale": "UI 크기:",
+            "autoclicker/player1": "1P(플레이어 1)",
+            "autoclicker/player2": "2P(플레이어 2)",
+            "autoclicker/player1/interval": "간격",
+            "autoclicker/player2/interval": "간격",
+            "autoclicker/player1/swift": "클릭 후 즉시 릴리즈",
+            "autoclicker/player2/swift": "클릭 후 즉시 릴리즈"
         }
     }
 }
