@@ -26,7 +26,8 @@
             "semitones": "semitones",
             "fps": "fps",
             "percentage": "%",
-            "tps": "tps"
+            "tps": "tps",
+            "cps": "cps"
         },
         "ui": {
             "coming-soon": "Coming Soon",
@@ -404,7 +405,13 @@
             "fast-chests": "Fast Chests",
             "reset-percentage-on-save": "Reset percentage on save",
             "autoclicker": "Autoclicker",
-            "popup-ui-scale": "UI Scale:"
+            "popup-ui-scale": "UI Scale:",
+            "autoclicker/player1": "Player 1",
+            "autoclicker/player2": "Player 2",
+            "autoclicker/player1/interval": "Interval",
+            "autoclicker/player2/interval": "Interval",
+            "autoclicker/player1/swift": "Swift click",
+            "autoclicker/player2/swift": "Swift click"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -629,7 +636,11 @@
             "no-circles-adv/size-portal-touch": "Disables the circle when you touch a size portal",
             "fast-chests": "Shows the close button for chests immediately",
             "reset-percentage-on-save": "Resets the percentage when you edit an editor level",
-            "autoclicker": "Automatically clicks at a specified cps"
+            "autoclicker": "Automatically clicks at a specified cps",
+            "autoclicker/player1": "Enables the autoclicker for player 1",
+            "autoclicker/player2": "Enables the autoclicker for player 2",
+            "autoclicker/player1/swift": "Clicks for only one tick",
+            "autoclicker/player2/swift": "Clicks for only one tick"
         }
     }
 }
