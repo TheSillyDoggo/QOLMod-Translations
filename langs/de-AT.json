@@ -6,8 +6,8 @@
     "contributors": [
         {
             "username": "IAmHyper1",
-            "account-id": idk,
-            "icon-id": idk,
+            "account-id": "idk",
+            "icon-id": "idk",
             "primary-col": ,
             "secondary-col": ,
             "glow-enabled": ,
@@ -588,4 +588,5 @@
         }
     }
 }
+
 
