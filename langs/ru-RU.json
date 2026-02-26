@@ -21,6 +21,16 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 20
+        },
+        {
+            "username": "system32go",
+            "account-id": 26097733,
+            "icon-id": 157,
+            "primary-col": 35,
+            "secondary-col": 6,
+            "glow-enabled": false,
+            "glow-col": 1,
+            "death-effect-id": 3
         }
     ],
     "fallback-lang": "en-AU.json",
