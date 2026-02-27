@@ -3,6 +3,7 @@
     "display_name_native": "Português (BR)",
     "fallback-lang": "",
     "font": "lexend.fnt",
+	"alt-font-usage": "Forced",
 	"contributors": [
     {
         "username": "LGNoob",
