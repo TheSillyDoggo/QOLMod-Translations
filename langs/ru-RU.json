@@ -21,6 +21,16 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 20
+        },
+        {
+            "username": "atheop1337",
+            "account-id": 29296680,
+            "icon-id": 1,
+            "primary-col": 3,
+            "secondary-col": 12,
+            "glow-enabled": false,  
+            "glow-col": 3,
+            "death-effect-id": 1
         }
     ],
     "fallback-lang": "en-AU.json",
@@ -41,22 +51,35 @@
             "menu": "Меню",
             "button": "Кнопка",
             "theme": "Тема",
-            "language": "Язык"
+            "language": "Язык",
+            "shortcuts": "Кнопки"
         },
         "input-hints": {
             "seconds": "сек",
-            "semitones": "полутон"
+            "semitones": "полутонов"
         },
         "ui": {
             "coming-soon": "Скоро",
             "themes-edit-button": "Изменить цвета",
             "ok-button": "<bm>OK",
             "default-button": "По умолчанию",
-            "undo-button": "Откатить",
+            "undo-button": "Отменить",
             "change-font-button": "Изменить шрифт",
             "safe-mode-view-reason-button": "Посмотреть причину",
             "export-to-file-button": "Экспорт в файл",
-            "import-from-file-button": "Импорт из файла"
+            "import-from-file-button": "Импорт из файла",
+            "language-contributors-button": "Авторы перевода",
+            "cancel-button": "Отменить",
+            "confirm-button": "Подтвердить",
+            "notification-mod-enabled": "Включено: %s",
+            "notification-mod-disabled": "Выключено: %s",
+            "notification-button-pressed": "Активировано: %s",
+            "notification-speedhack-set": "Спидхак установлен: %s",
+            "notification-test": "Это тестовое уведомление :3",
+            "title-error": "Ошибка",
+            "themes-edit-image-button": "Изменить изображение",
+            "language-missing-unfinished": "Нет перевода или незавершен?",
+            "language-contribute-button": "Участвуй!"
         },
         "colour-setup": {
             "title": "Выбрать цвет",
@@ -71,11 +94,27 @@
             "colour-hint": "Цвет:"
         },
         "extra-theme-settings": {
-            "title": "Редактировать цвета градиента"
+            "title": "Редактировать цвета градиента",
+            "title-image": "Изменить задний фон"
         },
         "edit-keybind-ui": {
             "title": "Изменить привязку клавиши",
             "no-keybind": "Нет привязки"
+        },
+        "language-credits": {
+            "title": "Авторы перевода",
+            "warning": {
+                "title": "Заметка",
+                "text": "Авторы перевода <cr>НЕ</c> разработчики <co>QOLMod</c>, они <cr>НЕ МОГУТ</c> добавлять функции или исправлять баги.\nПожалуйста, <cr>НЕ</c> пишите им сообщения связанные с функционалом мода."
+            }
+        },
+        "speedhack": {
+            "speed-label": "Скорость:",
+            "delete-hint": "Нажмите на пресет чтобы удалить его",
+            "add-preset-exist": {
+                "title": "Пресет спидхака",
+                "text": "Уже существует пресет с значением <cc>%s</c>"
+            }
         },
         "font-select": {
             "title": "Выбрать шрифт",
@@ -84,10 +123,39 @@
             "korean-supported": "Этот шрифт поддерживает хангыль (корейский)",
             "chinese-supported": "Этот шрифт поддерживает ханзи (китайский)"
         },
+        "create-custom-reward": {
+            "first-use-warning": "<cr>Предупреждение</c>\nИспользование этого инструмента приведет к изменению вашего файла сохранения навсегда, это может привести к бану в лидерборде.\n<cl>Используйте на свой страх и риск</c>",
+            "create-button": "Создать"
+        },
         "labels": {
             "cheat-indicator-label": "Индикатор читов",
             "noclip-only-label": "Только Noclip",
             "none-added-hint": "Метки не добавлены.\nМетки можно <cc>добавить</c> с помощью\n<cl>кнопок</c> на <cp>правой</c> стороне."
+        },
+        "search-tab": {
+            "placeholder": "Искать мод..."
+        },
+        "setup-rotation": {
+            "title": "Изменить поворот",
+            "input-placeholder": "Поворот",
+            "input-title": "Поворот"
+        },
+        "setup-shortcut": {
+            "title": "Изменить кнопку",
+            "in-menu": "В меню",
+            "in-game": "В игре",
+            "in-game-pause": "В паузе",
+            "in-editor": "В редакторе",
+            "in-editor-pause": "В паузе редактора",
+            "scale-title": "Масштаб",
+            "opacity-title": "Непрозрачность",
+            "enabled-title": "Включено",
+            "movable-title": "Передвижной"
+        },
+        "select-item": {
+            "title-generic": "Выбор элемента",
+            "title-background": "Выбор фона кнопки",
+            "title-icon": "Выбор иконки для кнопки"
         },
         "animation": {
             "none": "Нет",
@@ -101,6 +169,14 @@
                 "title": "Предпросмотр анимации",
                 "text": "Нет анимации для предпросмотра."
             }
+        },
+        "uncomplete-level": {
+            "no-level-found": "<cc>Уровень</c> не найден, попробуйте открыть страницу <cc>уровня</c>.",
+            "found-confirmation": "Вы уверены, что хотите сбросить прогресс для <cc>%s</c>?\nЭто действие <cr>нельзя отменить</c>",
+            "wrong-type-confirmation": "Тип уровня <cc>%s</c> не поддерживается"
+        },
+        "clone-level": {
+            "success": "Уровень <cg>успешно</c> клонирован!"
         },
         "names": {
             "internal/open-menu": "Клавиша открытия меню:",
