@@ -220,8 +220,10 @@
             "show-hitboxes/interactable-colour": "Interagierbare:",
             "show-hitboxes/passable-colour": "Durchlässige:",
             "show-hitboxes/hazard-colour": "Hindernisse:",
-            "show-hitboxes/solid-colour": "Solide Objekte:"
-            "show-hitboxes-on-death": "Zeige Treffboxen beim Tod",
+            "show-hitboxes/solid-colour": "Solide Objekte:",
+            "show-hitboxes-on-death": "zeige Treffboxen beim Tod",
+            "show-hitboxes-on-death/death-object-only": "Nur Totes-Object",
+            "show-hitboxes-on-death/trail": "Treffboxen-Pfad",
             "no-particles-adv": "Keine Partikel",
             "no-particles-adv/dash-orb-particles": "'Dash Orb' Partikel",
             "no-particles-adv/coin-particles": "Einsammel-Partikel",
