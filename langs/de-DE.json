@@ -231,7 +231,7 @@
             "show-hitboxes/interactable-colour": "interagierbare:",
             "show-hitboxes/passable-colour": "durchgehbare:",
             "show-hitboxes/hazard-colour": "Hindernisse:",
-            "show-hitboxes/solid-colour": "Solide Objekte:"
+            "show-hitboxes/solid-colour": "Solide Objekte:",
             "show-hitboxes-on-death": "zeige Treffboxen beim Tod",
             "show-hitboxes-on-death/death-object-only": "Nur Totes-Object",
             "show-hitboxes-on-death/trail": "Treffboxen-Pfad",

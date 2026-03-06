@@ -411,7 +411,9 @@
             "autoclicker/player1/interval": "Interval",
             "autoclicker/player2/interval": "Interval",
             "autoclicker/player1/swift": "Swift click",
-            "autoclicker/player2/swift": "Swift click"
+            "autoclicker/player2/swift": "Swift click",
+            "pitch-shifter/high-quality": "High Quality",
+            "search/options-colour": "Options BG:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -640,7 +642,8 @@
             "autoclicker/player1": "Enables the autoclicker for player 1",
             "autoclicker/player2": "Enables the autoclicker for player 2",
             "autoclicker/player1/swift": "Clicks for only one tick",
-            "autoclicker/player2/swift": "Clicks for only one tick"
+            "autoclicker/player2/swift": "Clicks for only one tick",
+            "pitch-shifter/high-quality": "Makes the pitch shifter audio a high quality.\nDisabled by default since it may use more memory"
         }
     }
 }
