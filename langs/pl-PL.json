@@ -4,7 +4,7 @@
     "fallback-lang": "",
     "font": "lexend.fnt",
     "alt-font-usage": "Forced",
-    "contributors": [
+        "contributors": [
         {
             "username": "heresdavid",
             "account-id": 35993468,
@@ -14,6 +14,16 @@
             "glow-enabled": true,
             "glow-col": 1,
             "death-effect-id": 12
+        },
+        {
+            "username": "FiziqR",
+            "account-id": 21477228,
+            "icon-id": 233,
+            "primary-col": 13,
+            "secondary-col": 12,
+            "glow-enabled": false,
+            "glow-col": 1,
+            "death-effect-id": 1
         }
     ],
     "strings": {
@@ -26,57 +36,79 @@
             "icon effects": "Efekty ikon",
             "labels": "Etykiety",
             "config": "Konfiguracja",
-            "search": "Wyszukiwanie",
+            "search": "Wyszukaj",
             "favourites": "Ulubione",
             "menu": "Menu",
             "button": "Przycisk",
             "theme": "Motyw",
-            "language": "Język"
+            "language": "Język",
+            "shortcuts": "Skróty"
         },
         "input-hints": {
             "seconds": "sek.",
             "semitones": "semitony",
             "fps": "fps",
             "percentage": "%",
-            "tps": "tps"
+            "tps": "tps",
+            "cps": "cps"
         },
         "ui": {
             "coming-soon": "Już wkrótce",
             "themes-edit-button": "Edytuj kolory",
-            "ok-button": "<bm>OK",
+            "ok-button": "OK",
             "default-button": "Domyślny",
             "undo-button": "Cofnij",
-            "change-font-button": "Zmień czcionke",
+            "change-font-button": "Zmień czcionkę",
             "safe-mode-view-reason-button": "Wyświetl powód",
             "export-to-file-button": "Eksportuj do pliku",
             "import-from-file-button": "Importuj z pliku",
-            "language-contributors-button": "Wyświetl autorów tlumaczenia",
-            "cancel-button": "Anuluj"
+            "language-contributors-button": "Wyświetl autorów tłumaczenia",
+            "cancel-button": "Anuluj",
+            "confirm-button": "Potwierdź",
+            "notification-mod-enabled": "włączono %s",
+            "notification-mod-disabled": "wyłączono %s",
+            "notification-button-pressed": "aktywowano %s",
+            "notification-speedhack-set": "Ustawiono speedhack na %s",
+            "notification-test": "To jest powiadomienie testowe :3",
+            "title-error": "Błąd",
+            "themes-edit-image-button": "Edytuj Zdjęcie",
+            "language-missing-unfinished": "Nie ma języka / jest niedokończony?",
+            "language-contribute-button": "Przyczyń się!"
         },
         "colour-setup": {
             "title": "Wybierz kolor",
-            "add-step": "Dodaj krok",
-            "remove-step": "Usuń krok",
-            "player-primary": "Gracz\npierwszy",
-            "player-secondary": "Gracz\ndrugi",
+            "add-step": "Dodaj Krok",
+            "remove-step": "Usuń Krok",
+            "player-primary": "Gracz\nPierwszy",
+            "player-secondary": "Gracz\nDrugi",
             "player-glow": "Obrys\ngracza",
             "chroma": "Chroma",
             "pastel": "Pastel",
             "gradient": "Gradient",
-            "colour-hint": "Kolor:"
+            "colour-hint": "Kolor:",
+            "effect-speed": "Prędkość efektu",
+            "red": "R:",
+            "green": "G:",
+            "blue": "B:",
+            "hex": "HEX:"
         },
         "extra-theme-settings": {
-            "title": "Edytuj kolory gradientu"
+            "title": "Edytuj kolory gradientu",
+            "title-image": "Edytuj Zdjęcie Tła"
         },
         "edit-keybind-ui": {
-            "title": "Edytuj keybind",
-            "no-keybind": "Brak keybindu"
+            "title": "Edytuj Keybind",
+            "no-keybind": "Brak Keybindu"
         },
         "language-credits": {
-            "title": "Autorzy tłumaczenia" 
+            "title": "Autorzy Tłumaczenia",
+            "warning": {
+                "title": "Uwaga!",
+                "text": "Autorzy Tłumaczenia <cr>NIE SĄ</c> deweloperami <co>QOLMod </c> <cr>nie mogą</c> dodawać rzeczy ani naprawiać błędów.\nProsimy <cr>nie</c> wysyłać wiadomości do autorów tłumaczenie o naprawianie błędów"
+            }
         },
         "speedhack": {
-            "speed-label": "Prędkość:",
+            "speed-label": "Prędkośc:",
             "delete-hint": "Kliknij na preset aby go usunąć",
             "add-preset-exist": {
                 "title": "Preset speedhacku",
@@ -122,7 +154,7 @@
         "select-item": {
             "title-generic": "Wybierz obiekt",
             "title-background": "Wybierz tło skrótu",
-            "title-icon": "Wybierz ikone skróu"
+            "title-icon": "Wybierz ikone skrótu"
         },
         "animation": {
             "none": "Brak",
@@ -131,14 +163,37 @@
             "from-left": "Od lewej",
             "from-right": "Od prawej",
             "scale-in": "Skaluj",
-            "fade-in": "Zanikaj",
+            "fade-in": "Pojaw",
             "preview-error-none": {
                 "title": "Pokaż animacje",
                 "text": "Brak animacji do pokazania."
             }
         },
+        "uncomplete-level": {
+            "no-level-found": "Nie znaleziono <cc>poziomu</c> spróbuj otworzyć stronę <cc>poziomu</c>.",
+            "found-confirmation": "Jesteś pewien, że chcesz zresetować postęp <cc>%s</c>?\n<cr>Nie można tego cofnąć.</c>",
+            "wrong-type-confirmation": "Nieobsługiwany typ poziomu <cc>%s</c>"
+        },
+        "clone-level": {
+            "success": "<cg>Pomyślnie</c> sklonowano poziom!"
+        },
+        "iconic": {
+            "override-primary-label": "Nadpisz Pierwszy",
+            "override-secondary-label": "Nadpisz Drugi",
+            "override-glow-label": "Nadpisz Kontur",
+            "override-trail-label": "Nadpisz Ślad",
+            "override-ghost-label": "Nadpisz Ducha",
+            "override-wave-trail-label": "Nadpisz Ślad Wave",
+            "override-fine-outline-label": "Nadpisz Fine Outline",
+            "seperate-label": "Oddziel\nKolory",
+            "dual-mode-invert": "Odwróc",
+            "dual-mode-same": "Takie same",
+            "dual-mode-seperate": "Oddziel",
+            "fine-outline-missing-error": "To wymaga zainstalowanego moda <cc>Fine Outline</c> twórcy <cp>Alphalaneous</c>.",
+            "profiles-title": "Profile Efektu Ikon"
+        },
         "names": {
-            "internal/open-menu": "Keybind menu:",
+            "internal/open-menu": "Menu Keybindu:",
             "safe-mode": "Tryb bezpieczny",
             "safe-mode/text": "Tekst",
             "safe-mode/change-text": "Zmień tekst",
@@ -283,7 +338,7 @@
             "trail-off/wave-only": "Tylko w trybie Wave",
             "trail-on": "Wymuś włączenie śladu",
             "ghost-off": "Wymuś wyłączenie\nśladu ducha",
-            "ghost-on": "Wymuś włączenie\nśladu ducha",
+            "ghost-on": "Wymuś włączenie\nśladu ducha",
             "gradient-bg/end-colour": "Kolor dolny:",
             "gradient-bg/start-colour": "Kolor górny:",
             "use-:3-button": "Użyj przycisk \":3\"",
@@ -306,7 +361,7 @@
             "no-particles-adv/teleport-portal-particles": "Cząsteczki portalu teleport",
             "trail-cutting": "Obcinanie śladu",
             "trail-cutting/fps": "Aktualizacje FPS:",
-            "create-custom-reward": "Utwórz własną nagrode",
+            "create-custom-reward": "Utwórz własną nagrode",
             "noclip/player1": "Gracz 1",
             "noclip/player2": "Gracz 2",
             "noclip/player1/use-min-accuracy": "Użyj minimalną dokładność",
@@ -327,11 +382,62 @@
             "shortcut/toggle-practice": "Przełącz na tryb Practice",
             "safe-mode/end-screen-cheat-indicator": "Indykator cheatów na ekranie końcowym",
             "tps-bypass": "Bypass TPS",
-            "tps-bypass/value": "TPS:"
+            "tps-bypass/value": "TPS:",
+            "hitbox-trail/darken-by-age": "Sciemniaj na podstawie starzenia",
+            "notifications": "Powiadomienia",
+            "notifications/test": "Wyślij Powiadomienie Testowe",
+            "notifications/duration": "Czas Trwania",
+            "notifications/right": "Prawa strona",
+            "notifications/blur": "Rozmarz tło",
+            "high-fps-rotation": "Obrót wysokich FPS'ów",
+            "no-rot/cube": "Tryb Cube",
+            "no-rot/ship": "Tryb Ship",
+            "no-rot/jetpack": "Tryb Jetpack",
+            "no-rot/ball": "Tryb Ball",
+            "no-rot/ufo": "Tryb Ufo",
+            "no-rot/wave": "Tryb Wave",
+            "no-rot/robot": "Tryb Robot",
+            "no-rot/spider": "Tryb Spider",
+            "no-rot/swing": "Tryb Swing",
+            "no-invisible-objects": "Wyłącz zciemniające obiekty",
+            "hitbox-trail/click-colours": "Koloruj kliknięcia",
+            "hitbox-trail/start-click-colour": "Kolor kliknięcia",
+            "hitbox-trail/end-click-colour": "Kolor puszczenia",
+            "hitbox-trail/hold-click-colours": "Koloruj gdy trzymasz",
+            "hitbox-trail/hold-click-colour": "Kolor trzymania",
+            "main-level-bypass": "Odblokuj Główne Poziomy",
+            "shortcut/uncomplete-level": "Resetuj Postęp Poziomu",
+            "shortcut/clone-level": "Klonuj Poziom",
+            "custom-obj-limit": "Wyłącz Limit Customowych Obiektów",
+            "show-touches/scale": "Skaluj",
+            "shortcut/open-graphics-settings": "Otwórz Ustawienia Grafiki",
+            "hide-editor-ui": "Ukryj UI Edytora",
+            "fast-end-screen": "Szybki Ekran Końca",
+            "show-touches/use-trail": "Pokaż Ślad",
+            "show-touches/show-duration": "Pokaż czas trwania",
+            "hitbox-trail/no-limit": "Bez Limitu",
+            "safe-mode/disable-cheats-ui": "Wyłącz cheaty w UI",
+            "no-circles-adv/orb-touch": "Dotknięcie Orba",
+            "no-circles-adv/orb-click": "Kliknięcia Orba",
+            "no-circles-adv/pad-touch": "Dotknięcia Pada",
+            "no-circles-adv/gravity-portal-touch": "Dotknięcie Portalu Grawitacyjnego",
+            "no-circles-adv/gamemode-portal-touch": "Dotknięcie Portalu Trybu Gry",
+            "no-circles-adv/size-portal-touch": "Dotknięcie Portalu Wielkości",
+            "no-orb-pulse/size": "Wielkość Orbów",
+            "fast-chests": "Szybkie Szkrzynie",
+            "reset-percentage-on-save": "Resetuj postęp przy zapisaniu",
+            "autoclicker": "Autokliker",
+            "popup-ui-scale": "Skala UI:",
+            "autoclicker/player1": "Gracz 1",
+            "autoclicker/player2": "Gracz 2",
+            "autoclicker/player1/interval": "Interwał",
+            "autoclicker/player2/interval": "Interwał",
+            "autoclicker/player1/swift": "Szybkie kliknięcie",
+            "autoclicker/player2/swift": "Szybkie kliknięcie"
         },
         "descriptions": {
             "internal/open-menu": "",
-            "safe-mode": "Wyłącza zapisywanie postępów poziomu",
+            "safe-mode": "Wyłącza zapisywanie postępu wszystkich poziomów",
             "safe-mode/text": "",
             "safe-mode/change-text": "Zmienia tekst końcowy, aby było wiadomo jeżeli były używane cheaty",
             "noclip": "Chroni gracza przed śmiercią",
@@ -364,7 +470,7 @@
             "no-particles-adv/coin-particles": "Wyłącza cząsteczki na obiektach które można zebrać, np na monetach",
             "no-particles-adv/swing-fire-particles": "",
             "no-particles-adv/end-portal-particles": "Wyłącza cząsteczki które opuszczają portal końcowy w poziome",
-            "no-particles-adv/speed-change-particles": "Wyłącza cząsteczki które pokazują sie podczas zmiany prędkości",
+            "no-particles-adv/speed-change-particles": "Wyłącza cząsteczki które pokazują sie podczas zmiany prędkości",
             "no-particles-adv/speed-portal-particles": "",
             "no-particles-adv/mirror-portal-particles": "",
             "no-particles-adv/size-portal-particles": "",
@@ -386,7 +492,7 @@
             "no-particles/particles-in-editor": "Zezwala na pokazywanie cząsteczek w edytorze",
             "auto-safe-mode": "Automatycznie włącza tryb bezpieczny gdy jest używany cheat",
             "icon-bypass": "Odblokowuje wszystkie ikony",
-            "trans-bg": "Ustawia kolor kazdego tła na biały",
+            "trans-bg": "Ustawia kolor kazdego griadiantowego tła na biały",
             "trans-bg/only-blue": "Tylko zmienia niebieskie tła. \nMoże zepsuć niektóre elementy, np. sejfy (vaulty)",
             "trans-bg/colour": "",
             "char-limit": "Zezwala na wpisanie dowolną ilość znaków w dowolnym polu tekstowym",
@@ -409,7 +515,7 @@
             "suicide": "Natychmiastowo zabija gracza",
             "stop-triggers-on-death": "Zatrzymuje wszystkie triggery przy śmierci",
             "startpos-switcher": "Zmień pozycje startową w poziome w dowolnej chwili",
-            "startpos-switcher/use-percentage": "Pokazuje w procentach gdzie są wszystkie pozycje startowe",
+            "startpos-switcher/use-percentage": "Pokazuje w procentach gdzie są wszystkie pozycje startowe",
             "startpos-switcher/hide-ui": "Ukrywa interfejs użytkownika i czyni go nie do użytku",
             "startpos-switcher/next-bind": "",
             "startpos-switcher/prev-bind": "",
@@ -513,7 +619,49 @@
             "shortcut/restart-attempt": "Restartuje próbe na której teraz jesteś",
             "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie",
             "safe-mode/end-screen-cheat-indicator": "Pokaż indykator cheatow po pobiciu poziomu",
-            "tps-bypass": "Zezwala na to, żeby fizyka była aktualizowana w innej ilości\"klatek na sekunde\" niż domyślne 240."
+            "tps-bypass": "Zezwala na to, żeby fizyka była aktualizowana w innej ilości\"klatek na sekunde\" niż domyślne 240.",
+            "hitbox-trail/darken-by-age": "Powoduje, że ślad ciemnieje z wiekiem",
+            "notifications": "Pokazuje powiadomienie, gdy włączysz moda poprzez keybind lub skrót",
+            "notifications/test": "nie wiem stary ale chyba wysyła powiadomienie testowe",
+            "notifications/right": "Pokazuje powiadomienia po prawej stronie ekranu",
+            "notifications/blur": "Rozmazuje tło za powiadomieniami.\n Wymaga moda <cc>Blur API</c>",
+            "high-fps-rotation": "Powoduje, że tryb Ship obraca się tak jak się obraca, kiedy twoje FPS'y są ponad 1000",
+            "no-rot/cube": "Wyłącza obracanie w trybie Cube",
+            "no-rot/ship": "Wyłącza obracanie w trybie Ship",
+            "no-rot/jetpack": "Wyłącza obracanie w trybie Jetpack",
+            "no-rot/ball": "Wyłącza obracanie w trybie Ball",
+            "no-rot/ufo": "Wyłącza obracanie w trybie UFO",
+            "no-rot/wave": "Wyłącza obracanie w trybie Wave",
+            "no-rot/robot": "Wyłącza obracanie w trybie Robot",
+            "no-rot/spider": "Wyłącza obracanie w trybie Spider",
+            "no-rot/swing": "Wyłącza obracanie w trybie Swing",
+            "no-invisible-objects": "Powoduje, żę znikające obiekty pokazują się w maksymalnej nieprzezroczystości",
+            "hitbox-trail/click-colours": "Zmienia kolor śladu hitboxa na czas klatki, podczas której kliknąłeś",
+            "hitbox-trail/hold-click-colours": "Koloruje ślad hitboxa,  kiedy kliknięcie jest trzymane",
+            "main-level-bypass": "Pozwala ci grać we wszystkie główne poziomy demon",
+            "shortcut/uncomplete-level": "Usuwa cały postęp i status przejścia poziomu",
+            "shortcut/clone-level": "Klonuje poziom do twoich lokalnych poziomów",
+            "custom-obj-limit": "Usuwa limit ilości customowych obiektów, których możesz mieć",
+            "shortcut/open-graphics-settings": "Otwiera pop-up ustawień graficznych, używane do włączenia Pokaż FPS na mobilce",
+            "hide-editor-ui": "Ukrywa UI edytora, chyba logiczne...",
+            "fast-end-screen": "Pokazuje ekran końcowy od razu po wciągnięciu Cie do portalu końca",
+            "show-touches/use-trail": "Pokazuje ślad za kółkiem dotknięcia",
+            "show-touches/show-duration": "Pokazuje długość przez ile trwało dotknięcie",
+            "hitbox-trail/no-limit": "Usuwa limit zapisywanych pozycji",
+            "safe-mode/disable-cheats-ui": "Powoduje że cheaty dosłownie nie mogą być właczone za pomocą UI",
+            "no-circles-adv/orb-touch": "Wyłącza okrąg kiedy dotkniesz orba",
+            "no-circles-adv/orb-click": "Wyłącza okrąg kiedy klikniesz orba",
+            "no-circles-adv/pad-touch": "Wyłącza okrąg kiedy dotkniesz pada",
+            "no-circles-adv/gravity-portal-touch": "Wyłącza okrąg kiedy dotkniesz portalu grawitacyjnego",
+            "no-circles-adv/gamemode-portal-touch": "Wyłącza okrąg kiedy dotokniesz portalu trybu gry",
+            "no-circles-adv/size-portal-touch": "Wyłącza okrąg kiedy dotkniesz portalu wielkości",
+            "fast-chests": "Od razu pokazuje guzik zamknięcia dla skrzyń",
+            "reset-percentage-on-save": "Resetuje procent kiedy zedytujesz poziom w edytorze",
+            "autoclicker": "Automatycznie klika tyle ile razy określono na sekunde (cps)",
+            "autoclicker/player1": "Włącza autokliker dla gracza 1",
+            "autoclicker/player2": "Włącza autokliker dla gracza 1",
+            "autoclicker/player1/swift": "Klika przez tylko jeden tyk",
+            "autoclicker/player2/swift": "Klika przez tylko jeden tyk"
         }
     }
 }
