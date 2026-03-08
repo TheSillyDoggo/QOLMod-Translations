@@ -433,7 +433,9 @@
             "autoclicker/player1/interval": "Interwał",
             "autoclicker/player2/interval": "Interwał",
             "autoclicker/player1/swift": "Szybkie kliknięcie",
-            "autoclicker/player2/swift": "Szybkie kliknięcie"
+            "autoclicker/player2/swift": "Szybkie kliknięcie",
+            "pitch-shifter/high-quality": "Wysoka jakość",
+            "search/options-colour": "Tło opcji:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -661,7 +663,8 @@
             "autoclicker/player1": "Włącza autokliker dla gracza 1",
             "autoclicker/player2": "Włącza autokliker dla gracza 2",
             "autoclicker/player1/swift": "Klika przez tylko jeden tyk",
-            "autoclicker/player2/swift": "Klika przez tylko jeden tyk"
+            "autoclicker/player2/swift": "Klika przez tylko jeden tyk",
+            "pitch-shifter/high-quality": "Powoduje, że audio ze zmnienioną wysokośćią dźwięku ma wysoką jakość.\nDomyślnie wyłączone, ponieważ może używać więcej pamięci"
         }
     }
 }
