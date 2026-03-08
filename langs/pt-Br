@@ -1,25 +1,25 @@
 {
-    "display_name_english": "English",
-    "display_name_native": "English",
+    "display_name_english": "Portuguese",
+    "display_name_native": "Português",
     "fallback-lang": "",
     "font": "chatFont.fnt",
     "strings": {
         "categories": {
             "level": "Level",
             "universal": "Universal",
-            "creator": "Creator",
-            "cosmetic": "Cosmetic",
+            "creator": "Criador",
+            "cosmetic": "Cosmético",
             "speedhack": "Speedhack",
-            "icon effects": "Icon Effects",
-            "labels": "Labels",
-            "config": "Config",
-            "search": "Search",
-            "favourites": "Favourites",
+            "icon effects": "Efeitos de ícone",
+            "labels": "Abas",
+            "config": "Configurações",
+            "search": "Pesquisa",
+            "favourites": "Favoritos",
             "menu": "Menu",
-            "button": "Button",
-            "theme": "Theme",
-            "language": "Language",
-            "shortcuts": "Shortcuts"
+            "button": "Botão",
+            "theme": "Tema",
+            "language": "Língua",
+            "shortcuts": "Atalho"
         },
         "input-hints": {
             "seconds": "sec",
@@ -30,62 +30,62 @@
             "cps": "cps"
         },
         "ui": {
-            "coming-soon": "Coming Soon",
-            "themes-edit-button": "Edit Colours",
+            "coming-soon": "Em Breve...",
+            "themes-edit-button": "Editar Cores",
             "ok-button": "OK",
-            "default-button": "Default",
-            "undo-button": "Undo",
-            "change-font-button": "Change Font",
-            "safe-mode-view-reason-button": "View Reason",
-            "export-to-file-button": "Export to file",
-            "import-from-file-button": "Import from file",
-            "language-contributors-button": "View Contributors",
-            "cancel-button": "Cancel",
-            "confirm-button": "Confirm",
-            "notification-mod-enabled": "%s enabled",
-            "notification-mod-disabled": "%s disabled",
-            "notification-button-pressed": "%s activated",
-            "notification-speedhack-set": "Speedhack set to %s",
-            "notification-test": "This is a test notification :3",
-            "title-error": "Error",
-            "themes-edit-image-button": "Edit Image",
-            "language-missing-unfinished": "Language missing / unfinished?",
-            "language-contribute-button": "Contribute!"
+            "default-button": "Padrão",
+            "undo-button": "Desfazer",
+            "change-font-button": "Mudar Fonte",
+            "safe-mode-view-reason-button": "Ver Motivo",
+            "export-to-file-button": "Exportar pra Arquivo",
+            "import-from-file-button": "Importar do Arquivo",
+            "language-contributors-button": "Ver contribuidores",
+            "cancel-button": "Cancelar",
+            "confirm-button": "Confirmar",
+            "notification-mod-enabled": "%s ativo",
+            "notification-mod-disabled": "%s desabilitado",
+            "notification-button-pressed": "%s ativado",
+            "notification-speedhack-set": "Speedhack foi alterado para %s",
+            "notification-test": "Isso é uma notificação :3",
+            "title-error": "Erro",
+            "themes-edit-image-button": "Editar Imagem",
+            "language-missing-unfinished": "Língua faltando / incompleta?",
+            "language-contribute-button": "Contribua!"
         },
         "colour-setup": {
-            "title": "Select Colour",
-            "add-step": "Add Step",
-            "remove-step": "Remove Step",
-            "player-primary": "Player\nPrimary",
-            "player-secondary": "Player\nSecondary",
-            "player-glow": "Player\nGlow",
+            "title": "Selecione Cor",
+            "add-step": "Adicionar Etapa",
+            "remove-step": "Remover Etapa",
+            "player-primary": "Jogador\nPrimário",
+            "player-secondary": "Jogador\nSecundário",
+            "player-glow": "Jogador\nGlow",
             "chroma": "Chroma",
             "pastel": "Pastel",
-            "gradient": "Gradient",
-            "colour-hint": "Colour:",
-            "effect-speed": "Effect Speed",
+            "gradient": "Gradiente",
+            "colour-hint": "Cor:",
+            "effect-speed": "Velocidade do Efeito",
             "red": "R:",
             "green": "G:",
             "blue": "B:",
             "hex": "HEX:"
         },
         "extra-theme-settings": {
-            "title": "Edit Gradient Colours",
-            "title-image": "Edit Background Image"
+            "title": "Editar Cores do Gradiente",
+            "title-image": "Editar Imagem de Fundo"
         },
         "edit-keybind-ui": {
-            "title": "Edit Keybind",
-            "no-keybind": "No Keybind"
+            "title": "Edite a Tecla Vinculada",
+            "no-keybind": "Nenhuma Tecla Vinculada"
         },
         "language-credits": {
             "title": "Language Credits",
             "warning": {
                 "title": "Note",
-                "text": "Language contributors are <cr>NOT</c> <co>QOLMod</c> developers, they <cr>cannot</c> add features or fix bugs.\nPlease <cr>do not</c> message language contributors for bug fixes"
+                "text": "Contribuidores da Língua são<cr>NOT</c> <co>QOLMod</c> desenvolvedores, eles <cr>não podem</c> adicionar coisas ou corrigir falhas.\nPor favor <cr>não</c> menssagens para os contribuidores da língua corrigir falhas"
             }
         },
         "speedhack": {
-            "speed-label": "Speed:",
+            "speed-label": "Velocidade:",
             "delete-hint": "Tap a preset to remove it",
             "add-preset-exist": {
                 "title": "Speedhack Preset",
@@ -93,7 +93,7 @@
             }
         },
         "font-select": {
-            "title": "Select Font",
+            "title": "Selecione a fonte",
             "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
             "russian-supported": "This font supports the Cyrillic writing system (Russian)",
             "korean-supported": "This font supports the Hangul writing system (Korean)",
