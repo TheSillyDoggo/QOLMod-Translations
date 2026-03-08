@@ -1,6 +1,18 @@
 {
     "display_name_english": "Portuguese",
     "display_name_native": "Português",
+    "contributors": [
+        {
+            "username": "Pefiravi",
+            "account-id": 14460623,
+            "icon-id": 140,
+            "primary-col": 3,
+            "secondary-col": 11,
+            "glow-enabled": true,
+            "glow-col": 11,
+            "death-effect-id": 3
+        }
+    ],
     "fallback-lang": "",
     "font": "chatFont.fnt",
     "strings": {
