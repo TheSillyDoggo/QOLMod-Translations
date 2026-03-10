@@ -44,7 +44,7 @@
         "ui": {
             "coming-soon": "Gagawin Sandali",
             "themes-edit-button": "Ibahin ang Kulay",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "Default",
             "undo-button": "Ibalik",
             "change-font-button": "Ibahin ang Font",

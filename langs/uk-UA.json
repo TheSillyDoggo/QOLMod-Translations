@@ -33,7 +33,7 @@
             "deathEffect": 11
         }
     ],
-    "fallback-lang": "Резервна мова",
+    "fallback-lang": "",
     "font": "notosans.fnt",
     "alt-font-usage": "Forced",
     "strings": {

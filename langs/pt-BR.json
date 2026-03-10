@@ -14,7 +14,8 @@
         }
     ],
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "lexend.fnt",
+    "alt-font-usage": "Forced",
     "strings": {
         "categories": {
             "level": "Level",
@@ -44,7 +45,7 @@
         "ui": {
             "coming-soon": "Em Breve...",
             "themes-edit-button": "Editar Cores",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "Padrão",
             "undo-button": "Desfazer",
             "change-font-button": "Mudar Fonte",
@@ -287,7 +288,7 @@
             "show-player": "Forçar Mostrar Jogador",
             "force-plat": "Forçar Modo Plataforma",
             "conf-res": "Confirmar Renício",
-            "conf-prac": "Confirmar Prática,
+            "conf-prac": "Confirmar Prática",
             "coin-tracers": "Coin Tracers",
             "coin-tracers/colour": "Cor:",
             "auto-practice": "Modo Prática Automático",

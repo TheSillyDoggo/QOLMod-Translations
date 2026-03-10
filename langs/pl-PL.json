@@ -55,7 +55,7 @@
         "ui": {
             "coming-soon": "Już wkrótce",
             "themes-edit-button": "Edytuj kolory",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "Domyślny",
             "undo-button": "Cofnij",
             "change-font-button": "Zmień czcionkę",

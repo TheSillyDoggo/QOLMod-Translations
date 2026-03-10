@@ -50,7 +50,8 @@
             "title-error": "Error",
             "themes-edit-image-button": "Edit Image",
             "language-missing-unfinished": "Language missing / unfinished?",
-            "language-contribute-button": "Contribute!"
+            "language-contribute-button": "Contribute!",
+            "language-options-title": "Language Options"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -413,7 +414,17 @@
             "autoclicker/player1/swift": "Swift click",
             "autoclicker/player2/swift": "Swift click",
             "pitch-shifter/high-quality": "High Quality",
-            "search/options-colour": "Options BG:"
+            "search/options-colour": "Options BG:",
+            "all-plat": "All modes platformer",
+            "preload-language-font": "Preload language font",
+            "temp-load-language": "Load File",
+            "zoom-pause-menu": "Zoom Pause Menu",
+            "zoom-pause-menu/zoom-with-scroll": "Use Mouse Scroll",
+            "zoom-pause-menu/zoom-with-touch": "Use Touch",
+            "zoom-pause-menu/allow-panning": "Allow Panning",
+            "zoom-pause-menu/no-zoom-limit": "No Zoom Limit",
+            "zoom-pause-menu/show-controls": "Show Control",
+            "solid-wave/preserve-center": "Preserve Center"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -643,7 +654,17 @@
             "autoclicker/player2": "Enables the autoclicker for player 2",
             "autoclicker/player1/swift": "Clicks for only one tick",
             "autoclicker/player2/swift": "Clicks for only one tick",
-            "pitch-shifter/high-quality": "Makes the pitch shifter audio a high quality.\nDisabled by default since it may use more memory"
+            "pitch-shifter/high-quality": "Makes the pitch shifter audio a higher quality, disable if there are performance issues",
+            "all-plat": "Allows you to use all gamemodes in platformer mode",
+            "preload-language-font": "Loads the font that the language uses while loading the game\nKeep enabled to reduce lag spikes opening the qolmod menu",
+            "temp-load-language": "Temporarily loads a language file for testing",
+            "zoom-pause-menu": "Allows you to zoom the pause menu",
+            "zoom-pause-menu/zoom-with-scroll": "Use the mouse scroll wheel to zoom",
+            "zoom-pause-menu/zoom-with-touch": "Use two finger on the screen to zoom",
+            "zoom-pause-menu/allow-panning": "Pan the camera around by touching with one finger",
+            "zoom-pause-menu/no-zoom-limit": "Disables the limit to how far you can zoom in",
+            "zoom-pause-menu/show-controls": "Adds buttons to zoom in and out",
+            "solid-wave/preserve-center": "Keeps the white part of the trail in the center"
         }
     }
 }
