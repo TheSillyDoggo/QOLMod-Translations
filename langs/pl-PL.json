@@ -73,7 +73,8 @@
             "title-error": "Błąd",
             "themes-edit-image-button": "Edytuj Zdjęcie",
             "language-missing-unfinished": "Nie ma języka / jest niedokończony?",
-            "language-contribute-button": "Przyczyń się!"
+            "language-contribute-button": "Przyczyń się!",
+            "language-options-title": "Opcje Języka"
         },
         "colour-setup": {
             "title": "Wybierz kolor",
@@ -81,7 +82,7 @@
             "remove-step": "Usuń Krok",
             "player-primary": "Gracz\nPierwszy",
             "player-secondary": "Gracz\nDrugi",
-            "player-glow": "Obrys\ngracza",
+            "player-glow": "Obrys\nGracza",
             "chroma": "Chroma",
             "pastel": "Pastel",
             "gradient": "Gradient",
@@ -435,7 +436,17 @@
             "autoclicker/player1/swift": "Szybkie kliknięcie",
             "autoclicker/player2/swift": "Szybkie kliknięcie",
             "pitch-shifter/high-quality": "Wysoka jakość",
-            "search/options-colour": "Tło opcji:"
+            "search/options-colour": "Tło opcji:",
+            "all-plat": "Wszystkie Tryby w Platformer",
+            "preload-language-font": "Wstępnie załaduj czcionkę języka",
+            "temp-load-language": "Załaduj Plik",
+            "zoom-pause-menu": "Przybliż Menu Pauzy",
+            "zoom-pause-menu/zoom-with-scroll": "Użyj Przewijania Myszy",
+            "zoom-pause-menu/zoom-with-touch": "Użyj Dotuku",
+            "zoom-pause-menu/allow-panning": "Pozwól na Panning",
+            "zoom-pause-menu/no-zoom-limit": "Przybliżenie Bez Limitu",
+            "zoom-pause-menu/show-controls": "Pokaż Kontrolkę",
+            "solid-wave/preserve-center": "Zachowaj Środek"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -664,7 +675,17 @@
             "autoclicker/player2": "Włącza autokliker dla gracza 2",
             "autoclicker/player1/swift": "Klika przez tylko jeden tyk",
             "autoclicker/player2/swift": "Klika przez tylko jeden tyk",
-            "pitch-shifter/high-quality": "Powoduje, że audio ze zmnienioną wysokośćią dźwięku ma wysoką jakość.\nDomyślnie wyłączone, ponieważ może używać więcej pamięci"
+            "pitch-shifter/high-quality": "Powoduje, że audio ze zmnienioną wysokośćią dźwięku ma wysoką jakość.\nDomyślnie wyłączone, ponieważ może używać więcej pamięci",
+            "all-plat": "Pozwala Ci używać wszystkich trybów gry w trybie platformer",
+            "preload-language-font": "Ładuje czcionkę, której dany język używa, podczas gdy gra się ładuje. Zostaw włączone aby zredukować ilość zacinania się gry podczas otwierania menu qolmod",
+            "temp-load-language": "Tymczasowo ładuje plik języka, aby go testować",
+            "zoom-pause-menu": "Pozwala Ci na przybliżenie menu pauzy",
+            "zoom-pause-menu/zoom-with-scroll": "Użyj kółka myszy, aby przybliżać",
+            "zoom-pause-menu/zoom-with-touch": "Użyj dwóch palcy na ekranie, aby przybliżać",
+            "zoom-pause-menu/allow-panning": "Przesuwaj przybliżenie pionowo lub poziom za pomocą dotknięca jednym palcem",
+            "zoom-pause-menu/no-zoom-limit": "Usuwa limit jak bardzo możesz przybliżyć",
+            "zoom-pause-menu/show-controls": "Dodaj guziki do przybliżania i oddalania",
+            "solid-wave/preserve-center": "Zachowuje białą część śladu na środku"
         }
     }
 }
