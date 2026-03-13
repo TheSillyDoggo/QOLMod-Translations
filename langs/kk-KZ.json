@@ -45,7 +45,7 @@
         "ui": {
             "coming-soon": "Жақында",
             "themes-edit-button": "Түсті өзгерту",
-            "ok-button": "<bm>OK",
+            "ok-button": "OK",
             "default-button": "Әдепкі",
             "undo-button": "Оралу",
             "change-font-button": "Фонтты өзгерту",
@@ -63,7 +63,8 @@
             "title-error": "Еррор",
             "themes-edit-image-button": "Суретті өзгерту",
             "language-missing-unfinished": "Тіл Жоқ, немесе аяқталмағанба?",
-            "language-contribute-button": "Қатысу!"
+            "language-contribute-button": "Қатысу!",
+            "language-options-title": "Тілдер опциясы"
         },
         "colour-setup": {
             "title": "Түсті таңдау",
@@ -236,7 +237,7 @@
             "no-particles-adv/player-ground-particles": "Жерде жүргендегі эффекттері",
             "no-particles-adv/particle-objects": "Объекттің эффекттері",
             "no-particles": "Классикалық эффекттерді жою",
-            "no-particles/particles-in-editor": "Едиторда қосу",
+            "no-particles/particles-in-editor": "Тек Едиторда",
             "auto-safe-mode": "Авто Сейф-режим",
             "icon-bypass": "Барлық скин - байпасс",
             "trans-bg": "Көрінбейтін артқы фон",
@@ -278,7 +279,7 @@
             "jump-hack": "Джамп-хак",
             "instant-reverse": "Лезде айналық портал",
             "instant": "Бір сәтте аяқталу",
-            "pause-icon-kit": "Icon Kit in Pause",
+            "pause-icon-kit": "Паузада иконка киті",
             "hitbox-multiplier": "Хитбоксты көбейту",
             "hitbox-multiplier/hazard": "Қауіптер",
             "hitbox-multiplier/solid": "Қатты заттар",
@@ -426,7 +427,17 @@
             "autoclicker/player1/swift": "Свифт-клик",
             "autoclicker/player2/swift": "Свифт-клик",
             "pitch-shifter/high-quality": "Жоғары сапа",
-            "search/options-colour": "Параметрлер фоны:"
+            "search/options-colour": "Параметрлер фоны:",
+            "all-plat": "Платформер - Барлық режимге",
+            "preload-language-font": "Тіл фонт-ын алдын-ала жүктеу",
+            "temp-load-language": "Файлды жүктеу",
+            "zoom-pause-menu": "Пауза менюсын үлкейту",
+            "zoom-pause-menu/zoom-with-scroll": "Тінтуір дөңгелегі арқылы",
+            "zoom-pause-menu/zoom-with-touch": "Басу арқылы",
+            "zoom-pause-menu/allow-panning": "Камераны жылжыту",
+            "zoom-pause-menu/no-zoom-limit": "Үлкейту лимитін жою",
+            "zoom-pause-menu/show-controls": "Контролды көрсету",
+            "solid-wave/preserve-center": "Ортасын сақтау"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -656,7 +667,17 @@
             "autoclicker/player2": "Ойыншы 2-ге автокликер қосылады",
             "autoclicker/player1/swift": "Тек бір тикқа басылады",
             "autoclicker/player2/swift": "Тек бір тикқа басылады",
-            "pitch-shifter/high-quality": "Тон-шифтер аудиосын жоғары сапалы етеді.\nӘдепкіде ол өшірулі, себебі ол көп ОЗУ қолдануы мүмкін"
+            "pitch-shifter/high-quality": "Тон-шифтер аудиосын жоғары сапалы етеді, егер жұмыс қабілетімен қиындық пайда болса өшір",
+            "all-plat": "Платформерді барлық режимда ойнау мүмкіндігін береді",
+            "preload-language-font": "Тіл қолданатын фонтты ойынның жүктелуі кезінде алдын-ала жүктеп алу\nӘдепкіде ол қосулы, qolmod менюсын ашар кездегі кенет лагты азайту үшін",
+            "temp-load-language": "Тест жасау үшін уақытша тіл файлын жүктейді",
+            "zoom-pause-menu": "Пауза менюсын үлкейтеді",
+            "zoom-pause-menu/zoom-with-scroll": "Үлкейту үшін тінтуір дөңгелегін қолданады",
+            "zoom-pause-menu/zoom-with-touch": "Үлкейту үшін экранға екі саусақ қолданады",
+            "zoom-pause-menu/allow-panning": "Бір саусақ арқылы камераны жылжытады",
+            "zoom-pause-menu/no-zoom-limit": "Қаншалықты үлкейту лимитін жояды",
+            "zoom-pause-menu/show-controls": "Үлкейту немесе кішірейту үшін батырма қосады",
+            "solid-wave/preserve-center": "Іздің ортасындағы ақ нәрсені қалдыру"
         }
     }
 }
