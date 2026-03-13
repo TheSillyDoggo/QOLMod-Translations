@@ -424,7 +424,9 @@
             "zoom-pause-menu/allow-panning": "Allow Panning",
             "zoom-pause-menu/no-zoom-limit": "No Zoom Limit",
             "zoom-pause-menu/show-controls": "Show Control",
-            "solid-wave/preserve-center": "Preserve Center"
+            "solid-wave/preserve-center": "Preserve Center",
+            "accurate-spike-hitboxes": "Accurate Hitboxes",
+            "high-quality-circles": "High Quality Circles"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -664,7 +666,9 @@
             "zoom-pause-menu/allow-panning": "Pan the camera around by touching with one finger",
             "zoom-pause-menu/no-zoom-limit": "Disables the limit to how far you can zoom in",
             "zoom-pause-menu/show-controls": "Adds buttons to zoom in and out",
-            "solid-wave/preserve-center": "Keeps the white part of the trail in the center"
+            "solid-wave/preserve-center": "Keeps the white part of the trail in the center",
+            "accurate-spike-hitboxes": "Makes the hitboxes of spikes an actual triangle",
+            "high-quality-circles": "Makes circle effects (like the ones when respawning and touching orbs) smoother"
         }
     }
 }
