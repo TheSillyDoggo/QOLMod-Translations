@@ -148,7 +148,7 @@
             "in-editor": "W edytorze",
             "in-editor-pause": "W menu pauzy edytora",
             "scale-title": "Skaluj",
-            "opacity-title": "Przezroczystosc",
+            "opacity-title": "Przezroczystość",
             "enabled-title": "Włączony",
             "movable-title": "Przesuwalny"
         },
@@ -192,6 +192,41 @@
             "dual-mode-seperate": "Oddziel",
             "fine-outline-missing-error": "To wymaga zainstalowanego moda <cc>Fine Outline</c> twórcy <cp>Alphalaneous</c>.",
             "profiles-title": "Profile Efektu Ikon"
+        },
+        "enums": {
+            "kCCTransitionFade": "Zanikaj",
+            "kCCTransitionCrossFade": "Zanikaj Krzyżowo",
+            "kCCTransitionFadeBL": "Zanikaj Lewy Dolny",
+            "kCCTransitionFadeTR": "Zanikaj Prawy Górny",
+            "kCCTransitionFadeUp": "Zanikaj Góra",
+            "kCCTransitionFadeDown": "Zanikaj Dół",
+            "kCCTransitionFlipAngular": "Obróć Kanciasto",
+            "kCCTransitionFlipX": "Obróć Oś X",
+            "kCCTransitionFlipY": "Obróć Oś Y",
+            "kCCTransitionZoomFlipAngular": "Obróć Kanciasto Przybliżeniowo",
+            "kCCTransitionZoomFlipX": "Obróć Przybliżeniowo Oś X",
+            "kCCTransitionZoomFlipY": "Obróć Przybliżeniowo Oś Y",
+            "kCCTransitionJumpZoom": "Przybiż Skokowo",
+            "kCCTransitionMoveInT": "Wprowadź w Górę",
+            "kCCTransitionMoveInB": "Wprowadź w Dół",
+            "kCCTransitionMoveInL": "Wprowadź w Lewo",
+            "kCCTransitionMoveInR": "Wprowadź w Prawo",
+            "kCCTransitionRotoZoom": "Obróć Przybliżeniowo",
+            "kCCTransitionShrinkGrow": "Zmniejsz Urośnij",
+            "kCCTransitionSlideInT": "Przesuń w Górę",
+            "kCCTransitionSlideInB": "Przesuń w Dół",
+            "kCCTransitionSlideInL": "Przesuń w Lewo",
+            "kCCTransitionSlideInR": "Przesuń w Prawo",
+            "kCCTransitionSplitRows": "Rozdziel Wiersze",
+            "kCCTransitionSplitCols": "Rozdziel Kolumny",
+            "kCCTransitionTurnOffTiles": "Kafelki",
+            "kCCTransitionProgressRadialCW": "Progres Promieniowo CW",
+            "kCCTransitionProgressRadialCCW": "Progres Promieniowo CCW",
+            "kCCTransitionProgressHorizontal": "Progres Poziomo",
+            "kCCTransitionProgressVertical": "Progres Pionowo",
+            "kCCTransitionProgressInOut": "Progres Wewnątrz Zewnątrz",
+            "kCCTransitionProgressOutIn": "Progress Zewnątrz Wewnątrz",
+            "kCCTransitionPageTurn": "Obrót Kartki"
         },
         "names": {
             "internal/open-menu": "Menu Keybindu:",
@@ -446,7 +481,10 @@
             "zoom-pause-menu/allow-panning": "Pozwól na Panning",
             "zoom-pause-menu/no-zoom-limit": "Przybliżenie Bez Limitu",
             "zoom-pause-menu/show-controls": "Pokaż Kontrolkę",
-            "solid-wave/preserve-center": "Zachowaj Środek"
+            "solid-wave/preserve-center": "Zachowaj Środek",
+            "accurate-spike-hitboxes": "Precyzyjne Hitboxy",
+            "high-quality-circles": "Wysokiej Jakości Okręgi"
+            
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -685,7 +723,9 @@
             "zoom-pause-menu/allow-panning": "Przesuwaj przybliżenie pionowo lub poziom za pomocą dotknięca jednym palcem",
             "zoom-pause-menu/no-zoom-limit": "Usuwa limit jak bardzo możesz przybliżyć",
             "zoom-pause-menu/show-controls": "Dodaj guziki do przybliżania i oddalania",
-            "solid-wave/preserve-center": "Zachowuje białą część śladu na środku"
+            "solid-wave/preserve-center": "Zachowuje białą część śladu na środku",
+            "accurate-spike-hitboxes": "Powoduje, że hitboxy kolców są rzeczywiście trójkątami",
+            "high-quality-circles": "Powoduje, że efekty okręgów (np. tych przy odradzaniu się lub dotykaniu orbów) są płynniejsze"
         }
     }
 }
