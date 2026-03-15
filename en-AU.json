@@ -461,7 +461,11 @@
             "zoom-pause-menu/show-controls": "Show Control",
             "solid-wave/preserve-center": "Preserve Center",
             "accurate-spike-hitboxes": "Accurate Hitboxes",
-            "high-quality-circles": "High Quality Circles"
+            "high-quality-circles": "High Quality Circles",
+            "transition-customiser": "Transition Customiser",
+            "transition-customiser/duration": "Duration",
+            "paint": "Paint",
+            "no-editor-zoom-limit": "No Zoom Limit"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -703,7 +707,10 @@
             "zoom-pause-menu/show-controls": "Adds buttons to zoom in and out",
             "solid-wave/preserve-center": "Keeps the white part of the trail in the center",
             "accurate-spike-hitboxes": "Makes the hitboxes of spikes an actual triangle",
-            "high-quality-circles": "Makes circle effects (like the ones when respawning and touching orbs) smoother"
+            "high-quality-circles": "Makes circle effects (like the ones when respawning and touching orbs) smoother",
+            "transition-customiser": "Edit the transition when changing scenes",
+            "paint": "Allows you to paint over the game window",
+            "no-editor-zoom-limit": "Allows you to zoom in infinitely in the editor"
         }
     }
 }
