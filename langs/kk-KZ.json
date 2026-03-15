@@ -183,6 +183,41 @@
             "fine-outline-missing-error": "Бұны қолдану үшін <cp>Alphalaneous</c>-тан жасалған <cc>Fine Outline</c> моды орнатылған болуы керек.",
             "profiles-title": "Иконка эффекттер профильдері"
         },
+        "enums": {
+            "kCCTransitionFade": "Фейд",
+            "kCCTransitionCrossFade": "Кросс фейд",
+            "kCCTransitionFadeBL": "Төменгі сол жақта фейд",
+            "kCCTransitionFadeTR": "Үстінгі оң жақта фейд",
+            "kCCTransitionFadeUp": "Үстіден фейд",
+            "kCCTransitionFadeDown": "Төменнен фейд",
+            "kCCTransitionFlipAngular": "Бұрыш бойынша флип",
+            "kCCTransitionFlipX": "Флип X",
+            "kCCTransitionFlipY": "Флип Y",
+            "kCCTransitionZoomFlipAngular": "Бұрыштық зуммен флип",
+            "kCCTransitionZoomFlipX": "Зум флип X",
+            "kCCTransitionZoomFlipY": "Зум флип Y",
+            "kCCTransitionJumpZoom": "Секіріп зумдау",
+            "kCCTransitionMoveInT": "Жоғарыға жылжыту",
+            "kCCTransitionMoveInB": "Төменге жылжыту",
+            "kCCTransitionMoveInL": "Солға жылжыту",
+            "kCCTransitionMoveInR": "Оңға жылжыту",
+            "kCCTransitionRotoZoom": "Айналып зумдау",
+            "kCCTransitionShrinkGrow": "Кішілеу үлкею",
+            "kCCTransitionSlideInT": "Үстіге сырғанау",
+            "kCCTransitionSlideInB": "Төменге сырғанау",
+            "kCCTransitionSlideInL": "Солға сырғанау",
+            "kCCTransitionSlideInR": "Оңға сырғанау",
+            "kCCTransitionSplitRows": "Жолдарды бөлу",
+            "kCCTransitionSplitCols": "Бағандарды бөлу",
+            "kCCTransitionTurnOffTiles": "Tiles",
+            "kCCTransitionProgressRadialCW": "СТБ радиалды прогресс",
+            "kCCTransitionProgressRadialCCW": "СТБҚ радиалды прогресс",
+            "kCCTransitionProgressHorizontal": "Горизонталды прогресс",
+            "kCCTransitionProgressVertical": "Вертикалды прогресс",
+            "kCCTransitionProgressInOut": "Іштен сыртқа прогресс",
+            "kCCTransitionProgressOutIn": "Сырттан ішке прогресс",
+            "kCCTransitionPageTurn": "Бет айналдыру"
+        },
         "names": {
             "internal/open-menu": "Меню пернесі:",
             "safe-mode": "Сейф-режим",
@@ -381,7 +416,7 @@
             "notifications/duration": "Ұзақтығы:",
             "notifications/right": "Оң жақ",
             "notifications/blur": "Артқы фонды бұлыңғыр ету",
-            "high-fps-rotation": "Көп ФПС - айналу",
+            "high-fps-rotation": "Багты кеменің айналуы",
             "no-rot/cube": "Куб",
             "no-rot/ship": "Кеме",
             "no-rot/jetpack": "Джетпак",
@@ -437,7 +472,12 @@
             "zoom-pause-menu/allow-panning": "Камераны жылжыту",
             "zoom-pause-menu/no-zoom-limit": "Үлкейту лимитін жою",
             "zoom-pause-menu/show-controls": "Контролды көрсету",
-            "solid-wave/preserve-center": "Ортасын сақтау"
+            "solid-wave/preserve-center": "Ортасын сақтау",
+            "high-quality-circles": "Жоғары сапалы шеңбер эффекті",
+            "transition-customiser": "Ауысу кастомайзері",
+            "transition-customiser/duration": "Ұзақтығы",
+            "paint": "Бояу",
+            "no-editor-zoom-limit": "Зум лимитін жою"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -677,7 +717,12 @@
             "zoom-pause-menu/allow-panning": "Бір саусақ арқылы камераны жылжытады",
             "zoom-pause-menu/no-zoom-limit": "Қаншалықты үлкейту лимитін жояды",
             "zoom-pause-menu/show-controls": "Үлкейту немесе кішірейту үшін батырма қосады",
-            "solid-wave/preserve-center": "Іздің ортасындағы ақ нәрсені қалдыру"
+            "solid-wave/preserve-center": "Іздің ортасындағы ақ нәрсені қалдыру",
+            "accurate-spike-hitboxes": "Шиптің хитбокстары кәдімгі үшбұрыш болып кетеді",
+            "high-quality-circles": "Шеңбер эффекттерің (Респавн жасағанда немесе орбыға тигендегі эффекттер секілді) Жұмсағырақ етеді",
+            "transition-customiser": "Сценаны ауыстырып жатқандағы ауысуды өзгертеді",
+            "paint": "Ойынның бетін бояуға мүмкіндік береді",
+            "no-editor-zoom-limit": "Едиторда камераны шексіз үлкейтуге немесе кішірейтуге мүмкіндік береді"
         }
     }
 }
