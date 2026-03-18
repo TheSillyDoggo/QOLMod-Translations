@@ -478,7 +478,8 @@
             "transition-customiser": "Personalizar transiciones",
             "transition-customiser/duration": "Duración",
             "paint": "Dibujar",
-            "no-editor-zoom-limit": "Quitar límite de zoom"
+            "no-editor-zoom-limit": "Quitar límite de zoom",
+            "checkpoint-fix": "Checkpoints mejorados"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -723,7 +724,8 @@
             "high-quality-circles": "Hace que los efectos circulares (como los que aparecen al reaparecer y tocar orbes) sean más suaves",
             "transition-customiser": "Te permite editar la transición al ir cambiando entre menús",
             "paint": "Te permite dibujar sobre la ventana del juego",
-            "no-editor-zoom-limit": "Te permite hacer zoom de forma infinita dentro del editor"
+            "no-editor-zoom-limit": "Te permite hacer zoom de forma infinita dentro del editor",
+            "checkpoint-fix": "Hace que cada checkpoint guarde todo el estado del jugador"
         }
     }
 }
