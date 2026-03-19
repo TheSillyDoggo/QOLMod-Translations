@@ -51,7 +51,8 @@
             "themes-edit-image-button": "Edit Image",
             "language-missing-unfinished": "Language missing / unfinished?",
             "language-contribute-button": "Contribute!",
-            "language-options-title": "Language Options"
+            "language-options-title": "Language Options",
+            "crash-confirmation": "Are you <cc>sure</c> you want to <cr>CRASH</c> the game?\nThis will <cr>NOT</c> save your data."
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -466,7 +467,9 @@
             "transition-customiser/duration": "Duration",
             "paint": "Paint",
             "no-editor-zoom-limit": "No Zoom Limit",
-            "checkpoint-fix": "Fixed Checkpoints"
+            "checkpoint-fix": "Fixed Checkpoints",
+            "hitbox-trail/opacity": "Opacity",
+            "shortcut/crash-the-game": "Crash the game"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -712,7 +715,8 @@
             "transition-customiser": "Edit the transition when changing scenes",
             "paint": "Allows you to paint over the game window",
             "no-editor-zoom-limit": "Allows you to zoom in infinitely in the editor",
-            "checkpoint-fix": "Saves everything about the player with every checkpoint"
+            "checkpoint-fix": "Saves everything about the player with every checkpoint",
+            "shortcut/crash-the-game": "Forces the game to crash, useful to close without saving"
         }
     }
 }
