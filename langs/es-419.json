@@ -479,7 +479,9 @@
             "transition-customiser/duration": "Duración",
             "paint": "Dibujar",
             "no-editor-zoom-limit": "Quitar límite de zoom",
-            "checkpoint-fix": "Checkpoints mejorados"
+            "checkpoint-fix": "Checkpoints mejorados",
+            "hitbox-trail/opacity": "Opacidad",
+            "shortcut/crash-the-game": "Forzar cierre del juego"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -725,7 +727,8 @@
             "transition-customiser": "Te permite editar la transición al ir cambiando entre menús",
             "paint": "Te permite dibujar sobre la ventana del juego",
             "no-editor-zoom-limit": "Te permite hacer zoom de forma infinita dentro del editor",
-            "checkpoint-fix": "Hace que cada checkpoint guarde todo el estado del jugador"
+            "checkpoint-fix": "Hace que cada checkpoint guarde todo el estado del jugador",
+            "shortcut/crash-the-game": "Fuerza el cierre del juego, útil para salir sin guardar"
         }
     }
 }
