@@ -74,7 +74,8 @@
             "themes-edit-image-button": "Edytuj Zdjęcie",
             "language-missing-unfinished": "Nie ma języka / jest niedokończony?",
             "language-contribute-button": "Przyczyń się!",
-            "language-options-title": "Opcje Języka"
+            "language-options-title": "Opcje Języka",
+            "crash-confirmation": "Jesteś<cc>pewien</c>, że chcesz<cr>ZCRASHOWAĆ</c> grę?\nSpowoduje to że gra się<cr>NIE</c>zapisze."
         },
         "colour-setup": {
             "title": "Wybierz kolor",
@@ -488,7 +489,10 @@
             "transition-customiser": "Dostosowywacz Przejść",
             "transition-customiser/duration": "Czas Trwania",
             "paint": "Farba",
-            "no-editor-zoom-limit": "Brak limitu Przybliżenia"
+            "no-editor-zoom-limit": "Brak limitu Przybliżenia",
+            "checkpoint-fix": "Naprawione Punkty Kontrolne",
+            "hitbox-trail/opacity": "Nieprzezroczystość",
+            "shortcut/crash-the-game": "Zcrashuj grę (zamknij)"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -728,11 +732,13 @@
             "zoom-pause-menu/no-zoom-limit": "Usuwa limit jak bardzo możesz przybliżyć",
             "zoom-pause-menu/show-controls": "Dodaj guziki do przybliżania i oddalania",
             "solid-wave/preserve-center": "Zachowuje białą część śladu na środku",
-            "accurate-spike-hitboxes": "Powoduje, że hitboxy kolców są rzeczywiście trójkątami",
+            "accurate-spike-hitboxes": "Powoduje, że hitboxy kolców są rzeczywiście trójkątami.\n Ale... czy Stereo Madness jest możliwe z precyzyjnymi hitboxami...?",
             "high-quality-circles": "Powoduje, że efekty okręgów (np. tych przy odradzaniu się lub dotykaniu orbów) są płynniejsze",
             "transition-customiser": "Edytuj przejścia, gdy zmieniasz ekrany",
             "paint": "Pozwala ci malować po ekranie gry",
-            "no-editor-zoom-limit": "Pozwala na nieskończone prybliżanie w edytorze"
+            "no-editor-zoom-limit": "Pozwala na nieskończone prybliżanie w edytorze", 
+            "checkpoint-fix": "Zapisuje wszystko o graczy na każdym punkcie kontrolnym",
+            "shortcut/crash-the-game": "Zmusza grę do zcrashowania, użyteczne do zamykania gry bez zapisywania jej"
         }
     }
 }
