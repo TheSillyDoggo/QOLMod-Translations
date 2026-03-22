@@ -492,7 +492,15 @@
             "no-editor-zoom-limit": "Brak limitu Przybliżenia",
             "checkpoint-fix": "Naprawione Punkty Kontrolne",
             "hitbox-trail/opacity": "Nieprzezroczystość",
-            "shortcut/crash-the-game": "Zcrashuj grę (zamknij)"
+            "shortcut/crash-the-game": "Zcrashuj grę (zamknij)",
+            "paint/vertical-control": "Pionowe Kontrolki",
+            "show-trajectory": "Pokarz tor ruchu",
+            "show-trajectory/player1": "Gracz 1",
+            "show-trajectory/player2": "Gracz 2",
+            "show-trajectory/player1/hold-colour": "Kolor Trzymania:",
+            "show-trajectory/player1/release-colour": "Kolor Puszczenia:",
+            "show-trajectory/player2/hold-colour": "Kolor Trzymania:",
+            "show-trajectory/player2/release-colour": "Kolor Puszczenia:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -738,7 +746,11 @@
             "paint": "Pozwala ci malować po ekranie gry",
             "no-editor-zoom-limit": "Pozwala na nieskończone prybliżanie w edytorze", 
             "checkpoint-fix": "Zapisuje wszystko o graczy na każdym punkcie kontrolnym",
-            "shortcut/crash-the-game": "Zmusza grę do zcrashowania, użyteczne do zamykania gry bez zapisywania jej"
+            "shortcut/crash-the-game": "Zmusza grę do zcrashowania, użyteczne do zamykania gry bez zapisywania jej",
+            "paint/vertical-control": "Powoduje, że guziki są położone pionowo",
+            "show-trajectory": "Pokazuje kierunek, w którym poruszy się gracz, zależąć od tego czy klikniesz",
+            "show-trajectory/player1": "Pokazuje tor ruchu dla gracza 1",
+            "show-trajectory/player2": "Pokazuje tor ruchu dla gracza 2"
         }
     }
 }
