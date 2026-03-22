@@ -469,7 +469,8 @@
             "no-editor-zoom-limit": "No Zoom Limit",
             "checkpoint-fix": "Fixed Checkpoints",
             "hitbox-trail/opacity": "Opacity",
-            "shortcut/crash-the-game": "Crash the game"
+            "shortcut/crash-the-game": "Crash the game",
+            "paint/vertical-control": "Vertical Control"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -716,7 +717,8 @@
             "paint": "Allows you to paint over the game window",
             "no-editor-zoom-limit": "Allows you to zoom in infinitely in the editor",
             "checkpoint-fix": "Saves everything about the player with every checkpoint",
-            "shortcut/crash-the-game": "Forces the game to crash, useful to close without saving"
+            "shortcut/crash-the-game": "Forces the game to crash, useful to close without saving",
+            "paint/vertical-control": "Makes the buttons be placed vertically"
         }
     }
 }
