@@ -470,7 +470,14 @@
             "checkpoint-fix": "Fixed Checkpoints",
             "hitbox-trail/opacity": "Opacity",
             "shortcut/crash-the-game": "Crash the game",
-            "paint/vertical-control": "Vertical Control"
+            "paint/vertical-control": "Vertical Control",
+            "show-trajectory": "Show Trajectory",
+            "show-trajectory/player1": "Player 1",
+            "show-trajectory/player2": "Player 2",
+            "show-trajectory/player1/hold-colour": "Hold Colour:",
+            "show-trajectory/player1/release-colour": "Release Colour:",
+            "show-trajectory/player2/hold-colour": "Hold Colour:",
+            "show-trajectory/player2/release-colour": "Release Colour:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -718,7 +725,10 @@
             "no-editor-zoom-limit": "Allows you to zoom in infinitely in the editor",
             "checkpoint-fix": "Saves everything about the player with every checkpoint",
             "shortcut/crash-the-game": "Forces the game to crash, useful to close without saving",
-            "paint/vertical-control": "Makes the buttons be placed vertically"
+            "paint/vertical-control": "Makes the buttons be placed vertically",
+            "show-trajectory": "Shows the path that the player will take if you click or not",
+            "show-trajectory/player1": "Shows the trajectory for player 1",
+            "show-trajectory/player2": "Shows the trajectory for player 2"
         }
     }
 }
