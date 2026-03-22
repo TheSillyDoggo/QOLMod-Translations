@@ -64,7 +64,8 @@
             "themes-edit-image-button": "Суретті өзгерту",
             "language-missing-unfinished": "Тіл Жоқ, немесе аяқталмағанба?",
             "language-contribute-button": "Қатысу!",
-            "language-options-title": "Тілдер опциясы"
+            "language-options-title": "Тілдер опциясы",
+            "crash-confirmation": "Сіз ойынға <cr>КРАШ</c> жасауға <cc>сенімдісіз</c> бе?\nБұл сенің дата-нды <cr>САҚТАМАЙДЫ</c>."
         },
         "colour-setup": {
             "title": "Түсті таңдау",
@@ -430,8 +431,8 @@
             "hitbox-trail/click-colours": "Басылған кездегі түс",
             "hitbox-trail/start-click-colour": "Басу түсі",
             "hitbox-trail/end-click-colour": "Жіберу түсі",
-            "hitbox-trail/hold-click-colours": "Басып ұстау кездегі түс",
-            "hitbox-trail/hold-click-colour": "Басып ұстау түсі",
+            "hitbox-trail/hold-click-colours": "Басып тұру түсі",
+            "hitbox-trail/hold-click-colour": "Басып тұру түсі",
             "main-level-bypass": "Негізгі деңгей - байпасс",
             "shortcut/uncomplete-level": "Деңгейді орындатпау",
             "shortcut/clone-level": "Деңгейді клондау",
@@ -478,7 +479,18 @@
             "transition-customiser": "Ауысу кастомайзері",
             "transition-customiser/duration": "Ұзақтығы",
             "paint": "Бояу",
-            "no-editor-zoom-limit": "Зум лимитін жою"
+            "no-editor-zoom-limit": "Зум лимитін жою",
+            "checkpoint-fix": "Жөнделген чекпойнттар",
+            "hitbox-trail/opacity": "Мөлдірлік",
+            "shortcut/crash-the-game": "Ойынға краш жасау",
+            "paint/vertical-control": "Вертикалды контроль",
+            "show-trajectory": "Траекторияны көрсету",
+            "show-trajectory/player1": "Ойыншы 1",
+            "show-trajectory/player2": "Ойыншы 2",
+            "show-trajectory/player1/hold-colour": "Басып тұру түсі:",
+            "show-trajectory/player1/release-colour": "Жіберу түсі:",
+            "show-trajectory/player2/hold-colour": "Басып тұру түсі:",
+            "show-trajectory/player2/release-colour": "Жіберу түсі:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -719,11 +731,17 @@
             "zoom-pause-menu/no-zoom-limit": "Қаншалықты үлкейту лимитін жояды",
             "zoom-pause-menu/show-controls": "Үлкейту немесе кішірейту үшін батырма қосады",
             "solid-wave/preserve-center": "Іздің ортасындағы ақ нәрсені қалдыру",
-            "accurate-spike-hitboxes": "Шиптің хитбокстары кәдімгі үшбұрыш болып кетеді",
+            "accurate-spike-hitboxes": "Шиптің хитбокстары кәдімгі үшбұрыш болып кетеді. Бірақ... Stereo Madness шынайы хитбокстармен мүмкін бе?",
             "high-quality-circles": "Шеңбер эффекттерің (Респавн жасағанда немесе орбыға тигендегі эффекттер секілді) Жұмсағырақ етеді",
             "transition-customiser": "Сценаны ауыстырып жатқандағы ауысуды өзгертеді",
             "paint": "Ойынның бетін бояуға мүмкіндік береді",
-            "no-editor-zoom-limit": "Едиторда камераны шексіз үлкейтуге немесе кішірейтуге мүмкіндік береді"
+            "no-editor-zoom-limit": "Едиторда камераны шексіз үлкейтуге немесе кішірейтуге мүмкіндік береді",
+            "checkpoint-fix": "Чекпойнт сайын ойыншы туралы барлық ақпаратты сақтайды (Яғни, чекпойнт қойған кездегі иконканың әрекетін сақтайды)",
+            "shortcut/crash-the-game": "Ойынға краш жасауды мәжбүрлейді, ойынды сақтамай жабу үшін қажетті",
+            "paint/vertical-control": "Батырмаларды вертикалды қояды",
+            "show-trajectory": "Ойыншы басқан кездегі, баспаған кездегі траекториясын көрсетеді",
+            "show-trajectory/player1": "Ойыншы 1-дің траекториясын көрсетеді",
+            "show-trajectory/player2": "Ойыншы 2-нің траекториясын көрсетеді"
         }
     }
 }
