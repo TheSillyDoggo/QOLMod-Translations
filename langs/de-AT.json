@@ -6,13 +6,13 @@
     "contributors": [
         {
             "username": "IAmHyper1",
-            "account-id": "idk",
-            "icon-id": "idk",
-            "primary-col": ,
-            "secondary-col": ,
-            "glow-enabled": ,
-            "glow-col": ,
-            "death-effect-id": 
+            "account-id": 0,
+            "icon-id": 0,
+            "primary-col": 0,
+            "secondary-col": 0,
+            "glow-enabled": 0,
+            "glow-col": 0,
+            "death-effect-id": 0
         }
     ],
     "font": "lexend.fnt",
@@ -58,7 +58,7 @@
             "notification-mod-disabled": "%s is jetzt aus, fertig",
             "notification-button-pressed": "%s druckt",
             "notification-speedhack-set": "Tempo steht jetzt auf %s, heast",
-            "notification-test": "Des is nur a Test, chill 😎 :3",
+            "notification-test": "Des is nur a Test :3",
             "title-error": "Oasch... Fehler",
             "themes-edit-image-button": "Büdln tauschn",
             "language-missing-unfinished": "Fehlt wos bei da Sproch?",

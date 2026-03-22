@@ -2,30 +2,30 @@
     "display_name_english": "French",
     "display_name_native": "Français | France",
     "fallback-lang": "en-AU.json",
-    "font": "chatFont.fnt",
+    "font": "lexend.fnt",
     "contributors": [
         {
-        "username": "LuckyTime",
-        "account-id": 19133501,
-        "icon-id": 353,
-        "primary-col": 12,
-        "secondary-col": 22,
-        "glow-enabled": false,
-        "glow-col": 22,
-        "death-effect-id": 1
-    },
-    {
-    
-        "username": "90HzGD",
-        "account-id": 31333137,
-        "icon-id": 35,
-        "primary-col": 17,
-        "secondary-col": 10,
-        "glow-enabled": false,
-        "glow-col": 17,
-        "death-effect-id": 12
-    }
-],
+            "username": "LuckyTime",
+            "account-id": 19133501,
+            "icon-id": 353,
+            "primary-col": 12,
+            "secondary-col": 22,
+            "glow-enabled": false,
+            "glow-col": 22,
+            "death-effect-id": 1
+        },
+        {
+        
+            "username": "90HzGD",
+            "account-id": 31333137,
+            "icon-id": 35,
+            "primary-col": 17,
+            "secondary-col": 10,
+            "glow-enabled": false,
+            "glow-col": 17,
+            "death-effect-id": 12
+        }
+    ],
     "strings": {
         "categories": {
             "level": "Jeu",

@@ -415,7 +415,7 @@
             "no-circles-adv/size-portal-touch": "크기 포탈 터치",
             "no-orb-pulse/size": "공점 크기",
             "fast-chests": "상자 닫기 버튼 빨리 활성화",
-            "reset-percentage-on-save": "저장 시 진행도 초기화"
+            "reset-percentage-on-save": "저장 시 진행도 초기화",
             "autoclicker": "오토클리커",
             "popup-ui-scale": "UI 크기:",
             "autoclicker/player1": "1P(플레이어 1)",
