@@ -57,7 +57,7 @@
             "ok-button": "OK",
             "default-button": "Par Défaut",
             "undo-button": "Annuler Action",
-            "change-font-button": "Modifier La Police d'écriture",
+            "change-font-button": "Modifer La Police d'écriture",
             "safe-mode-view-reason-button": "Voir Cause Du Mode Sécurisé",
             "export-to-file-button": "Exporter Vers...",
             "import-from-file-button": "Importer Depuis Un Fichier",
@@ -65,7 +65,7 @@
             "cancel-button": "Annuler",
             "confirm-button": "Confirmer",
             "notification-mod-enabled": "%s Activé",
-            "notification-mod-disabled": "%s Désactivé",
+            "notification-mod-disabled": "%s Desactivé",
             "notification-button-pressed": "%s Activé",
             "notification-speedhack-set": "Vitesse Mise à: %s",
             "notification-test": "Ceci Est Une Notification De Test! :D",
@@ -75,11 +75,11 @@
             "language-contribute-button": "Contribuer!"
         },
         "colour-setup": {
-            "title": "Sélectionner Une Couleur",
+            "title": "Selectionner Une Couleur",
             "add-step": "Ajouter un point",
             "remove-step": "Retirer point",
             "player-primary": "Couleur Principale\nJoueur",
-            "player-secondary": "Couleur Secondaire\nJoueur",
+            "player-secondary": "COuleur Secondaire\nJoueur",
             "player-glow": "Joueur\nContour",
             "chroma": "Saturation",
             "pastel": "Pastel",
@@ -100,10 +100,10 @@
             "no-keybind": "Aucune Touche(s) préssee(s)"
         },
         "language-credits": {
-            "title": "Crédits des Traductions",
+            "title": "Credits des Traductions",
             "warning": {
                 "title": "Note",
-                "text": "Les contributeurs aux langues <cr>NE SONT PAS </c> les <co>Developpeurs de QOLMod</c>, ils <cr>NE PEUVENT PAS</c> ajouter des Fonctionnalités ou Patch des Bugs.\nVeuillez <cr>NE PAS</c> contacter les contributeurs aux langues du mod pour <cy>Patcher des Bugs!<c>"
+                "text": "Les contirubuteurs aux langues <cr>NE SONT PAS </c> les <co>Developpeurs de QOLMod</c>, ils <cr>NE PEUVENT PAS</c> ajouter des Fonctionnalitées ou Patch des Bugs.\nVeuillez <cr>NE PAS</c> contacter les contributeurs aux langues du mod pour <cy>Patcher des Bugs!<c>"
             }
         },
         "speedhack": {
@@ -115,7 +115,7 @@
             }
         },
         "font-select": {
-            "title": "Sélectionner Police d'écriture",
+            "title": "Selectionner Police d'écriture",
             "japanese-supported": "Cette Police fonctionne avec Hiragana, Katakana et Kanji (Japonais)",
             "russian-supported": "Cette Police fonctionne avec le système d'écriture: Cyrillic (Russe)",
             "korean-supported": "Cette Police fonctionne avec le système d'écriture: Hangul (Korean)",
@@ -151,9 +151,9 @@
             "movable-title": "Mobile"
         },
         "select-item": {
-            "title-generic": "Sélectionner <cy>élément<c>",
-            "title-background": "Sélectionner un Raccourci d'arrière-plan",
-            "title-icon": "Sélectionner l'icône du raccourci"
+            "title-generic": "Selectionner <cy>élément<c>",
+            "title-background": "Selectionner un Raccourci d'arrière-plan",
+            "title-icon": "Selectionner l'icône du raccourci"
         },
         "animation": {
             "none": "Aucune",
@@ -165,7 +165,7 @@
             "fade-in": "Fondu entrant",
             "preview-error-none": {
                 "title": "Prévusialiser l'animation",
-                "text": "Il n'y a aucune Animation à prévisualiser!."
+                "text": "Il n'y a aucune Animation à prévisialiser!."
             }
         },
         "uncomplete-level": {
@@ -285,7 +285,7 @@
             "practice-complete": "1 essai en Practice",
             "no-reverse": "Aucun portail Mirroir",
             "jump-hack": "Saut Infini",
-            "instant-reverse": "Transition portail mirroir Instantanée",
+            "instant-reverse": "Transition portail mirroit Instantanée",
             "instant": "Compléter Instantanément (Danger)",
             "pause-icon-kit": "Montrer icônes joueurs dans menu de Pause",
             "hitbox-multiplier": "Multiplicateur d'Hitboxes",
@@ -376,7 +376,7 @@
             "show-hitboxes-on-death/trail": "Trainée de la Hitboxe",
             "gradient-bg/rotation": "Direction:",
             "search-on-keypress": "Raccourci barre de recherche",
-            "disable-shortcuts": "Désactiver les Raccourcis",
+            "disable-shortcuts": "Desactiver les Raccourcis",
             "shortcut/open-settings": "Ouvrir les paramètres",
             "shortcut/restart-attempt": "Relancer l'essai",
             "shortcut/toggle-practice": "Activer/Désactiver Practice Mode",
@@ -425,8 +425,8 @@
             "no-circles-adv/size-portal-touch": "Portail de taille Touché",
             "no-orb-pulse/size": "Taille Orbe",
             "fast-chests": "Transition Coffres Rapides",
-            "reset-percentage-on-save": "Réinitialiser pourcentage à la sauvegarde",
-            "autoclicker": "Autoclicker",
+            "reset-percentage-on-save": "Rénitialiser pourcentage à la sauvegarde",
+            "autoclicker": "Autocliceur",
             "popup-ui-scale": "Echelle HUD:"
         },
         "descriptions": {
