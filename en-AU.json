@@ -163,6 +163,8 @@
             "override-trail-label": "Override Trail",
             "override-ghost-label": "Override Ghost",
             "override-wave-trail-label": "Override Wave Trail",
+            "override-dash-fire-label": "Override Dash Fire",
+            "override-spider-teleport-label": "Override Spider Teleport",
             "override-fine-outline-label": "Override Fine Outline",
             "seperate-label": "Seperate\nColours",
             "dual-mode-invert": "Invert",
