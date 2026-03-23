@@ -21,7 +21,17 @@
             "glow-enabled": true,
             "glow-col": 3,
             "death-effect-id": 1
-        }
+        },
+      {
+        "username": "GDMilkyReal",
+        "account-id": 36485050,
+        "icon-id": 98,
+        "primary-col": 106,
+        "secondary-col": 83,
+        "glow-enabled": true,
+        "glow-col": 83,
+        "death-effect-id": 15
+    }
     ],
     "fallback-lang": "en-AU.json",
     "font": "lexend.fnt",
@@ -69,7 +79,7 @@
             "remove-step": "Hapus Langkah",
             "player-primary": "Pemain\nUtama",
             "player-secondary": "Pemain\nCadangan",
-            "player-glow": "Player\nCahaya",
+            "player-glow": "Pemain\nCahaya",
             "chroma": "Chroma",
             "pastel": "Pastel",
             "gradient": "Gradasi",

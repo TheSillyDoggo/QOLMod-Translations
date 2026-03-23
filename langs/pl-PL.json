@@ -74,7 +74,8 @@
             "themes-edit-image-button": "Edytuj Zdjęcie",
             "language-missing-unfinished": "Nie ma języka / jest niedokończony?",
             "language-contribute-button": "Przyczyń się!",
-            "language-options-title": "Opcje Języka"
+            "language-options-title": "Opcje Języka",
+            "crash-confirmation": "Jesteś<cc>pewien</c>, że chcesz<cr>ZCRASHOWAĆ</c> grę?\nSpowoduje to że gra się<cr>NIE</c>zapisze."
         },
         "colour-setup": {
             "title": "Wybierz kolor",
@@ -365,7 +366,8 @@
             "no-glow": "Usuń kontur",
             "no-death": "Usuń efekty śmierci",
             "no-dash-fire": "Usuń ogień Dash",
-            "no-circles": "Usuń kółka",
+            "no-circles-adv": "Usuń Kółka",
+            "no-circles": "Usuń kółka (Klasyczne)",
             "no-shake": "Usuń efekt\ntrzęsienia kamery",
             "longer-trail": "Dłuższy ślad",
             "longer-trail/player-only": "Tylko dla gracza",
@@ -425,7 +427,7 @@
             "notifications/duration": "Czas Trwania",
             "notifications/right": "Prawa strona",
             "notifications/blur": "Rozmarz tło",
-            "high-fps-rotation": "Obrót wysokich FPS'ów",
+            "high-fps-rotation": "Zbugowany Obrót Trybu Gry Ship",
             "no-rot/cube": "Tryb Cube",
             "no-rot/ship": "Tryb Ship",
             "no-rot/jetpack": "Tryb Jetpack",
@@ -483,8 +485,14 @@
             "zoom-pause-menu/show-controls": "Pokaż Kontrolkę",
             "solid-wave/preserve-center": "Zachowaj Środek",
             "accurate-spike-hitboxes": "Precyzyjne Hitboxy",
-            "high-quality-circles": "Wysokiej Jakości Okręgi"
-            
+            "high-quality-circles": "Wysokiej Jakości Okręgi",
+            "transition-customiser": "Dostosowywacz Przejść",
+            "transition-customiser/duration": "Czas Trwania",
+            "paint": "Farba",
+            "no-editor-zoom-limit": "Brak limitu Przybliżenia",
+            "checkpoint-fix": "Naprawione Punkty Kontrolne",
+            "hitbox-trail/opacity": "Nieprzezroczystość",
+            "shortcut/crash-the-game": "Zcrashuj grę (zamknij)"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -724,8 +732,13 @@
             "zoom-pause-menu/no-zoom-limit": "Usuwa limit jak bardzo możesz przybliżyć",
             "zoom-pause-menu/show-controls": "Dodaj guziki do przybliżania i oddalania",
             "solid-wave/preserve-center": "Zachowuje białą część śladu na środku",
-            "accurate-spike-hitboxes": "Powoduje, że hitboxy kolców są rzeczywiście trójkątami",
-            "high-quality-circles": "Powoduje, że efekty okręgów (np. tych przy odradzaniu się lub dotykaniu orbów) są płynniejsze"
+            "accurate-spike-hitboxes": "Powoduje, że hitboxy kolców są rzeczywiście trójkątami.\n Ale... czy Stereo Madness jest możliwe z precyzyjnymi hitboxami...?",
+            "high-quality-circles": "Powoduje, że efekty okręgów (np. tych przy odradzaniu się lub dotykaniu orbów) są płynniejsze",
+            "transition-customiser": "Edytuj przejścia, gdy zmieniasz ekrany",
+            "paint": "Pozwala ci malować po ekranie gry",
+            "no-editor-zoom-limit": "Pozwala na nieskończone prybliżanie w edytorze", 
+            "checkpoint-fix": "Zapisuje wszystko o graczy na każdym punkcie kontrolnym",
+            "shortcut/crash-the-game": "Zmusza grę do zcrashowania, użyteczne do zamykania gry bez zapisywania jej"
         }
     }
 }

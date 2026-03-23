@@ -1,6 +1,16 @@
 {
     "contributors": [
         {
+            "username": "Kietmilo",
+            "account-id": 21200163,
+            "icon-id": 103,
+            "primary-col": 11,
+            "secondary-col": 12,
+            "glow-enabled": false,
+            "glow-col": 12,
+            "death-effect-id": 3
+        },
+        {
             "username": "Bao143",
             "account-id": 24331745,
             "icon-id": 227,
@@ -41,13 +51,16 @@
             "menu": "Menu",
             "button": "Nút",
             "theme": "Giao diện",
-            "language": "Ngôn ngữ"
+            "language": "Ngôn ngữ",
+            "shortcuts": "Phím tắt"
         },
         "input-hints": {
             "seconds": "giây",
             "semitones": "semitones",
             "fps": "fps",
-            "percentage": "%"
+            "percentage": "%",
+            "tps": "tps",
+            "cps": "cps"
         },
         "ui": {
             "coming-soon": "Sắp ra mắt",
@@ -60,7 +73,19 @@
             "export-to-file-button": "Xuất ra thành tệp",
             "import-from-file-button": "Nhập vào từ tệp",
             "language-contributors-button": "Xem những người hỗ trợ",
-            "cancel-button": "Từ chối"
+            "cancel-button": "Từ chối",
+            "confirm-button": "Xác nhận",
+            "notification-mod-enabled": "Đã bật %s",
+            "notification-mod-disabled": "Đã tắt %s",
+            "notification-button-pressed": "Đã kích hoạt %s",
+            "notification-speedhack-set": "Tốc độ đặt thành %s",
+            "notification-test": "Đây là thông báo thử nghiệm :3",
+            "title-error": "Lỗi",
+            "themes-edit-image-button": "Chỉnh sửa hình ảnh",
+            "language-missing-unfinished": "Ngôn ngữ bị thiếu / chưa hoàn thiện?",
+            "language-contribute-button": "Đóng góp!",
+            "language-options-title": "Tùy chọn ngôn ngữ",
+            "crash-confirmation": "Bạn có <cc>chắc chắn</c> muốn <cr>LÀM SẬP</c> trò chơi không?\nĐiều này sẽ <cr>KHÔNG</c> lưu dữ liệu của bạn."
         },
         "colour-setup": {
             "title": "Chọn màu",
@@ -72,17 +97,35 @@
             "chroma": "Sắc độ",
             "pastel": "Phấn màu",
             "gradient": "Khuynh độ",
-            "colour-hint": "Màu:"
+            "colour-hint": "Màu:",
+            "effect-speed": "Tốc độ hiệu ứng",
+            "red": "Đỏ (R):",
+            "green": "Xanh lá (G):",
+            "blue": "Xanh dương (B):",
+            "hex": "HEX:"
         },
         "extra-theme-settings": {
-            "title": "Chỉnh màu khuynh độ"
+            "title": "Chỉnh màu khuynh độ",
+            "title-image": "Chỉnh sửa ảnh nền"
         },
         "edit-keybind-ui": {
             "title": "Chỉnh nút tắt",
             "no-keybind": "Không nút tắt"
         },
         "language-credits": {
-            "title": "Những người dịch ngôn ngữ"
+            "title": "Những người dịch ngôn ngữ",
+            "warning": {
+                "title": "Lưu ý",
+                "text": "Những người đóng góp ngôn ngữ <cr>KHÔNG PHẢI</c> là nhà phát triển <co>QOLMod</c>, họ <cr>không thể</c> thêm tính năng hoặc sửa lỗi.\nVui lòng <cr>không</c> nhắn tin cho người đóng góp ngôn ngữ để yêu cầu sửa lỗi."
+            }
+        },
+        "speedhack": {
+            "speed-label": "Tốc độ:",
+            "delete-hint": "Bấm vào một giá trị để xoá nó",
+            "add-preset-exist": {
+                "title": "Thiết lập tốc độ",
+                "text": "Đã có sẵn một thiết lập với giá trị đó <cc>%s</c>"
+            }
         },
         "font-select": {
             "title": "Chọn phông chữ",
@@ -91,46 +134,38 @@
             "korean-supported": "Phông chữ này hỗ trợ hệ thống chữ viết Hangul (Hàn Quốc)",
             "chinese-supported": "Phông chữ này hỗ trợ hệ thống chữ viết Hanzi (Trung Quốc)"
         },
+        "create-custom-reward": {
+            "first-use-warning": "<cr>Cảnh báo</c>\nSử dụng công cụ này sẽ chỉnh sửa vĩnh viễn save file của bạn. Bạn sẽ có nguy cơ bị cấm leaderboard.\n<cl>Sử dụng với rủi ro của riêng bạn</c>",
+            "create-button": "Tạo"
+        },
         "labels": {
             "cheat-indicator-label": "Báo gian lận",
             "noclip-only-label": "Chỉ cho Noclip",
-            "none-added-hint": "Không có nhãn.\n Bạn có thể<cc>thêm</c> nhãn với các\n<cl>nút</c>  ở bên<cp>phải</c> "
-        },
-        "speedhack": {
-            "add-preset-exist": {
-                "text": "Đã có sẵn một thiết lập với giá trị đó <cc>%s</c>"
-            },
-            "delete-hint": "Bấm vào một giá trị để xoá nó",
-            "add-preset-exist/title": "Giá trị tốc độ",
-            "speed-label": "Tốc độ:"
-        },
-        "setup-shortcut": {
-            "title": "Chỉnh sửa lối tắt",
-            "in-menu": "Trong Menu",
-            "in-game-pause": "Tạm dừng",
-            "in-editor": "Trong Editor",
-            "in-editor-pause": "Trong Editor (màn hình tạm dừng)",
-            "in-game": "Trong Game",
-            "scale-title": "Kích thước",
-            "enabled-title": "Đã bật",
-            "movable-title": "Di động",
-            "opacity-title": "Độ mờ"
-        },
-        "create-custom-reward": {
-            "create-button": "Tạo",
-            "first-use-warning": "<cr>Cảnh báo</c>\nSử dụng công cụ này sẽ chỉnh sửa vĩnh viễn save file của bạn. Bạn sẽ có nguy cơ bị cấm leaderboard.\n<cl>Sử dụng với rủi ro của riêng bạn</c>"
-        },
-        "setup-rotation": {
-            "title": "Chỉnh sửa xoay",
-            "input-title": "Xoay",
-            "input-placeholder": "xoay"
+            "none-added-hint": "Không có nhãn.\n Bạn có thể <cc>thêm</c> nhãn với các\n<cl>nút</c> ở bên <cp>phải</c> "
         },
         "search-tab": {
             "placeholder": "Tìm một mod nào đó..."
         },
+        "setup-rotation": {
+            "title": "Chỉnh sửa xoay",
+            "input-placeholder": "xoay",
+            "input-title": "Xoay"
+        },
+        "setup-shortcut": {
+            "title": "Chỉnh sửa lối tắt",
+            "in-menu": "Trong Menu",
+            "in-game": "Trong Game",
+            "in-game-pause": "Tạm dừng",
+            "in-editor": "Trong Editor",
+            "in-editor-pause": "Trong Editor (màn hình tạm dừng)",
+            "scale-title": "Kích thước",
+            "opacity-title": "Độ mờ",
+            "enabled-title": "Đã bật",
+            "movable-title": "Di động"
+        },
         "select-item": {
-            "title-background": "Chọn nền cho lối tắt",
             "title-generic": "Chọn item",
+            "title-background": "Chọn nền cho lối tắt",
             "title-icon": "Chọn biểu tượng lối tắt"
         },
         "animation": {
@@ -145,6 +180,64 @@
                 "title": "Trình chiếu chuyển động",
                 "text": "Không có chuyển động để trình chiếu"
             }
+        },
+        "uncomplete-level": {
+            "no-level-found": "Không tìm thấy <cc>màn chơi</c> nào, hãy thử mở một trang <cc>màn chơi</c>.",
+            "found-confirmation": "Bạn có chắc chắn muốn hủy hoàn thành <cc>%s</c> không.\nHành động này <cr>không thể hoàn tác</c>",
+            "wrong-type-confirmation": "Loại màn chơi không được hỗ trợ <cc>%s</c>"
+        },
+        "clone-level": {
+            "success": "Đã sao chép màn chơi <cg>thành công</c>!"
+        },
+        "iconic": {
+            "override-primary-label": "Ghi đè màu chính",
+            "override-secondary-label": "Ghi đè màu phụ",
+            "override-glow-label": "Ghi đè viền sáng",
+            "override-trail-label": "Ghi đè dấu vết",
+            "override-ghost-label": "Ghi đè bóng ma",
+            "override-wave-trail-label": "Ghi đè dấu vết Wave",
+            "override-fine-outline-label": "Ghi đè viền mỏng",
+            "seperate-label": "Tách\nmàu",
+            "dual-mode-invert": "Đảo ngược",
+            "dual-mode-same": "Giống nhau",
+            "dual-mode-seperate": "Tách biệt",
+            "fine-outline-missing-error": "Yêu cầu phải cài đặt mod <cc>Fine Outline</c> của <cp>Alphalaneous</c>.",
+            "profiles-title": "Hồ sơ hiệu ứng Icon"
+        },
+        "enums": {
+            "kCCTransitionFade": "Mờ dần",
+            "kCCTransitionCrossFade": "Mờ chéo",
+            "kCCTransitionFadeBL": "Mờ từ dưới trái",
+            "kCCTransitionFadeTR": "Mờ từ trên phải",
+            "kCCTransitionFadeUp": "Mờ lên trên",
+            "kCCTransitionFadeDown": "Mờ xuống dưới",
+            "kCCTransitionFlipAngular": "Lật góc",
+            "kCCTransitionFlipX": "Lật trục X",
+            "kCCTransitionFlipY": "Lật trục Y",
+            "kCCTransitionZoomFlipAngular": "Thu phóng lật góc",
+            "kCCTransitionZoomFlipX": "Thu phóng lật trục X",
+            "kCCTransitionZoomFlipY": "Thu phóng lật trục Y",
+            "kCCTransitionJumpZoom": "Nhảy thu phóng",
+            "kCCTransitionMoveInT": "Di chuyển vào từ trên",
+            "kCCTransitionMoveInB": "Di chuyển vào từ dưới",
+            "kCCTransitionMoveInL": "Di chuyển vào từ trái",
+            "kCCTransitionMoveInR": "Di chuyển vào từ phải",
+            "kCCTransitionRotoZoom": "Xoay thu phóng",
+            "kCCTransitionShrinkGrow": "Thu nhỏ phóng to",
+            "kCCTransitionSlideInT": "Trượt vào từ trên",
+            "kCCTransitionSlideInB": "Trượt vào từ dưới",
+            "kCCTransitionSlideInL": "Trượt vào từ trái",
+            "kCCTransitionSlideInR": "Trượt vào từ phải",
+            "kCCTransitionSplitRows": "Chia hàng",
+            "kCCTransitionSplitCols": "Chia cột",
+            "kCCTransitionTurnOffTiles": "Tắt ô gạch",
+            "kCCTransitionProgressRadialCW": "Tiến trình tỏa tròn theo chiều kim đồng hồ",
+            "kCCTransitionProgressRadialCCW": "Tiến trình tỏa tròn ngược chiều kim đồng hồ",
+            "kCCTransitionProgressHorizontal": "Tiến trình ngang",
+            "kCCTransitionProgressVertical": "Tiến trình dọc",
+            "kCCTransitionProgressInOut": "Tiến trình trong ra ngoài",
+            "kCCTransitionProgressOutIn": "Tiến trình ngoài vào trong",
+            "kCCTransitionPageTurn": "Lật trang"
         },
         "names": {
             "internal/open-menu": "Nút tắt Menu:",
@@ -270,6 +363,7 @@
             "solid-wave": "Dấu vết Wave là chất rắn",
             "no-wave": "Không dấu vết Wave",
             "no-wave-pulse": "Wave không Đập ",
+            "no-trail-blending": "Không pha trộn dấu vết",
             "no-spider-dash": "Không nhện có hiệu ứng Dash",
             "no-ship-fire": "Không Lửa ở tàu",
             "no-shaders": "Không Shaders",
@@ -282,6 +376,7 @@
             "no-glow": "Không viền sáng",
             "no-death": "Không hiệu ứng chết",
             "no-dash-fire": "Không hiệu ứng lửa ở Cầu Dash",
+            "no-circles-adv": "Không tròn (Nâng cao)",
             "no-circles": "Không tròn",
             "no-shake": "Không camera rung",
             "longer-trail": "Dấu vết dài hơn",
@@ -314,7 +409,11 @@
             "no-particles-adv/teleport-portal-particles": "Các vật thể cổng dịch chuyển",
             "trail-cutting": "Cắt dấu vết",
             "trail-cutting/fps": "Cập Nhật FPS:",
-            "no-trail-blending": "Không pha trộn dấu vết",
+            "create-custom-reward": "Tạo một phần thưởng tùy chỉnh",
+            "noclip/player1": "Người chơi số 1",
+            "noclip/player2": "Người chơi số 2",
+            "noclip/player1/use-min-accuracy": "Độ chính xác tối thiểu",
+            "noclip/player2/use-min-accuracy": "Độ chính xác tối thiểu",
             "noclip/player1/min-accuracy": "Sự chính xác tối thiểu:",
             "noclip/player2/min-accuracy": "Sự chính xác tối thiểu:",
             "noclip/player1/use-max-deaths": "Số lần chết tối đa",
@@ -323,17 +422,87 @@
             "noclip/player2/max-deaths": "Số lần chết tối đa:",
             "show-hitboxes-on-death/death-object-only": "Chỉ vật gây chết",
             "show-hitboxes-on-death/trail": "Dấu vết Hitbox",
-            "noclip/player1": "Người chơi số 1",
-            "noclip/player2": "Người chơi số 2",
-            "noclip/player1/use-min-accuracy": "Độ chính xác tối thiểu",
-            "noclip/player2/use-min-accuracy": "Độ chính xác tối thiểu",
             "gradient-bg/rotation": "Phương hướng:",
-            "shortcut/open-settings": "Mở menu cài đặt",
-            "shortcut/toggle-practice": "Bật/tắt Chế độ luyện tập",
             "search-on-keypress": "Tìm kiếm trên keypress",
+            "disable-shortcuts": "Vô hiệu hóa phím tắt",
+            "shortcut/open-settings": "Mở menu cài đặt",
             "shortcut/restart-attempt": "Khởi động lại các lần thử",
-            "create-custom-reward": "Tạo một phần thưởng tùy chỉnh",
-            "disable-shortcuts": "Vô hiệu hóa phím tắt"
+            "shortcut/toggle-practice": "Bật/tắt Chế độ luyện tập",
+            "safe-mode/end-screen-cheat-indicator": "Cảnh báo gian lận ở màn hình kết thúc",
+            "tps-bypass": "TPS Bypass",
+            "tps-bypass/value": "TPS:",
+            "hitbox-trail/darken-by-age": "Tối dần theo thời gian",
+            "notifications": "Thông báo",
+            "notifications/test": "Gửi thông báo thử nghiệm",
+            "notifications/duration": "Thời lượng",
+            "notifications/right": "Bên phải",
+            "notifications/blur": "Làm mờ nền",
+            "high-fps-rotation": "Lỗi xoay tàu",
+            "no-rot/cube": "Khối lập phương",
+            "no-rot/ship": "Tàu bay",
+            "no-rot/jetpack": "Phản lực",
+            "no-rot/ball": "Bóng",
+            "no-rot/ufo": "Đĩa bay",
+            "no-rot/wave": "Wave",
+            "no-rot/robot": "Robot",
+            "no-rot/spider": "Nhện",
+            "no-rot/swing": "Swing",
+            "no-invisible-objects": "Không có vật thể mờ dần",
+            "hitbox-trail/click-colours": "Màu khi click",
+            "hitbox-trail/start-click-colour": "Màu lúc nhấn",
+            "hitbox-trail/end-click-colour": "Màu lúc thả",
+            "hitbox-trail/hold-click-colours": "Màu khi giữ",
+            "hitbox-trail/hold-click-colour": "Màu giữ",
+            "main-level-bypass": "Bypass màn chơi chính",
+            "shortcut/uncomplete-level": "Hủy hoàn thành màn chơi",
+            "shortcut/clone-level": "Sao chép màn chơi",
+            "custom-obj-limit": "Không giới hạn vật thể tùy chỉnh",
+            "show-touches/scale": "Kích thước",
+            "shortcut/open-graphics-settings": "Mở Cài đặt Đồ họa",
+            "hide-editor-ui": "Ẩn Giao diện Editor",
+            "fast-end-screen": "Màn hình kết thúc nhanh",
+            "show-touches/use-trail": "Hiển thị dấu vết",
+            "show-touches/show-duration": "Hiển thị thời lượng",
+            "hitbox-trail/no-limit": "Không giới hạn",
+            "safe-mode/disable-cheats-ui": "Vô hiệu hóa gian lận trong UI",
+            "no-circles-adv/orb-touch": "Chạm vào Cầu",
+            "no-circles-adv/orb-click": "Click vào Cầu",
+            "no-circles-adv/pad-touch": "Chạm vào Đệm",
+            "no-circles-adv/gravity-portal-touch": "Chạm cổng trọng lực",
+            "no-circles-adv/gamemode-portal-touch": "Chạm cổng chế độ",
+            "no-circles-adv/size-portal-touch": "Chạm cổng kích thước",
+            "no-orb-pulse/size": "Kích thước Cầu",
+            "fast-chests": "Mở rương nhanh",
+            "reset-percentage-on-save": "Đặt lại phần trăm khi lưu",
+            "autoclicker": "Tự động click (Autoclicker)",
+            "popup-ui-scale": "Kích thước UI:",
+            "autoclicker/player1": "Người chơi 1",
+            "autoclicker/player2": "Người chơi 2",
+            "autoclicker/player1/interval": "Khoảng thời gian",
+            "autoclicker/player2/interval": "Khoảng thời gian",
+            "autoclicker/player1/swift": "Click siêu tốc",
+            "autoclicker/player2/swift": "Click siêu tốc",
+            "pitch-shifter/high-quality": "Chất lượng cao",
+            "search/options-colour": "Nền Tùy chọn:",
+            "all-plat": "Tất cả chế độ là Platformer",
+            "preload-language-font": "Tải trước phông chữ ngôn ngữ",
+            "temp-load-language": "Tải Tệp",
+            "zoom-pause-menu": "Thu phóng Menu Tạm dừng",
+            "zoom-pause-menu/zoom-with-scroll": "Dùng con lăn chuột",
+            "zoom-pause-menu/zoom-with-touch": "Dùng cảm ứng",
+            "zoom-pause-menu/allow-panning": "Cho phép di chuyển góc nhìn",
+            "zoom-pause-menu/no-zoom-limit": "Không giới hạn thu phóng",
+            "zoom-pause-menu/show-controls": "Hiển thị điều khiển",
+            "solid-wave/preserve-center": "Giữ lại phần trung tâm",
+            "accurate-spike-hitboxes": "Hitbox gai chính xác",
+            "high-quality-circles": "Vòng tròn chất lượng cao",
+            "transition-customiser": "Tùy chỉnh chuyển cảnh",
+            "transition-customiser/duration": "Thời lượng",
+            "paint": "Vẽ",
+            "no-editor-zoom-limit": "Không giới hạn thu phóng Editor",
+            "checkpoint-fix": "Sửa lỗi Checkpoint",
+            "hitbox-trail/opacity": "Độ mờ",
+            "shortcut/crash-the-game": "Làm sập game"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -517,7 +686,69 @@
             "shortcut/open-settings": "Mở menu cài đặt",
             "noclip/player1/use-max-deaths": "Cho phép người chơi chết khi số lần chết quá số lượng đã cho",
             "shortcut/restart-attempt": "Khởi động lại lượt chơi hiện tại nếu bạn đang ở trong một level",
-            "shortcut/toggle-practice": "Bật/tắt chế độ luyện tập nếu bạn đang ở trong một level"
+            "shortcut/toggle-practice": "Bật/tắt chế độ luyện tập nếu bạn đang ở trong một level",
+            "safe-mode/end-screen-cheat-indicator": "Hiển thị một dấu hiệu nhận biết gian lận trên màn hình kết thúc.",
+            "tps-bypass": "Cho phép vật lý của bạn cập nhật ở một \"tốc độ khung hình\" khác với mặc định là 240.",
+            "hitbox-trail/darken-by-age": "Làm cho dấu vết tối dần đi khi nó tồn tại lâu hơn.",
+            "notifications": "Hiển thị thông báo bất cứ khi nào bạn bật/tắt một mod thông qua phím tắt.",
+            "notifications/test": "Gửi một thông báo thử nghiệm.",
+            "notifications/right": "Hiển thị các thông báo ở phía bên phải màn hình.",
+            "notifications/blur": "Làm mờ nền phía sau các thông báo.\nYêu cầu phải cài đặt mod <cc>Blur API</c>.",
+            "high-fps-rotation": "Làm cho tàu bay xoay giống như khi fps của bạn trên 1000.",
+            "no-rot/cube": "Vô hiệu hóa xoay trong chế độ Khối lập phương.",
+            "no-rot/ship": "Vô hiệu hóa xoay trong chế độ Tàu bay.",
+            "no-rot/jetpack": "Vô hiệu hóa xoay trong chế độ Phản lực.",
+            "no-rot/ball": "Vô hiệu hóa xoay trong chế độ Bóng.",
+            "no-rot/ufo": "Vô hiệu hóa xoay trong chế độ Đĩa bay.",
+            "no-rot/wave": "Vô hiệu hóa xoay trong chế độ Wave.",
+            "no-rot/robot": "Vô hiệu hóa xoay trong chế độ Robot.",
+            "no-rot/spider": "Vô hiệu hóa xoay trong chế độ Nhện.",
+            "no-rot/swing": "Vô hiệu hóa xoay trong chế độ Swing.",
+            "no-invisible-objects": "Làm cho các vật thể mờ dần hiển thị ở độ mờ tối đa.",
+            "hitbox-trail/click-colours": "Thay đổi màu của dấu vết hitbox tại khung hình bạn nhấn vào.",
+            "hitbox-trail/hold-click-colours": "Tô màu cho dấu vết hitbox khi giữ chuột/cảm ứng.",
+            "main-level-bypass": "Cho phép bạn chơi tất cả các màn chơi Demon chính.",
+            "shortcut/uncomplete-level": "Xóa tất cả tiến trình và trạng thái hoàn thành của một màn chơi.",
+            "shortcut/clone-level": "Sao chép một màn chơi vào danh sách màn chơi cục bộ của bạn.",
+            "custom-obj-limit": "Bỏ giới hạn số lượng vật thể tùy chỉnh bạn có thể đặt.",
+            "shortcut/open-graphics-settings": "Mở cửa sổ cài đặt đồ họa, dùng để bật Hiển thị FPS trên thiết bị di động.",
+            "hide-editor-ui": "Ẩn giao diện người dùng (UI) trong chế độ Editor, hiểu chứ?",
+            "fast-end-screen": "Hiển thị màn hình kết thúc ngay khi bạn bị kéo vào cổng kết thúc.",
+            "show-touches/use-trail": "Hiển thị một dấu vết phía sau vòng tròn chạm.",
+            "show-touches/show-duration": "Hiển thị khoảng thời gian một lần chạm diễn ra.",
+            "hitbox-trail/no-limit": "Xóa giới hạn số lượng vị trí được lưu lại.",
+            "safe-mode/disable-cheats-ui": "Làm cho các gian lận hoàn toàn không thể được kích hoạt trên giao diện (UI).",
+            "no-circles-adv/orb-touch": "Vô hiệu hóa vòng tròn khi bạn chạm vào một quả cầu.",
+            "no-circles-adv/orb-click": "Vô hiệu hóa vòng tròn khi bạn nhấn vào một quả cầu.",
+            "no-circles-adv/pad-touch": "Vô hiệu hóa vòng tròn khi bạn chạm vào một tấm đệm nhảy.",
+            "no-circles-adv/gravity-portal-touch": "Vô hiệu hóa vòng tròn khi bạn chạm vào cổng trọng lực.",
+            "no-circles-adv/gamemode-portal-touch": "Vô hiệu hóa vòng tròn khi bạn chạm vào cổng thay đổi chế độ.",
+            "no-circles-adv/size-portal-touch": "Vô hiệu hóa vòng tròn khi bạn chạm vào cổng kích thước.",
+            "fast-chests": "Hiển thị nút đóng rương ngay lập tức.",
+            "reset-percentage-on-save": "Đặt lại phần trăm về 0 khi bạn chỉnh sửa một màn chơi trong Editor.",
+            "autoclicker": "Tự động nhấp ở tốc độ CPS được chỉ định.",
+            "autoclicker/player1": "Bật tự động click cho người chơi 1.",
+            "autoclicker/player2": "Bật tự động click cho người chơi 2.",
+            "autoclicker/player1/swift": "Chỉ nhấp trong một tick (đơn vị cập nhật logic game).",
+            "autoclicker/player2/swift": "Chỉ nhấp trong một tick (đơn vị cập nhật logic game).",
+            "pitch-shifter/high-quality": "Tạo âm thanh pitch shifter chất lượng cao hơn, hãy tắt nếu gặp vấn đề về hiệu suất.",
+            "all-plat": "Cho phép bạn sử dụng tất cả các chế độ chơi trong chế độ platformer.",
+            "preload-language-font": "Tải phông chữ ngôn ngữ khi trò chơi đang khởi động\nHãy bật tính năng này để giảm hiện tượng giật lag khi mở menu QoLMod.",
+            "temp-load-language": "Tạm thời tải một tệp ngôn ngữ để thử nghiệm.",
+            "zoom-pause-menu": "Cho phép bạn phóng to/thu nhỏ màn hình tạm dừng.",
+            "zoom-pause-menu/zoom-with-scroll": "Sử dụng con lăn chuột để thu phóng.",
+            "zoom-pause-menu/zoom-with-touch": "Sử dụng hai ngón tay trên màn hình để thu phóng.",
+            "zoom-pause-menu/allow-panning": "Di chuyển góc nhìn máy ảnh bằng cách chạm với một ngón tay.",
+            "zoom-pause-menu/no-zoom-limit": "Vô hiệu hóa giới hạn mức độ bạn có thể phóng to.",
+            "zoom-pause-menu/show-controls": "Thêm các nút để phóng to và thu nhỏ.",
+            "solid-wave/preserve-center": "Giữ lại phần màu trắng của dấu vết ở trung tâm.",
+            "accurate-spike-hitboxes": "Làm cho hitbox của gai trở thành một hình tam giác thực sự.\nNhưng... Stereo Madness có thể qua được với hitbox chính xác không..?",
+            "high-quality-circles": "Làm mượt các hiệu ứng vòng tròn (như vòng tròn khi hồi sinh và khi chạm vào quả cầu).",
+            "transition-customiser": "Chỉnh sửa hiệu ứng chuyển đổi khi thay đổi cảnh.",
+            "paint": "Cho phép bạn vẽ lên cửa sổ trò chơi.",
+            "no-editor-zoom-limit": "Cho phép bạn thu phóng vô hạn trong Editor.",
+            "checkpoint-fix": "Lưu trữ mọi thông tin về người chơi ở mỗi checkpoint.",
+            "shortcut/crash-the-game": "Bắt buộc trò chơi phải sập, hữu ích để đóng game mà không lưu lại."
         }
     }
 }
