@@ -186,6 +186,8 @@
             "override-trail-label": "Nadpisz Ślad",
             "override-ghost-label": "Nadpisz Ducha",
             "override-wave-trail-label": "Nadpisz Ślad Wave",
+            "override-dash-fire-label": "Nadpisz Ogień Dashu",
+            "override-spider-teleport-label": "Nadpisz Teleportację trybu gry Spider",
             "override-fine-outline-label": "Nadpisz Cienki Kontur",
             "seperate-label": "Oddziel\nKolory",
             "dual-mode-invert": "Odwróc",
