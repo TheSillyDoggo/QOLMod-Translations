@@ -479,7 +479,17 @@
             "transition-customiser/duration": "Duración",
             "paint": "Dibujar",
             "no-editor-zoom-limit": "Quitar límite de zoom",
-            "checkpoint-fix": "Checkpoints mejorados"
+            "checkpoint-fix": "Checkpoints mejorados",
+            "hitbox-trail/opacity": "Opacidad",
+            "shortcut/crash-the-game": "Forzar cierre del juego",
+            "paint/vertical-control": "Orientar verticalmente",
+            "show-trajectory": "Mostrar trayectoria",
+            "show-trajectory/player1": "Jugador 1",
+            "show-trajectory/player2": "Jugador 2",
+            "show-trajectory/player1/hold-colour": "Color al mantener:",
+            "show-trajectory/player1/release-colour": "Color al soltar:",
+            "show-trajectory/player2/hold-colour": "Color al mantener:",
+            "show-trajectory/player2/release-colour": "Color al soltar:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -725,7 +735,12 @@
             "transition-customiser": "Te permite editar la transición al ir cambiando entre menús",
             "paint": "Te permite dibujar sobre la ventana del juego",
             "no-editor-zoom-limit": "Te permite hacer zoom de forma infinita dentro del editor",
-            "checkpoint-fix": "Hace que cada checkpoint guarde todo el estado del jugador"
+            "checkpoint-fix": "Hace que cada checkpoint guarde todo el estado del jugador",
+            "shortcut/crash-the-game": "Fuerza el cierre del juego, útil para salir sin guardar",
+            "paint/vertical-control": "Hace que los botones se posicionen verticalmente",
+            "show-trajectory": "Muestra el recorrido que seguirá el jugador si hace clic o no",
+            "show-trajectory/player1": "Muestra la trayectoria del jugador 1",
+            "show-trajectory/player2": "Mustra la trayectoria del jugador 2"
         }
     }
 }
