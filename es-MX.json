@@ -2,29 +2,7 @@
     "display_name_english": "Spanish",
     "display_name_native": "Español",
     "fallback-lang": "",
-    "font": "lexend.fnt",
-    "alt-font-usage": "Forced",
-    "contributors": [
-        {
-            "username": "lookgamerpro",
-            "account-id": 11797302,
-            "icon-id": 107,
-            "primary-col": 15,
-            "secondary-col": 1,
-            "glow-enabled": true,
-            "glow-col": 1,
-            "death-effect-id": 13
-        },{
-            "username": "Lpvapp",
-            "account-id": 6903012,
-            "icon-id": 133,
-            "primary-col": 39,
-            "secondary-col": 12,
-            "glow-enabled": true,
-            "glow-col": 12,
-            "death-effect-id": 11
-        }
-    ],
+    "font": "chatFont.fnt",
     "strings": {
         "categories": {
             "level": "Nivel",
@@ -44,20 +22,18 @@
         },
         "input-hints": {
             "seconds": "seg",
-            "semitones": "semitones",
-            "fps": "fps"
+            "semitones": "semitones"
         },
         "ui": {
             "coming-soon": "Muy Pronto",
             "themes-edit-button": "Editar Colores",
-            "ok-button": "<bm>OK",
+            "ok-button": "OK",
             "default-button": "Por Defecto",
             "undo-button": "Deshacer",
             "change-font-button": "Cambiar Fuente",
             "safe-mode-view-reason-button": "Mirar Razón",
             "export-to-file-button": "Exportar a archivo.",
-            "import-from-file-button": "Importar desde archivo.",
-            "language-contributors-button": "Ver contribuidores"
+            "import-from-file-button": "Importar desde archivo."
         },
         "colour-setup": {
             "title": "Seleccionar Color",
@@ -77,9 +53,6 @@
         "edit-keybind-ui": {
             "title": "Editar Keybind",
             "no-keybind": "No Keybind"
-        },
-        "language-credits": {
-            "title": "Créditos de los idiomas"
         },
         "font-select": {
             "title": "Seleccionar Fuente",
@@ -106,34 +79,7 @@
                 "text": "No hay animación para mostrar."
             }
         },
-        "iconic":{
-            "dual-mode-invert": "Invertir",
-            "dual-mode-same": "Igual",  
-            "dual-mode-separate": "Separado",
-            "override-primary-label": "Sobreescribir Primario",
-            "override-secondary-label": "Sobreescribir Segundario",
-            "override-glow-label": "Sobreescribir Brillo",
-            "override-trail-label": "Sobreescribir Camino",
-            "override-ghost-label": "Sobreescribir Fantasma",
-            "override-wave-trail-label": "Sobreescribir Camino de Ola",
-            "override-fine-outline-label": "Sobreescribir Borde Fino"
-        },
         "names": {
-            "create-custom-rewards": "Crea Premios Customizados",
-            "shortcuts/open-graphics-settings":"Abre Configuraciones de Graficos",
-            "shortcuts/toggle-practice": "Activa/Desactiva el modo practica.",
-            "shortcuts/uncomplete-level": "Eliminar Progreso de Nivel",
-            "shortcuts/restart-attempt": "Reinicia Intento",
-            "shortcuts/open-settings": "Abre Configuracion del Juego",
-            "shortcuts/clone-level": "Copiar Nivel",
-            "disable-shortcuts": "Desactivar Atajos",
-            "search-on-keypress": "Buscar en Tecleado",
-            "notifications": "Notificaciones",
-            "notifications/blur": "Fondo de Notificaciones Borrosa",
-            "notifications/test": "Probar Notificacion",
-            "notifications/right": "Mostrar Notificaciones a la Izquierda",
-            "notifications/duration": "Duracion de notificacion",
-            "fast-end-screen" : "Pantalla Final Rapida",
             "internal/open-menu": "Menu Keybind:",
             "safe-mode": "Modo Seguro",
             "safe-mode/text": "Texto",
@@ -289,7 +235,7 @@
             "show-favourites": "Mostrar Favoritos",
             "button-scale": "Escala:",
             "smooth-move": "Movimientos Lisos",
-            "allow-dragging": "Permitir Arrastrar",
+            "allow-dragging": "Permitir Dragging",
             "hide-btn": "Esconder botón",
             "save-pos": "Guardar Posición",
             "seperate-colour-cheat-name": "Color separado para mods de trampa",
@@ -298,25 +244,9 @@
             "full-options": "Mostrar todas las opciones en pausa",
             "search/show-options": "Mostrar opciones",
             "auto-song": "Descargar canciones automáticamente",
-            "pitch-shifter/music-only": "Solo en música.",
-            "no-particles-adv/teleport-portal-particles": "Partículas de portales de teletransportación",
-            "trail-cutting": "Cortar Camino",
-            "trail-cutting/fps": "Actualizar FPS:"
+            "pitch-shifter/music-only": "Solo en música."
         },
         "descriptions": {
-            "create-custom-rewards": "Genera un premio que puedes customizar.",
-            "shortcuts/open-graphics-settings":"Abre las opciones de graficos del juego.",
-            "shortcuts/toggle-practice": "Activa/Desactiva el modo practica.",
-            "shortcuts/uncomplete-level": "Elimina todo el progreso de un nivel.",
-            "shortcuts/restart-attempt": "Reinicia el intento que actualmente estas haciendo.",
-            "shortcuts/open-settings": "Abre las opciones del juego.",
-            "shortcuts/clone-level": "Copiar el nivel para que lo puedas editar localmente.",
-            "disable-shortcuts": "Desactiva la abilidad de activar configuraciones con las teclas del teclado." ,
-            "notifications": "Lanza una notificacion cuando una configuracion es activada.",
-            "notifications/test": "Lanza una notificacion de prueba.",
-            "notifications/right": "Muestra las notificaciones a la izquierda en vez de la derecha.",
-            "notifications/blur": "Hace que el fondo de la notificacion sea borrosa.",
-            "search-on-keypress": "Permite buscar configuraciones con solo teclear.",
             "internal/open-menu": "",
             "safe-mode": "Inhabilita el progreso en niveles.",
             "safe-mode/text": "",
@@ -481,68 +411,7 @@
             "full-options": "Remplaza el botón del menú de opciones mini ofrecido por el juego a por el menú con todas las opciones.",
             "search/show-options": "Muestra algunos mods como opciones cuando buscas.",
             "auto-song": "Descarga la canción y los SFX's al momento de abrir un nivel.",
-            "pitch-shifter/music-only": "Solo cambia el Pitch/tono de la música y no otros elementos de sonido.",
-            "trail-cutting": "Cambiar los fps que el camino se actualiza, similar a la 2.1",
-            "no-particles-adv/teleport-portal-particles": "",
-            "trail-cutting/fps": ""
-            "create-custom-reward": "Crea un cofre con recompensas de tu elección",
-            "noclip/player1": "Desactivar esto permite al Jugador 1 morir con Noclip",
-            "noclip/player2": "Desactivar esto permite al Jugador 2 morir con Noclip",
-            "noclip/player1/use-min-accuracy": "Permite al jugador morir cuando su precisión es menor a la especificada",
-            "noclip/player2/use-min-accuracy": "Permite al jugador morir cuando su precisión es menor a la especificada",
-            "noclip/player1/use-max-deaths": "Permite al jugador morir cuando su contador de muertes es mayor a la especificada",
-            "noclip/player2/use-max-deaths": "Permite al jugador morir cuando su contador de muertes es mayor a la especificada",
-            "show-hitboxes-on-death/death-object-only": "Solo muestra la hitbox del objeto donde moriste",
-            "show-hitboxes-on-death/trail": "Permite el camino de hitboxes mostrarse y funcionar con Mostrar Hitboxes en Muerte",
-            "search-on-keypress": "Abre la caja de búsqueda al presionar una keybind",
-            "disable-shortcuts": "Desactiva los atajos en pantalla",
-            "shortcut/open-settings": "Abre el menu de opciones",
-            "shortcut/restart-attempt": "Reinicia el intento de ahora si estás en un nivel",
-            "shortcut/toggle-practice": "Activa el modo práctica",
-            "safe-mode/end-screen-cheat-indicator": "Muestra un indicador de trampas en la pantalla final",
-            "tps-bypass": "Permite a las físicas actualizarse en un diferente \"frame rate\" y no en el por defecto 240 FPS",
-            "hitbox-trail/darken-by-age": "El camino de hitboxes se vuelve más oscuro mientras más viejo es",
-            "notifications": "Muestra una notificación al momento de activar un mod via una keybind o atajo",
-            "notifications/test": "Envía una notificación de prueba",
-            "notifications/right": "Muestra la notificación en el lado derecho de la pantalla",
-            "notifications/blur": "Difumina el fondo detrás de las notificaciones.\nRequiere el mod<cc>Blur API</c>",
-            "high-fps-rotation": "La nave gira como si estuvieras con más de 1000 FPS",
-            "no-rot/cube": "Desactiva la rotación en el modo Cubo",
-            "no-rot/ship": "Desactiva la rotación en el modo Nave",
-            "no-rot/jetpack": "Desactiva la rotación en el modo Jetpack",
-            "no-rot/ball": "Desactiva la rotación en el modo Bola",
-            "no-rot/ufo": "Desactiva la rotación en el modo UFO",
-            "no-rot/wave": "Desactiva la rotación en el modo Wave",
-            "no-rot/robot": "Desactiva la rotación en el modo Robot",
-            "no-rot/spider": "Desactiva la rotación en el modo Araña",
-            "no-rot/swing": "Desactiva la rotación en el modo Swing",
-            "no-invisible-objects": "Hace que los objetos transparentes esten a máxima opacidad",
-            "hitbox-trail/click-colours": "Cambia el color del camino en el frame donde hiciste click",
-            "hitbox-trail/hold-click-colours": "Cambia el color del camino donde mantuviste",
-            "main-level-bypass": "Te permite jugar todos los niveles principales incluyendo los Demons",
-            "shortcut/uncomplete-level": "Remueve todo el progreso del nivel",
-            "shortcut/clone-level": "Clona el nivel a tus archivo local (Editor)",
-            "custom-obj-limit": "Remueve el limite de objetos que puedes tener en un objeto Custom",
-            "shortcut/open-graphics-settings": "Abre el menú de graficos, usado para poder poner la opcion de Show FPS en móvil",
-            "hide-editor-ui": "Esconde la UI del Editor ¿Quién hizo estas descripciones?",
-            "fast-end-screen": "Muestra la pantalla final al momento de entrar al portal del final",
-            "show-touches/use-trail": "Muestra un camino detrás del circulo de toque",
-            "show-touches/show-duration": "Nuestra la duración del toaue",
-            "hitbox-trail/no-limit": "Remueve el limite de posiciones guardadas",
-            "safe-mode/disable-cheats-ui": "Hace que trampas no puedan ser activadas en el Ui",
-            "no-circles-adv/orb-touch": "Desactiva el circulo cuándo tocas una orbe",
-            "no-circles-adv/orb-click": "Desactiva el circulo cuándo haces click en una orbe",
-            "no-circles-adv/pad-touch": "Desactiva el circulo cuándo tocas un pad",
-            "no-circles-adv/gravity-portal-touch": "Desactiva el circulo cuándo tocas un portal de gravedad",
-            "no-circles-adv/gamemode-portal-touch": "Desactiva el circulo cuándo cambias de modo de juego",
-            "no-circles-adv/size-portal-touch": "Desactiva el circulo cuándo cambias de tamaño",
-            "fast-chests": "Muestra el botón de cerrar los cofres inmediatamente",
-            "reset-percentage-on-save": "Reinicia el porcentaje del nivel al momento de guardar en el Editor",
-            "autoclicker": "Automáticamente clickea en una cantidad especificada de clicks",
-            "autoclicker/player1": "Activa el autoclicker para el jugador 1",
-            "autoclicker/player2": "Activa el autoclicker para el jugador 2",
-            "autoclicker/player1/swift": "Clicks por solo 1 tick",
-            "autoclicker/player2/swift": "Clicks por solo 1 tick"
+            "pitch-shifter/music-only": "Solo cambia el Pitch/tono de la música y no otros elementos de sonido."
         }
     }
 }
