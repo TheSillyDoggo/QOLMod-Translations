@@ -64,7 +64,8 @@
             "themes-edit-image-button": "Editar Imagen",
             "language-missing-unfinished": "¿No está tu idioma o está incompleto?",
             "language-contribute-button": "¡Quiero apoyar!",
-            "language-options-title": "Ajustes"
+            "language-options-title": "Ajustes",
+            "crash-confirmation": "¿Estás <cc>seguro</c> de que quieres <cr>FORZAR EL CIERRE</c> del juego?\nAl hacerlo, <cr>NO</c> se guardarán tus datos."
         },
         "colour-setup": {
             "title": "Selecciona un color",
