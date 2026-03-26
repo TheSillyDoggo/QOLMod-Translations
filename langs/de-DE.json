@@ -186,6 +186,8 @@
       "override-trail-label": "Pfad Überschreiben",
       "override-ghost-label": "Geist-Pfad Überschreiben",
       "override-wave-trail-label": "'Wave'-Pfad Überschreiben",
+      "override-dash-fire-label": "'Dash'-Feuer Überschreiben",
+      "override-spider-teleport-label": "'Spider'-Teleportierung Überschreiben",
       "override-fine-outline-label": "Feine Umrandung Überschreiben",
       "seperate-label": "Getrennte\nFarben",
       "dual-mode-invert": "Invertieren",
@@ -502,7 +504,8 @@
       "show-trajectory/player1/hold-colour": "Halten Farbe:",
       "show-trajectory/player1/release-colour": "Loslassen Farbe:",
       "show-trajectory/player2/hold-colour": "Halten Farbe:",
-      "show-trajectory/player2/release-colour": "Loslassen Farbe:"
+      "show-trajectory/player2/release-colour": "Loslassen Farbe:",
+      "shortcut/back-button": "Universeller Zurück-Knopf"
     },
     "descriptions": {
       "internal/open-menu": "",
@@ -753,7 +756,8 @@
       "paint/vertical-control": "Plaziert die Knöpfe Vertikal",
       "show-trajectory": "Zeigt den Weg an, welcher der Spieler nehmen wird wenn er Klickt oder nicht Klickt",
       "show-trajectory/player1": "Zeige Bewegungslinie an für Spieler 1",
-      "show-trajectory/player2": "Zeige Bewegungslinie an für Spieler 2"
+      "show-trajectory/player2": "Zeige Bewegungslinie an für Spieler 2",
+      "shortcut/back-button": "Aktiviert den Zurück-Knopf, egal, wo man ist.\nNützlich auf IOS, wo es manchmal keinen Zurück-Knopf gibt"
     }
   }
 }
