@@ -274,7 +274,7 @@
             "slider-limit/reset-audio-variables": "Reset Audio Sliders",
             "practice-bypass": "Practice Music Hack",
             "pitch-shifter": "Pitch Shifter",
-            "speedhack/gameplay": "Speedhack Gameplay",
+            "speedhack/gameplay": "Gameplay Only",
             "speedhack/music": "Speedhack Music",
             "speedhack/enabled": "Enabled",
             "pitch-shifter/octaves": "Pitch",
@@ -479,7 +479,8 @@
             "show-trajectory/player1/hold-colour": "Hold Colour:",
             "show-trajectory/player1/release-colour": "Release Colour:",
             "show-trajectory/player2/hold-colour": "Hold Colour:",
-            "show-trajectory/player2/release-colour": "Release Colour:"
+            "show-trajectory/player2/release-colour": "Release Colour:",
+            "shortcut/back-button": "Universal Back Button"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -730,7 +731,8 @@
             "paint/vertical-control": "Makes the buttons be placed vertically",
             "show-trajectory": "Shows the path that the player will take if you click or not",
             "show-trajectory/player1": "Shows the trajectory for player 1",
-            "show-trajectory/player2": "Shows the trajectory for player 2"
+            "show-trajectory/player2": "Shows the trajectory for player 2",
+            "shortcut/back-button": "Activates the back button on whatever layer you are on.\nUseful on iOS where there is no physical back button"
         }
     }
 }
