@@ -286,10 +286,10 @@
             "slider-limit/reset-audio-variables": "Reset Audio Sliders",
             "practice-bypass": "Practice Music Hack",
             "pitch-shifter": "Pitch Shifter",
-            "speedhack/gameplay": "Speedhack Laro",
+            "speedhack/gameplay": "Laro Lamang",
             "speedhack/music": "Speedhack Kanta",
             "speedhack/enabled": "Nakabukas",
-            "pitch-shifter/octaves": "Pitch",
+            "pitch-shifter/octaves": "Tono",
             "no-trans": "Walang Transisyon",
             "music-bypass": "Music Customiser Bypass",
             "hide-pause-menu": "Tago Pause Menu",
@@ -491,7 +491,8 @@
             "show-trajectory/player1/hold-colour": "Kulay ng Hold:",
             "show-trajectory/player1/release-colour": "Kulay ng Release:",
             "show-trajectory/player2/hold-colour": "Kulay ng Hold:",
-            "show-trajectory/player2/release-colour": "Kulay ng Release:"
+            "show-trajectory/player2/release-colour": "Kulay ng Release:",
+            "shortcut/back-button": "Pangkalahatang Back Button"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -742,7 +743,8 @@
             "paint/vertical-control": "Ginagawa ang pindutan na nakalagay na nakatayo",
             "show-trajectory": "Pinapakita ang daan ng player kung ikaw ay magpipindot o hindi",
             "show-trajectory/player1": "Pakita ang trajectory ng player 1",
-            "show-trajectory/player2": "Pakita ang trajectory ng player 2"
+            "show-trajectory/player2": "Pakita ang trajectory ng player 2",
+            "shortcut/back-button": "Pinipindot ang back button sa kung saang layer ka na.\nMahalaga sa iOS na walang pisikal na back button"
         }
     }
 }
