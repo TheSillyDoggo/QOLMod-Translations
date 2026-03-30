@@ -61,7 +61,7 @@
             "notification-speedhack-set": "Velocidad establecida a %s",
             "notification-test": "Esto es una notificación de ejemplo :3",
             "title-error": "Error",
-            "themes-edit-image-button": "Editar Imagen",
+            "themes-edit-image-button": "Editar imagen",
             "language-missing-unfinished": "¿No está tu idioma o está incompleto?",
             "language-contribute-button": "¡Quiero apoyar!",
             "language-options-title": "Ajustes",
@@ -287,7 +287,7 @@
             "slider-limit/reset-audio-variables": "Restablecer sliders de audio",
             "practice-bypass": "Música en el modo práctica",
             "pitch-shifter": "Cambiar pitch",
-            "speedhack/gameplay": "Aplicar al gameplay",
+            "speedhack/gameplay": "Aplicar al juego",
             "speedhack/music": "Aplicar a la música",
             "speedhack/enabled": "Activado",
             "pitch-shifter/octaves": "Pitch",
@@ -493,7 +493,7 @@
             "show-trajectory/player1/release-colour": "Color al soltar:",
             "show-trajectory/player2/hold-colour": "Color al mantener:",
             "show-trajectory/player2/release-colour": "Color al soltar:",
-            "shortcut/back-button": "Simular tecla escape"
+            "shortcut/back-button": "Simular tecla Escape"
         },
         "descriptions": {
             "internal/open-menu": "",
