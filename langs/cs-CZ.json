@@ -76,76 +76,76 @@
             "title-image": "Upravit Obrázek Pozadí"
         },
         "edit-keybind-ui": {
-            "title": "Edit Keybind",
-            "no-keybind": "No Keybind"
+            "title": "Upravit Klávesovou Zkratku",
+            "no-keybind": "Žádná Klávesová Zkratka"
         },
         "language-credits": {
-            "title": "Language Credits",
+            "title": "Titulky Jazyka",
             "warning": {
-                "title": "Note",
-                "text": "Language contributors are <cr>NOT</c> <co>QOLMod</c> developers, they <cr>cannot</c> add features or fix bugs.\nPlease <cr>do not</c> message language contributors for bug fixes"
+                "title": "Poznámka",
+                "text": "Autoři jazyka <cr>NEJSOU</c> <co>QOLMod</c> vývojáři, oni <cr>nemohou</c> přidávat nebo opravovat funkce.\nProsíme <cr>nekontaktujte</c> autory jazyků pro opravy chyb"
             }
         },
         "speedhack": {
-            "speed-label": "Speed:",
-            "delete-hint": "Tap a preset to remove it",
+            "speed-label": "Rychlost:",
+            "delete-hint": "Klikněte na předvolbu aby jste ji vymazali",
             "add-preset-exist": {
-                "title": "Speedhack Preset",
-                "text": "There's already a preset with the value <cc>%s</c>"
+                "title": "Hack Rychlosti Předvolba",
+                "text": "Tady už je předvolba z hodnotou <cc>%s</c>"
             }
         },
         "font-select": {
-            "title": "Select Font",
-            "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
-            "russian-supported": "This font supports the Cyrillic writing system (Russian)",
-            "korean-supported": "This font supports the Hangul writing system (Korean)",
-            "chinese-supported": "This font supports the Hanzi writing system (Chinese"
+            "title": "Vyber si styl písmen",
+            "japanese-supported": "Tento styl písmen podporuje Hiragana, Katakana and Kanji (Japonsky)",
+            "russian-supported": "Tento styl písmen podporuje Cyrillic psací systém (Rusky)",
+            "korean-supported": "Tento styl písmen podporuje Hangul psací systém (Korejsky)",
+            "chinese-supported": "Tento styl písmen podporuje Hanzi psací systém (Čínsky"
         },
         "create-custom-reward": {
-            "first-use-warning": "<cr>Warning</c>\nUsing this tool will permenently edit your save file, this may result in a leaderboard ban.\n<cl>Use at your own risk</c>",
-            "create-button": "Create"
+            "first-use-warning": "<cr>Varování!</c>\nPoužívání tohoto nástroje ti navždy upraví vaše data, toto možná skončí v banu na žebříčkách.\n<cl>Use at your own risk</c>",
+            "create-button": "Vytvořit"
         },
         "labels": {
-            "cheat-indicator-label": "Cheat Indicator",
-            "noclip-only-label": "Noclip Only",
-            "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
+            "cheat-indicator-label": "Indikátor podvádění",
+            "noclip-only-label": "Noclip Pouze",
+            "none-added-hint": "Žádný štítky přidány.\nMůžete <cc>přidat</c> štítky z\n<cl>tlačítek</c> na <cp>pravé</c> straně."
         },
         "search-tab": {
-            "placeholder": "Search a mod..."
+            "placeholder": "Najdi a modifilaci..."
         },
         "setup-rotation": {
-            "title": "Edit Rotation",
-            "input-placeholder": "Rotation",
-            "input-title": "Rotation"
+            "title": "Upravit rotaci",
+            "input-placeholder": "Rotace",
+            "input-title": "Rotace"
         },
         "setup-shortcut": {
-            "title": "Edit Shortcut",
-            "in-menu": "In Menu",
-            "in-game": "In Game",
-            "in-game-pause": "In Pause",
-            "in-editor": "In Editor",
-            "in-editor-pause": "In Editor Pause",
-            "scale-title": "Scale",
-            "opacity-title": "Opacity",
-            "enabled-title": "Enabled",
-            "movable-title": "Movable"
+            "title": "Upravit Zkratky",
+            "in-menu": "V Menu",
+            "in-game": "Ve hře",
+            "in-game-pause": "V Pauze",
+            "in-editor": "V Editoru",
+            "in-editor-pause": "V Editorový Pauze",
+            "scale-title": "Zvětšit/Zmenšit",
+            "opacity-title": "Průhlednost",
+            "enabled-title": "Zapmuto",
+            "movable-title": "Pohyblivý"
         },
         "select-item": {
-            "title-generic": "Select Item",
-            "title-background": "Select Shortcut Background",
-            "title-icon": "Select Shortcut Icon"
+            "title-generic": "Vyberte Si Věc",
+            "title-background": "Vyberte Si Pozadí Zkratky",
+            "title-icon": "Vyberte Si Ikonu Zkratky"
         },
         "animation": {
             "none": "None",
-            "from-top": "From Top",
-            "from-bottom": "From Bottom",
-            "from-left": "From Left",
-            "from-right": "From Right",
-            "scale-in": "Scale",
-            "fade-in": "Fade In",
+            "from-top": "Zhora",
+            "from-bottom": "Zdola",
+            "from-left": "Zleva",
+            "from-right": "Zprava",
+            "scale-in": "Zmenšit/Zvětšit",
+            "fade-in": "Ztlumit",
             "preview-error-none": {
-                "title": "Preview Animation",
-                "text": "There is no animation to preview."
+                "title": "Náhled Animace",
+                "text": "Tu není animace na máhled."
             }
         },
         "uncomplete-level": {
