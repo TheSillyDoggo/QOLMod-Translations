@@ -49,7 +49,7 @@
             "notification-test": "Toto je testovací notifikace :3",
             "title-error": "Chyba",
             "themes-edit-image-button": "Upravit obrázek",
-            "language-missing-unfinished": "Jazyl chybí / nedokončen?",
+            "language-missing-unfinished": "Jazyk chybí / nedokončen?",
             "language-contribute-button": "Contribute!",
             "language-options-title": "Nastavení jazyka",
             "crash-confirmation": "Jsi <cc>jistý</c> že chceš <cr>SELHAT</c> hru?\nToto <cr>NEULOŽÍ</c> tvoje data."
@@ -58,22 +58,22 @@
             "title": "Vyber barvu",
             "add-step": "Přidat Krok",
             "remove-step": "Vymazat Krok",
-            "player-primary": "Player\nPrimary",
-            "player-secondary": "Player\nSecondary",
-            "player-glow": "Player\nGlow",
+            "player-primary": "\nPrimární Hráč",
+            "player-secondary": "\nSekundární Hráč",
+            "player-glow": "\nZáře Hráče",
             "chroma": "Chroma",
             "pastel": "Pastel",
-            "gradient": "Gradient",
-            "colour-hint": "Colour:",
-            "effect-speed": "Effect Speed",
-            "red": "R:",
-            "green": "G:",
-            "blue": "B:",
+            "gradient": "Přechod",
+            "colour-hint": "Barva:",
+            "effect-speed": "Rychlost efektu",
+            "red": "Č:",
+            "green": "Z:",
+            "blue": "M:",
             "hex": "HEX:"
         },
         "extra-theme-settings": {
-            "title": "Edit Gradient Colours",
-            "title-image": "Edit Background Image"
+            "title": "Upravit Přechod Barvy",
+            "title-image": "Upravit Obrázek Pozadí"
         },
         "edit-keybind-ui": {
             "title": "Edit Keybind",
