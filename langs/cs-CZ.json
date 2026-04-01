@@ -50,7 +50,7 @@
             "title-error": "Chyba",
             "themes-edit-image-button": "Upravit obrázek",
             "language-missing-unfinished": "Jazyk chybí / nedokončen?",
-            "language-contribute-button": "Contribute!",
+            "language-contribute-button": "Přispět!",
             "language-options-title": "Nastavení jazyka",
             "crash-confirmation": "Jsi <cc>jistý</c> že chceš <cr>SELHAT</c> hru?\nToto <cr>NEULOŽÍ</c> tvoje data."
         },
@@ -99,7 +99,7 @@
             "japanese-supported": "Tento styl písmen podporuje Hiragana, Katakana and Kanji (Japonsky)",
             "russian-supported": "Tento styl písmen podporuje Cyrillic psací systém (Rusky)",
             "korean-supported": "Tento styl písmen podporuje Hangul psací systém (Korejsky)",
-            "chinese-supported": "Tento styl písmen podporuje Hanzi psací systém (Čínsky"
+            "chinese-supported": "Tento styl písmen podporuje Hanzi psací systém (Čínsky)"
         },
         "create-custom-reward": {
             "first-use-warning": "<cr>Varování!</c>\nPoužívání tohoto nástroje ti navždy upraví vaše data, toto možná skončí v banu na žebříčkách.\n<cl>Use at your own risk</c>",
@@ -149,8 +149,8 @@
             }
         },
         "uncomplete-level": {
-            "no-level-found": "No <cc>level</c> found, try opening a <cc>level</c> page.",
-            "found-confirmation": "Are you sure you want to uncomplete <cc>%s</c>.\nThis <cr>cannot be undone</c>",
+            "no-level-found": "Žádný <cc>level</c> nalezen, zkus to otevřít na<cc>level</c> stránce.",
+            "found-confirmation": "Jste si jistí že chcete oddokončit level <cc>%s</c>.\nToto <cr>nemůže být vráceni zpět</c>",
             "wrong-type-confirmation": "Unsupported level type <cc>%s</c>"
         },
         "clone-level": {
