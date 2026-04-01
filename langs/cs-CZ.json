@@ -80,7 +80,7 @@
             "no-keybind": "Žádná Klávesová Zkratka"
         },
         "language-credits": {
-            "title": "Titulky Jazyka",
+            "title": "Titulky Autorů Jazyka",
             "warning": {
                 "title": "Poznámka",
                 "text": "Autoři jazyka <cr>NEJSOU</c> <co>QOLMod</c> vývojáři, oni <cr>nemohou</c> přidávat nebo opravovat funkce.\nProsíme <cr>nekontaktujte</c> autory jazyků pro opravy chyb"
@@ -145,7 +145,7 @@
             "fade-in": "Ztlumit",
             "preview-error-none": {
                 "title": "Náhled Animace",
-                "text": "Tu není animace na máhled."
+                "text": "Tu není animace na náhled."
             }
         },
         "uncomplete-level": {
@@ -154,44 +154,44 @@
             "wrong-type-confirmation": "Unsupported level type <cc>%s</c>"
         },
         "clone-level": {
-            "success": "<cg>Successfully</c> cloned level!"
+            "success": "<cg>Úspěšně</c> jste naklonovali level!"
         },
         "iconic": {
-            "override-primary-label": "Override Primary",
-            "override-secondary-label": "Override Secondary",
-            "override-glow-label": "Override Glow",
-            "override-trail-label": "Override Trail",
-            "override-ghost-label": "Override Ghost",
-            "override-wave-trail-label": "Override Wave Trail",
-            "override-dash-fire-label": "Override Dash Fire",
-            "override-spider-teleport-label": "Override Spider Teleport",
-            "override-fine-outline-label": "Override Fine Outline",
-            "seperate-label": "Seperate\nColours",
-            "dual-mode-invert": "Invert",
-            "dual-mode-same": "Same",
-            "dual-mode-seperate": "Seperate",
-            "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
-            "profiles-title": "Icon Effect Profiles"
+            "override-primary-label": "Vyměnit Primární",
+            "override-secondary-label": "Vyměnit Sekundární",
+            "override-glow-label": "Vyměnit Záři",
+            "override-trail-label": "Vyměnit Trail",
+            "override-ghost-label": "Vyměnit ducha",
+            "override-wave-trail-label": "Vyměnit Wave Trail",
+            "override-dash-fire-label": "Vyměnit Dash Oheň",
+            "override-spider-teleport-label": "Vyměnit Spider Teleport",
+            "override-fine-outline-label": "Vyměnit Fine Outline",
+            "seperate-label": "Samostatné\nBarvy",
+            "dual-mode-invert": "Obrátit",
+            "dual-mode-same": "Stejné",
+            "dual-mode-seperate": "Samostatné",
+            "fine-outline-missing-error": "Toto potřebuje modifikaci <cc>Fine Outline</c> od <cp>Alphalaneous</c> aby byl nainstalovaný.",
+            "profiles-title": "Efekt Ikony Profily"
         },
         "enums": {
-            "kCCTransitionFade": "Fade",
-            "kCCTransitionCrossFade": "Cross Fade",
-            "kCCTransitionFadeBL": "Fade Bottom Left",
-            "kCCTransitionFadeTR": "Fade Top Right",
-            "kCCTransitionFadeUp": "Fade Up",
-            "kCCTransitionFadeDown": "Fade Down",
-            "kCCTransitionFlipAngular": "Flip Angular",
-            "kCCTransitionFlipX": "Flip X",
-            "kCCTransitionFlipY": "Flip Y",
+            "kCCTransitionFade": "Ztlumit",
+            "kCCTransitionCrossFade": "Přechod",
+            "kCCTransitionFadeBL": "Ztlumit Dole Vlevo",
+            "kCCTransitionFadeTR": "Ztlumit Dole Vpravo",
+            "kCCTransitionFadeUp": "Ztlumit Nahoru",
+            "kCCTransitionFadeDown": "Ztlumit Dolu",
+            "kCCTransitionFlipAngular": "Obrátit o úhel",
+            "kCCTransitionFlipX": "Obrátit X",
+            "kCCTransitionFlipY": "Obrátit Y",
             "kCCTransitionZoomFlipAngular": "Zoom Flip Angular",
             "kCCTransitionZoomFlipX": "Zoom Flip X",
             "kCCTransitionZoomFlipY": "Zoom Flip Y",
-            "kCCTransitionJumpZoom": "Jump Zoom",
-            "kCCTransitionMoveInT": "Move In Top",
-            "kCCTransitionMoveInB": "Move In Bottom",
-            "kCCTransitionMoveInL": "Move In Left",
-            "kCCTransitionMoveInR": "Move In Right",
-            "kCCTransitionRotoZoom": "Rotate Zoom",
+            "kCCTransitionJumpZoom": "Rychlé přiblížení",
+            "kCCTransitionMoveInT": "Pohybovat Nahoře",
+            "kCCTransitionMoveInB": "Pohybovat Dole",
+            "kCCTransitionMoveInL": "Pohybovag Vlevo",
+            "kCCTransitionMoveInR": "Pohybovat Vpravo",
+            "kCCTransitionRotoZoom": "Rotovací přiblížení",
             "kCCTransitionShrinkGrow": "Shrink Grow",
             "kCCTransitionSlideInT": "Slide In Top",
             "kCCTransitionSlideInB": "Slide In Bottom",
