@@ -12,7 +12,7 @@
             "cosmetic": "Utseende",
             "speedhack": "Snabbhack",
             "icon effects": "Ikon Effekt",
-            "labels": "Labels",
+            "labels": "Etikett",
             "config": "Konfigurera",
             "search": "Sök",
             "favourites": "Favoriter",
@@ -88,65 +88,65 @@
             }
         },
         "speedhack": {
-            "speed-label": "Speed:",
-            "delete-hint": "Tap a preset to remove it",
+            "speed-label": "Hastighet:",
+            "delete-hint": "Klicka På En Förinställning För Att Ta Bort Den",
             "add-preset-exist": {
-                "title": "Speedhack Preset",
-                "text": "There's already a preset with the value <cc>%s</c>"
+                "title": "Snabbhack Förinställning",
+                "text": "Det finns redan en förinställning med det här värdet <cc>%s</c>"
             }
         },
         "font-select": {
-            "title": "Select Font",
+            "title": "Välj Typsnitt",
             "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
             "russian-supported": "This font supports the Cyrillic writing system (Russian)",
             "korean-supported": "This font supports the Hangul writing system (Korean)",
             "chinese-supported": "This font supports the Hanzi writing system (Chinese"
         },
         "create-custom-reward": {
-            "first-use-warning": "<cr>Warning</c>\nUsing this tool will permenently edit your save file, this may result in a leaderboard ban.\n<cl>Use at your own risk</c>",
+            "first-use-warning": "<cr>Varning</c>\nAnvändning kommer med detta verktyg kommer permanent ändra din sparfil, det kan resultera i en avstängning från ledartavlan .\n<cl>Används på egen risk</c>",
             "create-button": "Create"
         },
         "labels": {
-            "cheat-indicator-label": "Cheat Indicator",
+            "cheat-indicator-label": "Fuskvisare",
             "noclip-only-label": "Noclip Only",
-            "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
+            "none-added-hint": "Inga etiketter tillagda.\nDu kan <cc>lägga till</c> etiketter med \n<cl>knapparna</c> på <cp>högra</c> sidan."
         },
         "search-tab": {
-            "placeholder": "Search a mod..."
+            "placeholder": "Sök efter en modifiering..."
         },
         "setup-rotation": {
-            "title": "Edit Rotation",
+            "title": "Ändra Rotation",
             "input-placeholder": "Rotation",
             "input-title": "Rotation"
         },
         "setup-shortcut": {
-            "title": "Edit Shortcut",
-            "in-menu": "In Menu",
-            "in-game": "In Game",
-            "in-game-pause": "In Pause",
-            "in-editor": "In Editor",
-            "in-editor-pause": "In Editor Pause",
-            "scale-title": "Scale",
-            "opacity-title": "Opacity",
-            "enabled-title": "Enabled",
-            "movable-title": "Movable"
+            "title": "Ändra Genväg",
+            "in-menu": "I Menyn",
+            "in-game": "I Spelet",
+            "in-game-pause": "I Paus menyn",
+            "in-editor": "I Editorn",
+            "in-editor-pause": "I Editor Paus Menyn",
+            "scale-title": "Skala",
+            "opacity-title": "Genomskinlighet",
+            "enabled-title": "Aktiverad",
+            "movable-title": "Rörbar"
         },
         "select-item": {
-            "title-generic": "Select Item",
+            "title-generic": "Välj Sak",
             "title-background": "Select Shortcut Background",
             "title-icon": "Select Shortcut Icon"
         },
         "animation": {
-            "none": "None",
-            "from-top": "From Top",
-            "from-bottom": "From Bottom",
-            "from-left": "From Left",
-            "from-right": "From Right",
-            "scale-in": "Scale",
-            "fade-in": "Fade In",
+            "none": "Ingen",
+            "from-top": "Från Toppen",
+            "from-bottom": "Från Botten",
+            "from-left": "Från Vänster",
+            "from-right": "Från Höger",
+            "scale-in": "Skala Upp",
+            "fade-in": "Tona In",
             "preview-error-none": {
-                "title": "Preview Animation",
-                "text": "There is no animation to preview."
+                "title": "Förhandsgranska Animation",
+                "text": "Dett finns ingen animation att förhandsgranska."
             }
         },
         "uncomplete-level": {
