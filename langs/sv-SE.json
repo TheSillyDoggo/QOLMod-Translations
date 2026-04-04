@@ -1,9 +1,32 @@
-
 {
     "display_name_english": "Swedish",
     "display_name_native": "Svenska",
     "fallback-lang": "en-AU.json",
-    "font": "Forced",
+    "alt-font-usage": "Forced",
+    "contributors": [
+        {
+            "username": "Kubbelina",
+            "account-id": 21660367,
+            "icon-id": 84,
+            "primary-col": 102,
+            "secondary-col": 15,
+            "glow-enabled": true,
+            "glow-col": 102,
+            "death-effect-id": 16
+        },
+        {
+            "username": "Kubbe2",
+            "account-id": 23840343,
+            "icon-id": 84,
+            "primary-col": 12,
+            "secondary-col": 12,
+            "glow-enabled": false,
+            "glow-col": 1,
+            "death-effect-id": 16
+        }
+    ],
+    
+    "font": "lexend.fnt",
     "strings": {
         "categories": {
             "level": "Level",
