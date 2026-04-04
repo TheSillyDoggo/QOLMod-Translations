@@ -126,7 +126,7 @@
             "chinese-supported": "This font supports the Hanzi writing system (Chinese"
         },
         "create-custom-reward": {
-            "first-use-warning": "<cr>Varning</c>\nAnvändning kommer med detta verktyg kommer permanent ändra din sparfil, det kan resultera i en avstängning från ledartavlan .\n<cl>Används på egen risk</c>",
+            "first-use-warning": "<cr>Varning</c>\nAnvändning kommer med detta verktyg kommer permanent ändra din sparadefil, det kan resultera i en avstängning från ledartavlan .\n<cl>Används på egen risk</c>",
             "create-button": "Create"
         },
         "labels": {
@@ -145,61 +145,61 @@
         "setup-shortcut": {
             "title": "Ändra Genväg",
             "in-menu": "I Menyn",
-            "in-game": "I Spelet",
-            "in-game-pause": "I Paus menyn",
-            "in-editor": "I Editorn",
-            "in-editor-pause": "I Editor Paus Menyn",
+            "in-game": "I spelet",
+            "in-game-pause": "I pausmenyn",
+            "in-editor": "I editorn",
+            "in-editor-pause": "Pausmenyn i editorn",
             "scale-title": "Skala",
             "opacity-title": "Genomskinlighet",
             "enabled-title": "Aktiverad",
-            "movable-title": "Rörbar"
+            "movable-title": "Flyttbar"
         },
         "select-item": {
-            "title-generic": "Välj Sak",
-            "title-background": "Select Shortcut Background",
-            "title-icon": "Select Shortcut Icon"
+            "title-generic": "Välj föremål",
+            "title-background": "Välj bakgrund till genväg",
+            "title-icon": "Välj ikon till genväg"
         },
         "animation": {
             "none": "Ingen",
-            "from-top": "Från Toppen",
-            "from-bottom": "Från Botten",
-            "from-left": "Från Vänster",
-            "from-right": "Från Höger",
-            "scale-in": "Skala Upp",
-            "fade-in": "Tona In",
+            "from-top": "Från toppen",
+            "from-bottom": "Från botten",
+            "from-left": "Från vänster",
+            "from-right": "Från höger",
+            "scale-in": "Skala upp",
+            "fade-in": "Tona in",
             "preview-error-none": {
-                "title": "Förhandsgranska Animation",
-                "text": "Dett finns ingen animation att förhandsgranska."
+                "title": "Förhandsgranska animation",
+                "text": "Det finns ingen animation att förhandsgranska."
             }
         },
         "uncomplete-level": {
-            "no-level-found": "No <cc>level</c> found, try opening a <cc>level</c> page.",
-            "found-confirmation": "Are you sure you want to uncomplete <cc>%s</c>.\nThis <cr>cannot be undone</c>",
-            "wrong-type-confirmation": "Unsupported level type <cc>%s</c>"
+            "no-level-found": "Ingen <cc>level</c> hittades, försök öppna en <cc>level</c>sida.",
+            "found-confirmation": "Är du säker att du vill icke-klara <cc>%s</c>.\nDu kan inte <cr>ångra</c>",
+            "wrong-type-confirmation": "Leveltypen stöds inte <cc>%s</c>"
         },
         "clone-level": {
-            "success": "<cg>Successfully</c> cloned level!"
+            "success": "<cg>Framgångsrikt</c> klonad level!"
         },
         "iconic": {
-            "override-primary-label": "Override Primary",
-            "override-secondary-label": "Override Secondary",
-            "override-glow-label": "Override Glow",
+            "override-primary-label": "Åsidosätt första",
+            "override-secondary-label": "Åsidosätt andra",
+            "override-glow-label": "Åsidosätt glöd",
             "override-trail-label": "Override Trail",
             "override-ghost-label": "Override Ghost",
             "override-wave-trail-label": "Override Wave Trail",
             "override-dash-fire-label": "Override Dash Fire",
             "override-spider-teleport-label": "Override Spider Teleport",
             "override-fine-outline-label": "Override Fine Outline",
-            "seperate-label": "Seperate\nColours",
-            "dual-mode-invert": "Invert",
-            "dual-mode-same": "Same",
-            "dual-mode-seperate": "Seperate",
-            "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
+            "seperate-label": "Separera\nFärger",
+            "dual-mode-invert": "Invertera",
+            "dual-mode-same": "Samma",
+            "dual-mode-seperate": "Separera",
+            "fine-outline-missing-error": "Detta kräver modifieringen <cc>Fine Outline</c> av <cp>Alphalaneous</c> att vara instalerad.",
             "profiles-title": "Icon Effect Profiles"
         },
         "enums": {
-            "kCCTransitionFade": "Fade",
-            "kCCTransitionCrossFade": "Cross Fade",
+            "kCCTransitionFade": "Tona",
+            "kCCTransitionCrossFade": "Kryss Toning",
             "kCCTransitionFadeBL": "Fade Bottom Left",
             "kCCTransitionFadeTR": "Fade Top Right",
             "kCCTransitionFadeUp": "Fade Up",
