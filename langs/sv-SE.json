@@ -2,8 +2,8 @@
 {
     "display_name_english": "Swedish",
     "display_name_native": "Svenska",
-    "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "fallback-lang": "en-AU.json",
+    "font": "Forced",
     "strings": {
         "categories": {
             "level": "Level",
