@@ -502,7 +502,9 @@
             "show-trajectory/player1/hold-colour": "Kolor Trzymania:",
             "show-trajectory/player1/release-colour": "Kolor Puszczenia:",
             "show-trajectory/player2/hold-colour": "Kolor Trzymania:",
-            "show-trajectory/player2/release-colour": "Kolor Puszczenia:"
+            "show-trajectory/player2/release-colour": "Kolor Puszczenia:",
+            "shortcut/back-button": "Uniwersalny Guzik Wstecz",
+            "editor-wave-trail": "Ślad trybu Wave w Edytorze"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -752,7 +754,9 @@
             "paint/vertical-control": "Powoduje, że guziki są położone pionowo",
             "show-trajectory": "Pokazuje kierunek, w którym poruszy się gracz, zależąć od tego czy klikniesz",
             "show-trajectory/player1": "Pokazuje tor ruchu dla gracza 1",
-            "show-trajectory/player2": "Pokazuje tor ruchu dla gracza 2"
+            "show-trajectory/player2": "Pokazuje tor ruchu dla gracza 2",
+            "shortcut/back-button": "Aktywuje guzik wstecz w jakiejkolwiek warstwie jesteś\nUżyteczne na iOS, gdzie nie ma tego guzika",
+            "editor-wave-trail": "Pokazuje ślad trybu Wave w edytorze"
         }
     }
 }
