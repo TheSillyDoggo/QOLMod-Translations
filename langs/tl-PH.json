@@ -492,7 +492,8 @@
             "show-trajectory/player1/release-colour": "Kulay ng Release:",
             "show-trajectory/player2/hold-colour": "Kulay ng Hold:",
             "show-trajectory/player2/release-colour": "Kulay ng Release:",
-            "shortcut/back-button": "Pangkalahatang Back Button"
+            "shortcut/back-button": "Pangkalahatang Back Button",
+            "editor-wave-trail": "Bakas ng Wave sa Pagawaan"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -744,7 +745,8 @@
             "show-trajectory": "Pinapakita ang daan ng player kung ikaw ay magpipindot o hindi",
             "show-trajectory/player1": "Pakita ang trajectory ng player 1",
             "show-trajectory/player2": "Pakita ang trajectory ng player 2",
-            "shortcut/back-button": "Pinipindot ang back button sa kung saang layer ka na.\nMahalaga sa iOS na walang pisikal na back button"
+            "shortcut/back-button": "Pinipindot ang back button sa kung saang layer ka na.\nMahalaga sa iOS na walang pisikal na back button",
+            "editor-wave-trail": "Pinapakita ang bakas ng wave ng player wave trail sa pagawaan"
         }
     }
 }
