@@ -61,10 +61,11 @@
             "notification-speedhack-set": "Velocidad establecida a %s",
             "notification-test": "Esto es una notificación de ejemplo :3",
             "title-error": "Error",
-            "themes-edit-image-button": "Editar Imagen",
+            "themes-edit-image-button": "Editar imagen",
             "language-missing-unfinished": "¿No está tu idioma o está incompleto?",
             "language-contribute-button": "¡Quiero apoyar!",
-            "language-options-title": "Ajustes"
+            "language-options-title": "Ajustes",
+            "crash-confirmation": "¿Estás <cc>seguro</c> de que quieres <cr>FORZAR EL CIERRE</c> del juego?\nAl hacerlo, <cr>NO</c> se guardarán tus datos."
         },
         "colour-setup": {
             "title": "Selecciona un color",
@@ -175,6 +176,8 @@
             "override-trail-label": "Sobreescribir trazo",
             "override-ghost-label": "Sobreescribir ghost",
             "override-wave-trail-label": "Sobreescribir el trazo del Wave",
+            "override-dash-fire-label": "Sobreescribir efecto de Dash",
+            "override-spider-teleport-label": "Sobreescribir efecto de la araña",
             "override-fine-outline-label": "Sobreescribir contorno fino",
             "seperate-label": "Separar\ncolores",
             "dual-mode-invert": "Invertir",
@@ -186,8 +189,8 @@
         "enums": {
             "kCCTransitionFade": "Desvanecer",
             "kCCTransitionCrossFade": "Desvanecimiento cruzado",
-            "kCCTransitionFadeBL": "Desvanecer desde abajo a la izquierda",
-            "kCCTransitionFadeTR": "Desvanecer desde arriba a la derecha",
+            "kCCTransitionFadeBL": "Desvanecer hacia abajo a la izquierda",
+            "kCCTransitionFadeTR": "Desvanecer hacia arriba a la derecha",
             "kCCTransitionFadeUp": "Desvanecer hacia arriba",
             "kCCTransitionFadeDown": "Desvanecer hacia abajo",
             "kCCTransitionFlipAngular": "Volteo angular",
@@ -209,7 +212,7 @@
             "kCCTransitionSlideInR": "Deslizar desde la derecha",
             "kCCTransitionSplitRows": "Dividir en filas",
             "kCCTransitionSplitCols": "Dividir en columnas",
-            "kCCTransitionTurnOffTiles": "Desactivar mosaicos",
+            "kCCTransitionTurnOffTiles": "Mosaicos",
             "kCCTransitionProgressRadialCW": "Progreso radial (horario)",
             "kCCTransitionProgressRadialCCW": "Progreso radial (antihorario)",
             "kCCTransitionProgressHorizontal": "Progreso horizontal",
@@ -284,7 +287,7 @@
             "slider-limit/reset-audio-variables": "Restablecer sliders de audio",
             "practice-bypass": "Música en el modo práctica",
             "pitch-shifter": "Cambiar pitch",
-            "speedhack/gameplay": "Aplicar al gameplay",
+            "speedhack/gameplay": "Aplicar al juego",
             "speedhack/music": "Aplicar a la música",
             "speedhack/enabled": "Activado",
             "pitch-shifter/octaves": "Pitch",
@@ -421,7 +424,7 @@
             "no-rot/ship": "Nave",
             "no-rot/jetpack": "Jetpack",
             "no-rot/ball": "Bola",
-            "no-rot/ufo": "Ufo",
+            "no-rot/ufo": "UFO",
             "no-rot/wave": "Wave",
             "no-rot/robot": "Robot",
             "no-rot/spider": "Araña",
@@ -481,7 +484,16 @@
             "no-editor-zoom-limit": "Quitar límite de zoom",
             "checkpoint-fix": "Checkpoints mejorados",
             "hitbox-trail/opacity": "Opacidad",
-            "shortcut/crash-the-game": "Forzar cierre del juego"
+            "shortcut/crash-the-game": "Forzar el cierre del juego",
+            "paint/vertical-control": "Orientar verticalmente",
+            "show-trajectory": "Mostrar trayectoria",
+            "show-trajectory/player1": "Jugador 1",
+            "show-trajectory/player2": "Jugador 2",
+            "show-trajectory/player1/hold-colour": "Color al mantener:",
+            "show-trajectory/player1/release-colour": "Color al soltar:",
+            "show-trajectory/player2/hold-colour": "Color al mantener:",
+            "show-trajectory/player2/release-colour": "Color al soltar:",
+            "shortcut/back-button": "Simular tecla Escape"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -728,7 +740,12 @@
             "paint": "Te permite dibujar sobre la ventana del juego",
             "no-editor-zoom-limit": "Te permite hacer zoom de forma infinita dentro del editor",
             "checkpoint-fix": "Hace que cada checkpoint guarde todo el estado del jugador",
-            "shortcut/crash-the-game": "Fuerza el cierre del juego, útil para salir sin guardar"
+            "shortcut/crash-the-game": "Fuerza el cierre del juego, útil para salir sin guardar",
+            "paint/vertical-control": "Hace que los botones se posicionen verticalmente",
+            "show-trajectory": "Muestra la trayectoria que seguirá el jugador si hace clic o no",
+            "show-trajectory/player1": "Muestra la trayectoria del jugador 1",
+            "show-trajectory/player2": "Muestra la trayectoria del jugador 2",
+            "shortcut/back-button": "Te permite retroceder entre los menús simulando la tecla Escape.\nÚtil en iOS, donde no hay un botón físico para volver atrás.\nPuedes activar esta opción con el botón de la esquina inferior derecha o asignarle un atajo de teclado si la tecla Escape no te funciona."
         }
     }
 }
