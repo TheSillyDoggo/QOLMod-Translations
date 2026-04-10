@@ -481,7 +481,11 @@
             "show-trajectory/player2/hold-colour": "Hold Colour:",
             "show-trajectory/player2/release-colour": "Release Colour:",
             "shortcut/back-button": "Universal Back Button",
-            "editor-wave-trail": "Wave Trail in Editor"
+            "editor-wave-trail": "Wave Trail in Editor",
+            "show-button-in-editor": "Show in Editor",
+            "show-button-in-endscreen": "Show in Endscreen",
+            "show-button-in-game": "Show in Levels",
+            "gravity-arrow": "Gravity Arrow"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -734,7 +738,11 @@
             "show-trajectory/player1": "Shows the trajectory for player 1",
             "show-trajectory/player2": "Shows the trajectory for player 2",
             "shortcut/back-button": "Activates the back button on whatever layer you are on.\nUseful on iOS where there is no physical back button",
-            "editor-wave-trail": "Shows the players wave trail in the editor"
+            "editor-wave-trail": "Shows the players wave trail in the editor",
+            "show-button-in-editor": "Shows the button to open the mod menu in the editor",
+            "show-button-in-endscreen": "Shows the button to open the mod menu in the end screen",
+            "show-button-in-game": "Shows the button to open the mod menu while playing a level",
+            "gravity-arrow": "Adds an arrow pointing in the direction that gravity is going"
         }
     }
 }
