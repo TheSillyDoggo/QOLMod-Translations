@@ -382,7 +382,7 @@
             "save-pos": "Tala Puwesto",
             "seperate-colour-cheat-name": "Bukod kulay cheat name",
             "seperate-colour-cheat-name/colour": "Kulay:",
-            "labels/hide-all-labels": "Tago Mga Tatak",
+            "labels/hide-all-labels": "Tago ang mga Tatak",
             "full-options": "Punong Opsyon Menu",
             "search/show-options": "Kita opsyon",
             "auto-song": "Awto Download Kanta",
@@ -441,7 +441,7 @@
             "show-touches/scale": "Laki",
             "shortcut/open-graphics-settings": "Buksan Graphics Settings",
             "hide-editor-ui": "Tago UI ng Pagawaan",
-            "fast-end-screen": "Bilis Endscreen",
+            "fast-end-screen": "Mabilis Wakas",
             "show-touches/use-trail": "Kita Bakas",
             "show-touches/show-duration": "Kita Tagal",
             "hitbox-trail/no-limit": "Walang Limitasyon",
@@ -493,13 +493,17 @@
             "show-trajectory/player2/hold-colour": "Kulay ng Hold:",
             "show-trajectory/player2/release-colour": "Kulay ng Release:",
             "shortcut/back-button": "Pangkalahatang Back Button",
-            "editor-wave-trail": "Bakas ng Wave sa Pagawaan"
+            "editor-wave-trail": "Bakas ng Wave sa Pagawaan",
+            "show-button-in-editor": "Pakita sa Pagawaan",
+            "show-button-in-endscreen": "Pakita sa Wakas",
+            "show-button-in-game": "Pakita sa Levels",
+            "gravity-arrow": "Gravity Arrow"
         },
         "descriptions": {
             "internal/open-menu": "",
             "safe-mode": "Pinapatay lahat ng level progress at stats",
             "safe-mode/text": "",
-            "safe-mode/change-text": "Iniiba ang end screen na teksto para mapakita kung dinaya ang run",
+            "safe-mode/change-text": "Iniiba ang wakas na teksto para mapakita kung dinaya ang run",
             "noclip": "Binabawal ang player na mamatay",
             "noclip/tint-colour": "",
             "noclip/tint-opacity": "",
@@ -679,7 +683,7 @@
             "shortcut/open-settings": "Binubuksan ang settings menu",
             "shortcut/restart-attempt": "Inuulit ang attempt ngayon kung nasa loob ka ng level",
             "shortcut/toggle-practice": "Tina-toggle ang practice mode kung nasa loob ka ng level",
-            "safe-mode/end-screen-cheat-indicator": "Pinapakita ang cheat indicator sa end screen",
+            "safe-mode/end-screen-cheat-indicator": "Pinapakita ang cheat indicator sa wakas",
             "tps-bypass": "Para ma-update ang physics sa ibang \"frame rate\" kaysa sa default na 240",
             "hitbox-trail/darken-by-age": "Pinapadilim ang bakas sa tanda niya",
             "notifications": "Nagpapakita ng notification kung nag-toggle ka ng mod sa keybind o shortcut",
@@ -705,7 +709,7 @@
             "custom-obj-limit": "Tinatanggal ang limitasyon sa dami ng custom objects na pwede mong makuha",
             "shortcut/open-graphics-settings": "Binubukas ang graphics settings popup, ginagamit ito para ibukas ang Show FPS sa mobile",
             "hide-editor-ui": "Tinatago ang UI ng pagawaan",
-            "fast-end-screen": "Pinapakita ang end screen sa paghila mo sa end portal",
+            "fast-end-screen": "Pinapakita ang wakas sa paghila mo sa end portal",
             "show-touches/use-trail": "Pinapakita ang bakas sa likod ng bilog ng hipo",
             "show-touches/show-duration": "Pinapakita kung gaano katagal ang paghipo",
             "hitbox-trail/no-limit": "Tinatangal ang limitasyon sa dami ng mga puwesto na nakatala",
@@ -746,7 +750,11 @@
             "show-trajectory/player1": "Pakita ang trajectory ng player 1",
             "show-trajectory/player2": "Pakita ang trajectory ng player 2",
             "shortcut/back-button": "Pinipindot ang back button sa kung saang layer ka na.\nMahalaga sa iOS na walang pisikal na back button",
-            "editor-wave-trail": "Pinapakita ang bakas ng wave ng player wave trail sa pagawaan"
+            "editor-wave-trail": "Pinapakita ang bakas ng wave ng player wave trail sa pagawaan",
+            "show-button-in-editor": "Pinapakita ang pindutan para ibuksan ang mod menu sa pagawaan",
+            "show-button-in-endscreen": "Pinapakita ang pindutan para ibuksan ang mod menu sa wakas",
+            "show-button-in-game": "Pinapakita ang pindutan para ibuksan ang mod menu habang naglalaro ng level",
+            "gravity-arrow": "Dinadagdag ang arrow na nakaturo sa direksyon kung saan pumupunta ang gravity"
         }
     }
 }
