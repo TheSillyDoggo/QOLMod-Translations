@@ -504,7 +504,11 @@
             "show-trajectory/player2/hold-colour": "Kolor Trzymania:",
             "show-trajectory/player2/release-colour": "Kolor Puszczenia:",
             "shortcut/back-button": "Uniwersalny Guzik Wstecz",
-            "editor-wave-trail": "Ślad trybu Wave w Edytorze"
+            "editor-wave-trail": "Ślad trybu Wave w Edytorze",
+            "show-button-in-editor": "Pokaż w Edytorze",
+            "show-button-in-endscreen": "Pokaż w Ekranie Końcowym",
+            "show-button-in-game": "Pokaż w Poziomach",
+            "gravity-arrow": "Strzałka Grawitacji"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -756,7 +760,11 @@
             "show-trajectory/player1": "Pokazuje tor ruchu dla gracza 1",
             "show-trajectory/player2": "Pokazuje tor ruchu dla gracza 2",
             "shortcut/back-button": "Aktywuje guzik wstecz w jakiejkolwiek warstwie jesteś\nUżyteczne na iOS, gdzie nie ma tego guzika",
-            "editor-wave-trail": "Pokazuje ślad trybu Wave w edytorze"
+            "editor-wave-trail": "Pokazuje ślad trybu Wave w edytorze",
+            "show-button-in-editor": "Pokazuje guzik otwierający mod menu w edytorze",
+            "show-button-in-endscreen": "Pokazuje guzik otwierający mod menu na ekranie końcowym",
+            "show-button-in-game": "Pokazuje guzik otwierający mod menu podczas grania w poziom",
+            "gravity-arrow": "Dodaje strzałkę pokazującą w kierunek, w którym zmierza grawitacja"
         }
     }
 }
