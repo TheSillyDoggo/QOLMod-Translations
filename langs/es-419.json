@@ -14,6 +14,26 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 12
+        },
+        {
+            "username": "lookgamerpro",
+            "account-id": 11797302,
+            "icon-id": 107,
+            "primary-col": 15,
+            "secondary-col": 1,
+            "glow-enabled": true,
+            "glow-col": 1,
+            "death-effect-id": 13
+        },
+        {
+            "username": "Lpvapp",
+            "account-id": 6903012,
+            "icon-id": 133,
+            "primary-col": 39,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 11
         }
 ],
     "strings": {
@@ -167,7 +187,7 @@
             "wrong-type-confirmation": "Nivel no compatible tipo <cc>%s</c>"
         },
         "clone-level": {
-            "success": "¡nivel duplicado <cg>exitosamente</c>!"
+            "success": "¡Nivel duplicado <cg>exitosamente</c>!"
         },
         "iconic": {
             "override-primary-label": "Sobreescribir principal",
@@ -328,7 +348,7 @@
             "force-plat": "Fijar modo plataforma",
             "conf-res": "Confirmación al reiniciar",
             "conf-prac": "Confirmación al practicar",
-            "coin-tracers": "Ver monedas",
+            "coin-tracers": "Trazar monedas",
             "coin-tracers/colour": "Color:",
             "auto-practice": "Iniciar en práctica",
             "auto-practice/demons-only": "Solo demons",
@@ -494,7 +514,11 @@
             "show-trajectory/player2/hold-colour": "Color al mantener:",
             "show-trajectory/player2/release-colour": "Color al soltar:",
             "shortcut/back-button": "Simular tecla Escape",
-            "editor-wave-trail": "Mostrar trazo del wave"
+            "editor-wave-trail": "Mostrar trazo del wave",
+            "show-button-in-editor": "Mostrar en el Editor",
+            "show-button-in-endscreen": "Mostrar en la pantalla final",
+            "show-button-in-game": "Mostrar en los niveles",
+            "gravity-arrow": "Flechita de gravedad"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -747,7 +771,11 @@
             "show-trajectory/player1": "Muestra la trayectoria del jugador 1",
             "show-trajectory/player2": "Muestra la trayectoria del jugador 2",
             "shortcut/back-button": "Te permite retroceder entre los menús simulando la tecla Escape.\nÚtil en iOS, donde no hay un botón físico para volver atrás.\nPuedes activar esta opción con el botón de la esquina inferior derecha o asignarle un atajo de teclado si la tecla Escape no te funciona.",
-            "editor-wave-trail": "Muestra trazo del wave del jugador o los jugadores en el modo editor"
+            "editor-wave-trail": "Muestra trazo del wave del jugador o los jugadores en el modo editor",
+            "show-button-in-editor": "Muestra el botón para abrir el mod menú en el editor",
+            "show-button-in-endscreen": "Muestra el botón para abrir el mod menú en la pantalla final",
+            "show-button-in-game": "Muestra el botón para abrir el mod menú mientras estás jugando un nivel",
+            "gravity-arrow": "Agrega una flechita abajo de tu jugador que apunta constantemente a la gravedad a la que estés yendo (ya sea invertida, normal, o vertical)"
         }
     }
 }
