@@ -176,6 +176,8 @@
             "override-trail-label": "Ізді басым ету",
             "override-ghost-label": "Елесінді басым ету",
             "override-wave-trail-label": "Толқын ізін басым ету",
+            "override-dash-fire-label": "Дэш отын басым ету",
+            "override-spider-teleport-label": "Паук эффектісін басым ету",
             "override-fine-outline-label": "Жіңішке контурды басым ету",
             "seperate-label": "Бөлек\nТүстер",
             "dual-mode-invert": "Теріс",
@@ -285,7 +287,7 @@
             "slider-limit/reset-audio-variables": "Аудио слайдерін қалпына келтіру",
             "practice-bypass": "Практикадағы музыка - хак",
             "pitch-shifter": "Тон-шифтер",
-            "speedhack/gameplay": "Спидхак (Геймплей)",
+            "speedhack/gameplay": "Тек геймплей",
             "speedhack/music": "Спидхак (Музыка)",
             "speedhack/enabled": "Қосылған",
             "pitch-shifter/octaves": "Тон",
@@ -490,7 +492,13 @@
             "show-trajectory/player1/hold-colour": "Басып тұру түсі:",
             "show-trajectory/player1/release-colour": "Жіберу түсі:",
             "show-trajectory/player2/hold-colour": "Басып тұру түсі:",
-            "show-trajectory/player2/release-colour": "Жіберу түсі:"
+            "show-trajectory/player2/release-colour": "Жіберу түсі:",
+            "shortcut/back-button": "Универсалды артқа батырмасы",
+            "editor-wave-trail": "Едиторда толқын ізін көрсету",
+            "show-button-in-editor": "Едиторда көрсету",
+            "show-button-in-endscreen": "Жеңу экранында көрсету",
+            "show-button-in-game": "Деңгейде көрсету",
+            "gravity-arrow": "Гравитация көрсеткісі"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -676,7 +684,7 @@
             "shortcut/open-settings": "Настройки менюсын ашады",
             "shortcut/restart-attempt": "Деңгейде қазырғы сынақ саныңа рестарт жасалады",
             "shortcut/toggle-practice": "Деңгейде болған жағдайда практика режимін қосу/өшіру",
-            "safe-mode/end-screen-cheat-indicator": "Shows a cheat indicator on the end screen",
+            "safe-mode/end-screen-cheat-indicator": "Жеңу экранында чит индикаторын көрсетеді",
             "tps-bypass": "Әдепкі 240-тан қарағанда ойыншының физикасын басқа \"кадр жиілігінде\" жаңартып отырады",
             "hitbox-trail/darken-by-age": "Хитбокс ізі қаншалықты ескі, соншалықты қараңғы болады (яғни, хитбокс ізінің тұрған уақыты көп болса, соншалықты қаралау болып тұрады)",
             "notifications": "Егер модты перне немесе жылдам жолдар арқылы қосып өшірсе, экранға хабарлама шығарады",
@@ -741,7 +749,13 @@
             "paint/vertical-control": "Батырмаларды вертикалды қояды",
             "show-trajectory": "Ойыншы басқан кездегі, баспаған кездегі траекториясын көрсетеді",
             "show-trajectory/player1": "Ойыншы 1-дің траекториясын көрсетеді",
-            "show-trajectory/player2": "Ойыншы 2-нің траекториясын көрсетеді"
+            "show-trajectory/player2": "Ойыншы 2-нің траекториясын көрсетеді",
+            "shortcut/back-button": "Қай бетте болсанызда артқа батырмасын іске қосады.\niOS-та физикалық артқа батырмасы жоқ болу себебімен пайдалы болып келеді",
+            "editor-wave-trail": "Едиторда ойыншының толқын ізін көрсетеді",
+            "show-button-in-editor": "Мод менюды ашу батырмасын едиторда көрсетеді",
+            "show-button-in-endscreen": "Мод менюды ашу батырмасын жеңу экранында көрсетеді",
+            "show-button-in-game": "Мод менюды ашу батырмасын деңгей ойналып жатқан кезде көрсетеді",
+            "gravity-arrow": "Гравитация бағытының көрсеткісін қосады"
         }
     }
 }
