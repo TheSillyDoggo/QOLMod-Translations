@@ -77,7 +77,13 @@
         },
         "edit-keybind-ui": {
             "title": "Edit Keybind",
-            "no-keybind": "No Keybind"
+            "no-keybind": "No Keybind",
+            "toggle-mode-title": "Toggle",
+            "hold-mode-title": "Hold",
+            "hold-inverted-mode-title": "Hold (Inverted)",
+            "toggle-mode-info": "<cc>Toggles</c> if the mod is enabled when you <cl>press</c> the keybind",
+            "hold-mode-info": "<cg>Enables</c> the mod when you press the keybind.\n<cr>Disables</c> the mod when you release the keybind.",
+            "hold-inverted-mode-info": "<cr>Disables</c> the mod when you press the keybind.\n<cg>Enables</c> the mod when you release the keybind."
         },
         "language-credits": {
             "title": "Language Credits",
@@ -283,7 +289,7 @@
             "hide-pause-menu": "Hide Pause Menu",
             "hide-pause-button": "Hide Pause Button",
             "frame-extrapolation": "Frame Extrapolation",
-            "december-snow": "December Snow",
+            "december-snow": "December Only",
             "syzzi.click_between_frames/soft-toggle": "Click between frames",
             "chest-unlock-bypass": "Treasure Room Chest Bypass",
             "suicide": "Suicide",
@@ -485,7 +491,10 @@
             "show-button-in-editor": "Show in Editor",
             "show-button-in-endscreen": "Show in Endscreen",
             "show-button-in-game": "Show in Levels",
-            "gravity-arrow": "Gravity Arrow"
+            "gravity-arrow": "Gravity Arrow",
+            "show-trajectory/player1/hitbox-trail": "Hitbox Trail",
+            "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
+            "menu-snow": "Menu Snow"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -742,7 +751,10 @@
             "show-button-in-editor": "Shows the button to open the mod menu in the editor",
             "show-button-in-endscreen": "Shows the button to open the mod menu in the end screen",
             "show-button-in-game": "Shows the button to open the mod menu while playing a level",
-            "gravity-arrow": "Adds an arrow pointing in the direction that gravity is going"
+            "gravity-arrow": "Adds an arrow pointing in the direction that gravity is going",
+            "show-trajectory/player1/hitbox-trail": "Shows the hitbox trail of the players trajectory",
+            "show-trajectory/player2/hitbox-trail": "Shows the hitbox trail of the players trajectory",
+            "menu-snow": "Adds snow to the title screen"
         }
     }
 }
