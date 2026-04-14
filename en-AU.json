@@ -163,6 +163,8 @@
             "override-trail-label": "Override Trail",
             "override-ghost-label": "Override Ghost",
             "override-wave-trail-label": "Override Wave Trail",
+            "override-dash-fire-label": "Override Dash Fire",
+            "override-spider-teleport-label": "Override Spider Teleport",
             "override-fine-outline-label": "Override Fine Outline",
             "seperate-label": "Seperate\nColours",
             "dual-mode-invert": "Invert",
@@ -272,7 +274,7 @@
             "slider-limit/reset-audio-variables": "Reset Audio Sliders",
             "practice-bypass": "Practice Music Hack",
             "pitch-shifter": "Pitch Shifter",
-            "speedhack/gameplay": "Speedhack Gameplay",
+            "speedhack/gameplay": "Gameplay Only",
             "speedhack/music": "Speedhack Music",
             "speedhack/enabled": "Enabled",
             "pitch-shifter/octaves": "Pitch",
@@ -477,7 +479,13 @@
             "show-trajectory/player1/hold-colour": "Hold Colour:",
             "show-trajectory/player1/release-colour": "Release Colour:",
             "show-trajectory/player2/hold-colour": "Hold Colour:",
-            "show-trajectory/player2/release-colour": "Release Colour:"
+            "show-trajectory/player2/release-colour": "Release Colour:",
+            "shortcut/back-button": "Universal Back Button",
+            "editor-wave-trail": "Wave Trail in Editor",
+            "show-button-in-editor": "Show in Editor",
+            "show-button-in-endscreen": "Show in Endscreen",
+            "show-button-in-game": "Show in Levels",
+            "gravity-arrow": "Gravity Arrow"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -728,7 +736,13 @@
             "paint/vertical-control": "Makes the buttons be placed vertically",
             "show-trajectory": "Shows the path that the player will take if you click or not",
             "show-trajectory/player1": "Shows the trajectory for player 1",
-            "show-trajectory/player2": "Shows the trajectory for player 2"
+            "show-trajectory/player2": "Shows the trajectory for player 2",
+            "shortcut/back-button": "Activates the back button on whatever layer you are on.\nUseful on iOS where there is no physical back button",
+            "editor-wave-trail": "Shows the players wave trail in the editor",
+            "show-button-in-editor": "Shows the button to open the mod menu in the editor",
+            "show-button-in-endscreen": "Shows the button to open the mod menu in the end screen",
+            "show-button-in-game": "Shows the button to open the mod menu while playing a level",
+            "gravity-arrow": "Adds an arrow pointing in the direction that gravity is going"
         }
     }
 }
