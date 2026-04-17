@@ -83,7 +83,9 @@
             "title-error": "Error",
             "themes-edit-image-button": "Bild Ändern",
             "language-missing-unfinished": "Eine Sprache fehlt oder ist unvollständig?",
-            "language-contribute-button": "Trage Bei!"
+            "language-contribute-button": "Trage Bei!",
+            "language-options-title": "Sprachoptionen",
+            "crash-confirmation": "Bist du <cc>sicher</c> dass du das Spiel <cr>ABSTÜRZEN</c> willst?\nDies wird <cr>NICHT</c> deine Daten speichern."
         },
         "colour-setup": {
             "title": "Farbe auswählen",
@@ -108,7 +110,13 @@
         },
         "edit-keybind-ui": {
             "title": "Ändere Tastenkombination",
-            "no-keybind": "Keine Tastenkombination"
+            "no-keybind": "Keine Tastenkombination",
+            "toggle-mode-title": "Umschalten",
+            "hold-mode-title": "Gedrückt halten",
+            "hold-inverted-mode-title": "Gedrückt halten (Umgekehrt)",
+            "toggle-mode-info": "<cc>Schaltet</c> die Mod <cc>um</c> durch <cl>drücken</c> der gespeicherten Taste wenn aktiviert.",
+            "hold-mode-info": "<cg>Aktiviert</c> die Mod wenn du die gespeicherte Taste drückst\n<cr>Deaktiviert</c> die Mod wenn du die gespeicherte Taste loslässt.",
+            "hold-inverted-mode-info": "<cr>Deaktiviert</c> die Mod wenn du die gespeicherte Taste drückst\n<cg>Aktiviert</c> die Mod wenn du die gespeicherte Taste loslässt."
         },
         "language-credits": {
             "title": "Danksagung der Sprache",
@@ -194,6 +202,8 @@
             "override-trail-label": "Pfad Überschreiben",
             "override-ghost-label": "Geist-Pfad Überschreiben",
             "override-wave-trail-label": "'Wave'-Pfad Überschreiben",
+            "override-dash-fire-label": "Dash-Feuer Überschreiben",
+            "override-spider-teleport-label": "'Spider'-Teleport Überschreiben",
             "override-fine-outline-label": "Feine Umrandung Überschreiben",
             "seperate-label": "Getrennte\nFarben",
             "dual-mode-invert": "Invertieren",
@@ -201,6 +211,41 @@
             "dual-mode-seperate": "Separat",
             "fine-outline-missing-error": "Für diese mod muss <cc>Fine Outline</c> von <cp>Alphalaneous</c> installiert sein.",
             "profiles-title": "Charakter-Effekt Profile"
+        },
+        "enums": {
+            "kCCTransitionFade": "Verblassen",
+            "kCCTransitionCrossFade": "Überblenden",
+            "kCCTransitionFadeBL": "Unten links verblassen",
+            "kCCTransitionFadeTR": "Oben rechts verblassen",
+            "kCCTransitionFadeUp": "Nach oben verblassen",
+            "kCCTransitionFadeDown": "Nach unten verblassen",
+            "kCCTransitionFlipAngular": "Drehen",
+            "kCCTransitionFlipX": "Horizontal spiegeln",
+            "kCCTransitionFlipY": "Vertikal spiegeln",
+            "kCCTransitionZoomFlipAngular": "Drehen und zoomen",
+            "kCCTransitionZoomFlipX": "Horizontaler Zoom-Flip",
+            "kCCTransitionZoomFlipY": "Vertikaler Zoom-Flip",
+            "kCCTransitionJumpZoom": "Schnelles zoomen",
+            "kCCTransitionMoveInT": "Von oben einfliegen",
+            "kCCTransitionMoveInB": "Von unten einfliegen",
+            "kCCTransitionMoveInL": "Von links einfliegen",
+            "kCCTransitionMoveInR": "Von rechts einfliegen",
+            "kCCTransitionRotoZoom": "Rotieren und zoomen",
+            "kCCTransitionShrinkGrow": "Pulsieren",
+            "kCCTransitionSlideInT": "Von oben hereingleiten",
+            "kCCTransitionSlideInB": "Von unten hereingleiten",
+            "kCCTransitionSlideInL": "Von links hereingleiten",
+            "kCCTransitionSlideInR": "Von rechts hereingleiten",
+            "kCCTransitionSplitRows": "Zeilen aufteilen",
+            "kCCTransitionSplitCols": "Spalten aufteilen",
+            "kCCTransitionTurnOffTiles": "Kacheln",
+            "kCCTransitionProgressRadialCW": "Kreisförmiger Fortschritt im Uhrzeigersinn",
+            "kCCTransitionProgressRadialCCW": "Kreisförmiger Fortschritt gegen den Uhrzeigersinn",
+            "kCCTransitionProgressHorizontal": "Horizontaler Fortschritt",
+            "kCCTransitionProgressVertical": "Vertikaler Fortschritt",
+            "kCCTransitionProgressInOut": "Rein-Raus Fortschritt",
+            "kCCTransitionProgressOutIn": "Raus-Rein Fortschritt",
+            "kCCTransitionPageTurn": "Seite umblättern"
         },
         "names": {
             "internal/open-menu": "Menü Tastenkombination:",
@@ -481,7 +526,11 @@
             "show-button-in-editor": "Anzeigen im Editor",
             "show-button-in-endscreen": "Anzeigen im Endbildschirm",
             "show-button-in-game": "In Leveln anzeigen",
-            "gravity-arrow": "Gravitationspfeil"
+            "gravity-arrow": "Gravitationspfeil",
+            "show-trajectory/player1/hitbox-trail": "Treffboxpfad",
+            "show-trajectory/player2/hitbox-trail": "Treffboxpfad",
+            "menu-snow": "Menü Schnee",
+            "show-hitboxes/circle-player-hitbox": "Kreis-Treffbox"
 
         },
         "descriptions": {
@@ -739,7 +788,11 @@
             "show-button-in-editor": "Zeigt den Knopf um das Mod-Menü zu öffnen im Editor an",
             "show-button-in-endscreen": "Zeigt den Knopf um das Mod-Menü zu öffnen im Endbildschirm an",
             "show-button-in-game": "Zeigt den Knopf um das Mod-Menü zu öffnen während man ein Level spielt an",
-            "gravity-arrow": "Fügt einen Pfeil hinzu der in die Richtung zeigt in welche Gravitation wirkt"
+            "gravity-arrow": "Fügt einen Pfeil hinzu der in die Richtung zeigt in welche Gravitation wirkt",
+            "show-trajectory/player1/hitbox-trail": "Zeigt den Treffboxpfad von der Flugbahn des Spielers",
+            "show-trajectory/player2/hitbox-trail": "Zeigt den Treffboxpfad von der Flugbahn des Spielers",
+            "menu-snow": "Lässt im Hauptmenü Schnee erscheinen",
+            "show-hitboxes/circle-player-hitbox": "Zeigt die selten benutzte Kreis-Treffbox des Spielers"
         }
     }
 }
