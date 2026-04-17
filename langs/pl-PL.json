@@ -517,7 +517,8 @@
             "gravity-arrow": "Strzałka Grawitacji",
             "show-trajectory/player1/hitbox-trail": "Ślad Hitboxu",
             "show-trajectory/player2/hitbox-trail": "Ślad Hitboxu",
-            "menu-snow": "Śnieg w menu"
+            "menu-snow": "Śnieg w menu",
+            "show-hitboxes/circle-player-hitbox": "Hitbox okręgu",
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -776,7 +777,8 @@
             "gravity-arrow": "Dodaje strzałkę pokazującą w kierunek, w którym zmierza grawitacja",
             "show-trajectory/player1/hitbox-trail": "Pokazuje ślad hitboxa dla toru ruchu gracza",
             "show-trajectory/player2/hitbox-trail": "Pokazuje ślad hitboxa dla toru ruchu gracza",
-            "menu-snow": "Dodaje śnieg do ekranu tytułowego"
+            "menu-snow": "Dodaje śnieg do ekranu tytułowego",
+            "show-hitboxes/circle-player-hitbox": "Pokazuje rzadko używany okrągłu hitbox na graczu"
         }
     }
 }
