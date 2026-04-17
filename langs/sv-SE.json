@@ -25,7 +25,6 @@
             "death-effect-id": 16
         }
     ],
-    
     "font": "lexend.fnt",
     "strings": {
         "categories": {
@@ -56,7 +55,7 @@
         "ui": {
             "coming-soon": "Kommer snart",
             "themes-edit-button": "Ändra färg",
-            "ok-button": "OK",
+            "ok-button": "<bm>OK",
             "default-button": "Default",
             "undo-button": "Ångra",
             "change-font-button": "Ändra typsnitt",

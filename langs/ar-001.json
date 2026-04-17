@@ -14,8 +14,9 @@
             "secondary-col": 44,
             "glow-enabled": true,
             "glow-col": 11,
-        },   "death-effect-id": 12
-         {
+            "death-effect-id": 12
+        },
+        {
             "username": "singorongo",
             "account-id": 27628012,
             "icon-id": 371,
