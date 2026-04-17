@@ -90,6 +90,12 @@
         "edit-keybind-ui": {
             "title": "Edit Keybind",
             "no-keybind": "Tidak Ada Kaybind"
+            "toggle-mode-title": "Toggle",
+            "hold-mode-title": "Tahan",
+            "hold-inverted-mode-title": "Tahan (Terbalik)",
+            "toggle-mode-info": "<cc>MENYALAKAN / MEMATIKAN</c> Mod Saat Kamu <cl>MENEKAN</c> Keybind",
+            "hold-mode-info": "<cg>MENGAKTIFKAN</c> Mod Saat Kamu Menekan Keybind.\n<cr>MENONAKTIFKAN</c> Mod Saat Kamu Melepas Keybind.",
+            "hold-inverted-mode-info": "<cr>MENONAKTIFKAN</c> Mod Saat Kamu Menekan Keybind.\n<cg>MENGAKTIFKAN</c> Mod Saat Kamu Melepas Keybind."
         },
         "language-credits": {
             "title": "Kredit Bahasa",
@@ -493,6 +499,15 @@
             "show-trajectory/player2/hold-colour": "Warna Tahan:",
             "show-trajectory/player2/release-colour": "Warna Lepas:",
             "shortcut/back-button": "Tombol Kembali Universal"
+            "editor-wave-trail": "Wave Trail Di Editor",
+            "show-button-in-editor": "Tampilkan Di Editor",
+            "show-button-in-endscreen": "Tampilkan Di Endscreen",
+            "show-button-in-game": "Tampilkan Di Level",
+            "gravity-arrow": "Panah Gravitasi",
+            "show-trajectory/player1/hitbox-trail": "Hitbox Trail",
+            "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
+            "menu-snow": "Salju Menu",
+            "show-hitboxes/circle-player-hitbox": "Hitbox Lingkaran"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -745,6 +760,15 @@
             "show-trajectory/player1": "Untuk Player 1",
             "show-trajectory/player2": "Untuk Player 2",
             "shortcut/back-button": "Mengaktifkan Tombol Back\nBerguna Di iOS Tanpa Tombol Fisik"
+            "editor-wave-trail": "Menampilkan Wave Trail Player Di Editor",
+            "show-button-in-editor": "Menampilkan Tombol Untuk Membuka Menu Mod Di Editor",
+            "show-button-in-endscreen": "Menampilkan Tombol Untuk Membuka Menu Mod Di Endscreen",
+            "show-button-in-game": "Menampilkan Tombol Untuk Membuka Menu Mod Saat Bermain Level",
+            "gravity-arrow": "Menambahkan Panah Yang Menunjukkan Arah Gravitasi",
+            "show-trajectory/player1/hitbox-trail": "Menampilkan Hitbox Trail Dari Trajectory Player",
+            "show-trajectory/player2/hitbox-trail": "Menampilkan Hitbox Trail Dari Trajectory Player",
+            "menu-snow": "Menambahkan Salju Di Menu Utama",
+            "show-hitboxes/circle-player-hitbox": "Menampilkan Hitbox Lingkaran Yang Jarang Digunakan Pada Player"
         }
     }
 }
