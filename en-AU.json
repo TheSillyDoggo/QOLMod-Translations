@@ -494,7 +494,8 @@
             "gravity-arrow": "Gravity Arrow",
             "show-trajectory/player1/hitbox-trail": "Hitbox Trail",
             "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
-            "menu-snow": "Menu Snow"
+            "menu-snow": "Menu Snow",
+            "show-hitboxes/circle-player-hitbox": "Circle Hitbox"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -754,7 +755,8 @@
             "gravity-arrow": "Adds an arrow pointing in the direction that gravity is going",
             "show-trajectory/player1/hitbox-trail": "Shows the hitbox trail of the players trajectory",
             "show-trajectory/player2/hitbox-trail": "Shows the hitbox trail of the players trajectory",
-            "menu-snow": "Adds snow to the title screen"
+            "menu-snow": "Adds snow to the title screen",
+            "show-hitboxes/circle-player-hitbox": "Shows the rarely used circle hitbox on the player"
         }
     }
 }
