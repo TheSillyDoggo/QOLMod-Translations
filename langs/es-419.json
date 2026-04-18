@@ -69,8 +69,8 @@
         },
         "colour-setup": {
             "title": "Selecciona un color",
-            "add-step": "Agregar trazo",
-            "remove-step": "Quitar trazo",
+            "add-step": "Agregar paso",
+            "remove-step": "Quitar paso",
             "player-primary": "Jugador\nPrincipal",
             "player-secondary": "Jugador\nSecundario",
             "player-glow": "Glow",
@@ -90,7 +90,13 @@
         },
         "edit-keybind-ui": {
             "title": "Editar atajos del teclado",
-            "no-keybind": "Sin tecla asignada"
+            "no-keybind": "Sin tecla asignada",
+            "toggle-mode-title": "Alternar",
+            "hold-mode-title": "Mantener",
+            "hold-inverted-mode-title": "Mantener (invertido)",
+            "toggle-mode-info": "<cc>Activa o desactiva</c> la opción al momento de <cl>presionar</c> una tecla o una combinación de teclas",
+            "hold-mode-info": "<cg>Activa</c> la opción cuando presionas una tecla o una combinación de teclas.\n<cr>Se desactiva</c> al soltarla.",
+            "hold-inverted-mode-info": "<cr>Desactiva</c> la opción cuando presionas una tecla o una combinación de teclas.\n<cg>Se activa</c> al soltarla."
         },
         "language-credits": {
             "title": "Créditos de traducción",
@@ -124,7 +130,7 @@
             "none-added-hint": "No hay etiquetas.\nPuedes <cc>agregar</c> etiquetas con los\n<cl>botones</c> que están a tu <cp>derecha</c>."
         },
         "search-tab": {
-            "placeholder": "Busca un mod:"
+            "placeholder": "Busca una opción:"
         },
         "setup-rotation": {
             "title": "Editar rotación",
@@ -144,7 +150,7 @@
             "movable-title": "Movible"
         },
         "select-item": {
-            "title-generic": "Seleccionar Ítem",
+            "title-generic": "Seleccionar ítem",
             "title-background": "Selecciona el fondo para el acceso directo",
             "title-icon": "Selecciona el ícono para el acceso directo"
         },
@@ -296,7 +302,7 @@
             "hide-pause-menu": "Ocultar menú de pausa",
             "hide-pause-button": "Ocultar botón de pausa",
             "frame-extrapolation": "Extrapolación de frames",
-            "december-snow": "Modo navideño",
+            "december-snow": "Solo en navidad",
             "syzzi.click_between_frames/soft-toggle": "Clic entre frames",
             "chest-unlock-bypass": "Cofres del Treasure Room",
             "suicide": "Suicidarse",
@@ -498,7 +504,11 @@
             "show-button-in-editor": "Mostrar en el Editor",
             "show-button-in-endscreen": "Mostrar en la pantalla final",
             "show-button-in-game": "Mostrar en los niveles",
-            "gravity-arrow": "Flechita de gravedad"
+            "gravity-arrow": "Flechita de gravedad",
+            "show-trajectory/player1/hitbox-trail": "Trazar colisiones",
+            "show-trajectory/player2/hitbox-trail": "Trazar colisiones",
+            "menu-snow": "Ambiente nevado",
+            "show-hitboxes/circle-player-hitbox": "Colisión circular"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -755,7 +765,11 @@
             "show-button-in-editor": "Muestra el botón para abrir el mod menú en el editor",
             "show-button-in-endscreen": "Muestra el botón para abrir el mod menú en la pantalla final",
             "show-button-in-game": "Muestra el botón para abrir el mod menú mientras estás jugando un nivel",
-            "gravity-arrow": "Agrega una flechita abajo de tu jugador que apunta constantemente a la gravedad a la que estés yendo (ya sea invertida, normal, o vertical)"
+            "gravity-arrow": "Agrega una flechita abajo de tu jugador que apunta constantemente a la gravedad a la que estés yendo (ya sea invertida, normal, o vertical)",
+            "show-trajectory/player1/hitbox-trail": "Muestra el trazo de la colisión de la trayectoria del jugador",
+            "show-trajectory/player2/hitbox-trail": "Muestra el trazo de la colisión de la trayectoria del jugador",
+            "menu-snow": "Agrega nieve a la pantalla principal",
+            "show-hitboxes/circle-player-hitbox": "Muestra la caja de colisión circular en el jugador (raramente usada la plena, plena)"
         }
     }
 }
