@@ -29,6 +29,16 @@
             "glow-enabled": false,
             "glow-col": 12,
             "death-effect-id": 3
+        },
+        {
+            "username": "MinimalDistcance",
+            "account-id": 35716412,
+            "icon-id": 459,
+            "primary-col": 74,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 9
         }
     ],
     "display_name_english": "Vietnamese",
@@ -110,7 +120,13 @@
         },
         "edit-keybind-ui": {
             "title": "Chỉnh nút tắt",
-            "no-keybind": "Không nút tắt"
+            "no-keybind": "Không nút tắt",
+            "hold-mode-info": "<cg>Kích hoạt</c> mod khi bạn nhấn phím tắt.\n<cr>Tắt</c> mod khi bạn nhả phím tắt.",
+            "hold-inverted-mode-info": "<cr>Vô hiệu hóa</c> mod khi bạn nhấn phím tắt.\n<cg>Kích hoạt</c> mod khi bạn nhả phím tắt.",
+            "toggle-mode-title": "Chuyển đổi",
+            "hold-inverted-mode-title": "Giữ (Đảo ngược)",
+            "toggle-mode-info": "<cc>Bật/tắt chế độ mod khi bạn nhấn phím tắt.",
+            "hold-mode-title": "Giữ"
         },
         "language-credits": {
             "title": "Những người dịch ngôn ngữ",
@@ -202,7 +218,9 @@
             "dual-mode-same": "Giống nhau",
             "dual-mode-seperate": "Tách biệt",
             "fine-outline-missing-error": "Yêu cầu phải cài đặt mod <cc>Fine Outline</c> của <cp>Alphalaneous</c>.",
-            "profiles-title": "Hồ sơ hiệu ứng Icon"
+            "profiles-title": "Hồ sơ hiệu ứng Icon",
+            "override-dash-fire-label": "Ghi đè lửa khi dash",
+            "override-spider-teleport-label": "Ghi đè dịch chuyển tức thời của Spider"
         },
         "enums": {
             "kCCTransitionFade": "Mờ dần",
@@ -380,7 +398,7 @@
             "no-circles": "Không tròn",
             "no-shake": "Không camera rung",
             "longer-trail": "Dấu vết dài hơn",
-            "longer-trail/player-only": "Chỉ người chơi",
+                        "longer-trail/player-only": "Chỉ người chơi",
             "hide-percent-after-complete": "Ẩn phần trăm lúc hoàn thành",
             "trail-off": "Dấu vết bắt buộc tắt",
             "trail-off/wave-only": "Chỉ Wave",
@@ -502,7 +520,25 @@
             "no-editor-zoom-limit": "Không giới hạn thu phóng Editor",
             "checkpoint-fix": "Sửa lỗi Checkpoint",
             "hitbox-trail/opacity": "Độ mờ",
-            "shortcut/crash-the-game": "Làm sập game"
+            "shortcut/crash-the-game": "Làm sập game",
+            "shortcut/back-button": "Nút quay lại đa năng",
+            "show-trajectory/player2/release-colour": "Màu sắc thả:",
+            "show-trajectory/player2/hold-colour": "Màu sắc khi giữ:",
+            "show-trajectory/player2": "Người chơi 2",
+            "show-button-in-editor": "Hiển thị trong Editor",
+            "show-button-in-endscreen": "Hiển thị ở màn hình kết thúc",
+            "show-trajectory": "Hiện đường đi",
+            "show-trajectory/player1": "Người chơi 1",
+            "gravity-arrow": "Mũi tên trọng lực",
+            "show-trajectory/player1/hold-colour": "Màu sắc khi giữ:",
+            "paint/vertical-control": "Kiểm soát theo chiều dọc",
+            "menu-snow": "Menu tuyết",
+            "show-trajectory/player1/hitbox-trail": "Vệt hộp va chạm",
+            "editor-wave-trail": "Hiện vệt Wave trong Editor",
+            "show-hitboxes/circle-player-hitbox": "Vùng va chạm hình tròn",
+            "show-button-in-game": "Hiển thị trong màn chơi",
+            "show-trajectory/player2/hitbox-trail": "Vệt hộp va chạm",
+            "show-trajectory/player1/release-colour": "Màu sắc khi thả:"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -654,7 +690,7 @@
             "gradient-bg/start-colour": "",
             "use-:3-button": "Thay đổi nút \">_\" thành \":3\"",
             "blur-background": "Làm mờ nền phía sau menu mod.",
-            "no-open-in-level": "Tính năng này giúp bạn không thể mở menu mod khi đang chơi trong màn chơi.\nPhòng trường hợp bạn vô tình chạm vào nút Tab.",
+                        "no-open-in-level": "Tính năng này giúp bạn không thể mở menu mod khi đang chơi trong màn chơi.\nPhòng trường hợp bạn vô tình chạm vào nút Tab.",
             "show-searchbox": "Hiển thị biểu tượng hộp tìm kiếm",
             "show-favourites": "Hiển thị tab yêu thích",
             "button-scale": "",
@@ -748,7 +784,22 @@
             "paint": "Cho phép bạn vẽ lên cửa sổ trò chơi.",
             "no-editor-zoom-limit": "Cho phép bạn thu phóng vô hạn trong Editor.",
             "checkpoint-fix": "Lưu trữ mọi thông tin về người chơi ở mỗi checkpoint.",
-            "shortcut/crash-the-game": "Bắt buộc trò chơi phải sập, hữu ích để đóng game mà không lưu lại."
+            "shortcut/crash-the-game": "Bắt buộc trò chơi phải sập, hữu ích để đóng game mà không lưu lại.",
+            "show-trajectory/player1": "Hiển thị đường đi của người chơi 1.",
+            "show-trajectory/player2/hitbox-trail": "Hiển thị hộp và chạm đường đi của người chơi.",
+            "show-hitboxes/circle-player-hitbox": "Hiển thị hộp va chạm hình tròn ít được sử dụng trên người chơi.",
+            "editor-wave-trail": "Hiển thị vệt Wave của người chơi trong trình chỉnh sửa.",
+            "paint/vertical-control": "Giúp các nút được đặt theo chiều dọc.",
+            "show-button-in-endscreen": "Hiển thị nút mở menu mod ở màn hình kết thúc.",
+            "show-trajectory/player2": "Hiển thị đường đi của người chơi 2.",
+            "menu-snow": "Thêm tuyết vào màn hình tiêu đề.",
+            "no-circles-adv": "Tắt các hiệu ứng vòng tròn cụ thể trên một số đối tượng.",
+            "show-button-in-editor": "Hiển thị nút mở menu mod trong trình chỉnh sửa.",
+            "shortcut/back-button": "Kích hoạt nút quay lại trên bất kỳ lớp nào bạn đang ở.\nHữu ích trên iOS khi không có nút quay lại vật lý.",
+            "show-button-in-game": "Hiển thị nút mở menu mod khi đang chơi màn chơi.",
+            "show-trajectory": "Hiển thị đường đi mà người chơi sẽ thực hiện khi nhấn hoặc không nhấn.",
+            "gravity-arrow": "Thêm mũi tên chỉ hướng của trọng lực.",
+            "show-trajectory/player1/hitbox-trail": "Hiển thị vệt hitbox của đường đi người chơi."
         }
     }
 }
