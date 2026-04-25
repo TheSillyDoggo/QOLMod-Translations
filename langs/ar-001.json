@@ -1,4 +1,4 @@
-{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    {
     "display_name_english": "Arabic",
     "display_name_native": "العربية",
     "fallback-lang": "",
@@ -15,6 +15,16 @@
             "glow-enabled": true,
             "glow-col": 11,
             "death-effect-id": 12
+        },
+        {
+            "username": "singorongo",
+            "account-id": 27628012,
+            "icon-id": 371,
+            "primary-col": 0,
+            "secondary-col": 7,
+            "glow-enabled": false,
+            "glow-col": 17,
+            "death-effect-id": 13
         }
     ],
     "strings": {
@@ -42,16 +52,16 @@
             "tps": "tps"
         },
         "ui": {
-            "coming-soon": "يأتي قريباً",
-            "themes-edit-button": " عدل لألوان",
+            "coming-soon": "قريباً",
+            "themes-edit-button": "عدل لألوان",
             "ok-button": "نعم",
-            "default-button": "Default",
+            "default-button": "الإفتراضي",
             "undo-button": "ارجاع",
             "change-font-button": "مغير الخط",
-            "safe-mode-view-reason-button": "اظهر السبب",
+            "safe-mode-view-reason-button": "اظهر السبب للوضع الآمن",
             "export-to-file-button": "أصدر الملف",
             "import-from-file-button": "الاستيراد من الملف",
-            "language-contributors-button": "اظهر المشارك",
+            "language-contributors-button": "اظهر المشاركين",
             "cancel-button": "الغاء",
             "notification-mod-enabled": "%s مفعل",
             "notification-mod-disabled": "%s غير مفعل",
@@ -60,12 +70,12 @@
             "notification-test": "هذه اختبار الأشعار 3:"
         },
         "colour-setup": {
-            "title": "اختر  اللون",
+            "title": "اختر اللون",
             "add-step":"اضافة خطوة",
             "remove-step": "ازالة خطوة",
-            "player-primary": "Player\nPrimary",
-            "player-secondary": "Player\nSecondary",
-            "player-glow": "Player\nGlow",
+            "player-primary": "اللاعب\nالأساسي",
+            "player-secondary": "اللاعب\nالثانوي",
+            "player-glow": "اللاعب\nاللمعان",
             "chroma": "Chroma",
             "pastel": "باستيل",
             "gradient": "متدرج",
@@ -76,8 +86,8 @@
             "title": "عدل اللون المتدرج"
         },
         "edit-keybind-ui": {
-            "title": "Edit Keybind",
-            "no-keybind": "No Keybind"
+            "title": "عدل الاختصار",
+            "no-keybind": "لا يوجد الختصارات"
         },
         "language-credits": {
             "title": "Language Credits",
@@ -102,12 +112,12 @@
             "chinese-supported": "This font supports the Hanzi writing system (Chinese"
         },
         "create-custom-reward": {
-            "first-use-warning": "<cr>Warning</c>\nUsing this tool will permenently edit your save file, this may result in a leaderboard ban.\n<cl>use it at your own risk</c>",
+            "first-use-warning": "<cr>تحذير</c>\nاستخدام هذه الآدة قد يسبب في حظر من الليدر بورد\n<cl>استعملها على مسؤليتك الخاصة</c>",
             "create-button": "أنشأ"
         },
         "labels": {
-            "cheat-indicator-label": " مؤشر الغش",
-            "noclip-only-label": " تجاوز الخطر فقط",
+            "cheat-indicator-label": "مؤشر الغش",
+            "noclip-only-label": "تجاوز الخطر فقط",
             "none-added-hint":"No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
         },
         "search-tab": {
@@ -150,13 +160,13 @@
         },
         "names": {
             "internal/open-menu": "Menu Keybind:",
-            "safe-mode": "وضع الامانة",
+            "safe-mode": "وضع الآمان",
             "safe-mode/text": "Text",
             "safe-mode/change-text": "Change Text",
             "noclip": "تجاوز الخطر",
             "noclip/tint-colour": "اللون:",
             "noclip/tint-opacity": "غماضة اللون:",
-            "noclip/tint-on-death":" اللون عند الموت",
+            "noclip/tint-on-death":"اللون عند الموت",
             "show-touches": "أظهار النقر",
             "show-touches/trail-colour": "لون الاثر:",
             "show-touches/circle-colour": "لون الدائرة:",
@@ -238,7 +248,7 @@
             "instant-restart/practice": "تدريب",
             "instant-restart/normal": "طبيعي",
             "instant-restart": "اعادة تلقائياً",
-            "pause-quests": "المهام عند التوقيف",
+            "pause-quests": "المهام في قائمة التوقف",
             "practice-complete": "تدريب لمحاولة واحدة",
             "no-reverse": "عدم اشغال بوابة المرآة",
             "jump-hack": "هاك القفز",
@@ -359,7 +369,7 @@
         "descriptions": {
             "internal/open-menu": "",
             "safe-mode": "يعطل جميع التقدم و الاحصائيات للمرحلة",
-            "safe-mode/text": "",
+            "safe-mode/text": ":3 وضع اللآمن",
             "safe-mode/change-text": "يغير كتابة شاشة النهاية ليوضح ان المحاولة مغششة",
             "noclip": "يمنع اللاعب من الموت",
             "noclip/tint-colour": "",
