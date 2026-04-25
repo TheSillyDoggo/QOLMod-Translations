@@ -3,6 +3,18 @@
     "display_name_native": "Čeština",
     "fallback-lang": "",
     "font": "chatFont.fnt",
+    "contributors": [
+    {
+        "username": "ArmCZ",
+        "account-id": 342601290,
+        "icon-id": 344,
+        "primary-col": 4,
+        "secondary-col": 9,
+        "glow-enabled": false,
+        "glow-col": 12,
+        "death-effect-id": 8
+    }
+],
     "strings": {
         "categories": {
             "level": "Level",
