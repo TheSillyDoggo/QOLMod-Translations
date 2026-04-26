@@ -767,7 +767,7 @@
             "gravity-arrow": "Yerçekiminin gittiği yönü gösteren bir ok ekler",
             "show-trajectory/player1/hitbox-trail": "Oyuncu gidişatının hitbox kuyruğunu gösterir",
             "show-trajectory/player2/hitbox-trail": "Oyuncu gidişatının hitbox kuyruğunu gösterir",
-            "menu-snow": "Başlık ekranına kar yağışı ekler",
+            "menu-snow": "Ana menüye kar yağışı ekler",
             "show-hitboxes/circle-player-hitbox": "Oyuncu üzerindeki nadiren kullanılan daire hitbox'ını gösterir"
         }
     }
