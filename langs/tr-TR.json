@@ -101,15 +101,15 @@
             "title": "Çeviri Katkıları",
             "warning": {
                 "title": "Not",
-                "text": "Çeviriye katkıda bulunanlar <co>QOLMod</c> geliştiricisi <cr>değildir!</c>, Yeni özellik ekleyemezler ve bugları <cr>DÜZELTEMEZLER</c>.\nLütfen bize hataları <cr>geliştiricilere</c> bildirin. "
+                "text": "Çeviriye katkıda bulunanlar <co>QOLMod</c> geliştiricisi <cr>değildir!</c>, Yeni özellik ekleyemezler ve bugları <cr>DÜZELTEMEZLER</c>.\nLütfen hataları bize değil <cr>geliştiricilere</c> bildirin. "
             }
         },
         "speedhack": {
             "speed-label": "Hız Çarpanı:",
             "delete-hint": "Tap a preset to remove it",
             "add-preset-exist": {
-                "title": "Speedhack Preset",
-                "text": "There's already a preset with the value <cc>%s</c>"
+                "title": "Speedhack Önayarı",
+                "text": "Bu değer için zaten bir önayar var <cc>%s</c>"
             }
         },
         "font-select": {
