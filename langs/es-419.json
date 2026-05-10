@@ -24,6 +24,15 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 11
+        },
+	{
+            "username": "EdrielGD",
+            "account-id": 19659001,
+            "icon-id": 458,
+            "primary-col": 0,
+            "secondary-col": 3,
+            "glow-enabled": false,
+            "death-effect-id": 1
         }
 ],
     "strings": {
