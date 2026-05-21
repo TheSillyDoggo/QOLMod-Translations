@@ -162,6 +162,12 @@
         "clone-level": {
             "success": "<cg>Successfully</c> cloned level!"
         },
+        "options-ui": {
+            "seperate-alert": {
+                "title": "Seperated Options",
+                "text": "The <cc>options</c> for modules have not been removed,\nThey are now found in seperate menus for <cy>each</c> player.\nYou can find these with the [+] button next to the <cl>Player 1</c> and <cl>Player 2</c> text"
+            }
+        },
         "iconic": {
             "override-primary-label": "Override Primary",
             "override-secondary-label": "Override Secondary",
@@ -178,6 +184,9 @@
             "dual-mode-seperate": "Seperate",
             "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
             "profiles-title": "Icon Effect Profiles"
+        },
+        "edit-layout": {
+            "title": "Edit Layout"
         },
         "enums": {
             "kCCTransitionFade": "Fade",
