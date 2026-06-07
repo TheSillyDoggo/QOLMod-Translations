@@ -31,6 +31,16 @@
             "glow": true,
             "glowColor": 15,
             "deathEffect": 11
+        },
+        {
+            "name": "QuantumFox",
+            "accountID": 29226653,
+            "iconID": 8,
+            "primaryColor": 13,
+            "secondaryColor": 12,
+            "glow": false,
+            "glowColor": 12,
+            "deathEffect": 1
         }
     ],
     "fallback-lang": "",
@@ -66,7 +76,21 @@
             "change-font-button": "Змінити Шрифт",
             "safe-mode-view-reason-button": "Подивитись Причину",
             "export-to-file-button": "Експортувати в файл",
-            "import-from-file-button": "Імпортувати з файлу"
+            "import-from-file-button": "Імпортувати з файлу",
+            "language-contributors-button": "Переглянути редакторів",
+            "cancel-button": "Скасувати",
+            "confirm-button": "Підтвердити",
+            "notification-mod-enabled": "%s увімкнено",
+            "notification-mod-disabled": "%s вимкнено",
+            "notification-button-pressed": "%s активовано",
+            "notification-speedhack-set": "Спідхак задано на %s",
+            "notification-test": "Це тестове сповіщення :3",
+            "title-error": "Помилка",
+            "themes-edit-image-button": "Редагувати зображення",
+            "language-missing-unfinished": "Мови немає або вона незакінчена?",
+            "language-contribute-button": "Внести внесок!",
+            "language-options-title": "Мовні налаштування",
+            "crash-confirmation": "Чи ви <cc>впевнені</c>, що ви хочете <cr>КРАШНУТИ</c> гру?\nЦе <cr>НЕ</c> збереже зміни."
         },
         "colour-setup": {
             "title": "Вибрати колір",
@@ -78,14 +102,22 @@
             "chroma": "Хроматичний",
             "pastel": "Пастельний",
             "gradient": "Градієнт",
-            "colour-hint": "Колір:"
+            "colour-hint": "Колір:",
+            "effect-speed": "Ефект швидкості",
+            "red": "Ч:",
+            "green": "З:",
+            "blue": "С:"
         },
         "extra-theme-settings": {
-            "title": "Редагувати Кольори Градієнту"
+            "title": "Редагувати Кольори Градієнту",
+            "title-image": "Змінити фонове зображення"
         },
         "edit-keybind-ui": {
             "title": "Прив'язати до Клавіші",
-            "no-keybind": "Неприв'язано до Клавіші"
+            "no-keybind": "Неприв'язано до Клавіші",
+            "toggle-mode-title": "Переключити",
+            "hold-mode-title": "Зажати",
+            "hold-inverted-mode-title": "Зажати (навпаки)"
         },
         "font-select": {
             "title": "Вибрати Шрифт",
