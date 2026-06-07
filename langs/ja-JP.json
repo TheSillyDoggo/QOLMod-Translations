@@ -182,6 +182,9 @@
       "fine-outline-missing-error": "この機能には <cp>Alphalaneous</c> によるMOD <cc>Fine Outline</c> が必要です。",
       "profiles-title": "アイコンエフェクトプロファイル"
     },
+    "edit-layout": {
+      "title": "レイアウトを編集"
+    },
     "names": {
       "internal/open-menu": "メニューキー:",
       "safe-mode": "セーフモード",
