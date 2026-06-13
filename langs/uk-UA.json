@@ -31,6 +31,16 @@
             "glow": true,
             "glowColor": 15,
             "deathEffect": 11
+        },
+        {
+            "name": "LikeMartin56626",
+            "account-id": 293144439,
+            "icon-id": 235,
+            "primary-col": 14,
+            "secondary-col": 4,
+            "glow": true,
+            "glow-col": 4,
+            "deathEffect": 1
         }
     ],
     "fallback-lang": "",
@@ -52,10 +62,15 @@
             "button": "Кнопка",
             "theme": "Тема",
             "language": "Мова"
+            "shortcuts": "Швидкі функції"
         },
         "input-hints": {
             "seconds": "сек",
             "semitones": "семі-тони"
+            "fps": "кадри на сек",
+            "percentage": "%",
+            "tps": "тіки на сек",
+            "cps": "кліки на сек"
         },
         "ui": {
             "coming-soon": "Незабаром Вийде",
@@ -67,6 +82,20 @@
             "safe-mode-view-reason-button": "Подивитись Причину",
             "export-to-file-button": "Експортувати в файл",
             "import-from-file-button": "Імпортувати з файлу"
+            "language-contributors-button": "Переглянути перекладачів",
+            "cancel-button": "Відмінити",
+            "confirm-button": "Підтвердити",
+            "notification-mos-enabled": "%ш увімкнено",
+            "notification-mod-disabled": "%ш вимкнено",
+            "notification-button-pressed": "%ш активовано",
+            "notification-speedhack-set": "Спідхак встановлено на %ш",
+            "notification-test": "Це тестове повідомлення :3",
+            "title-error": "Помилка",
+            "themes-edit-image-button": "Редагувати Зображення",
+            "language-missing-unfinished": "Цей переклад на жаль не завершений",
+            "language-contribute-button": "Стань перекладачем!",
+            "language-options-title": "налаштування мови",
+            "crash-confirmation": "Ти впевнений, що хочеш вийти з гри? ВСІ незбережені дані будуть ВТРАЧЕНІ."
         },
         "colour-setup": {
             "title": "Вибрати колір",
