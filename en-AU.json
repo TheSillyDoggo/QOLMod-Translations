@@ -504,7 +504,8 @@
             "show-trajectory/player1/hitbox-trail": "Hitbox Trail",
             "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
             "menu-snow": "Menu Snow",
-            "show-hitboxes/circle-player-hitbox": "Circle Hitbox"
+            "show-hitboxes/circle-player-hitbox": "Circle Hitbox",
+            "startpos-switcher/layout": "Edit Layout"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -765,7 +766,8 @@
             "show-trajectory/player1/hitbox-trail": "Shows the hitbox trail of the players trajectory",
             "show-trajectory/player2/hitbox-trail": "Shows the hitbox trail of the players trajectory",
             "menu-snow": "Adds snow to the title screen",
-            "show-hitboxes/circle-player-hitbox": "Shows the rarely used circle hitbox on the player"
+            "show-hitboxes/circle-player-hitbox": "Shows the rarely used circle hitbox on the player",
+            "startpos-switcher/layout": "Move the position of the startpos switcher UI"
         }
     }
 }
