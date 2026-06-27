@@ -21,16 +21,6 @@
             "death-effect-id": 3
         },
         {
-            "username": "Haturz1",
-            "account-id": 26441935,
-            "icon-id": 84,
-            "primary-col": 12,
-            "secondary-col": 11,
-            "glow-enabled": false,
-            "glow-col": 12,
-            "death-effect-id": 3
-        },
-        {
             "username": "namvbn22",
             "account-id": 26290149,
             "icon-id": 107,
@@ -39,6 +29,16 @@
             "glow-enabled": true,
             "glow-col": 1,
             "death-effect-id": 1
+        },
+        {
+            "username": "Haturz1",
+            "account-id": 26441935,
+            "icon-id": 84,
+            "primary-col": 12,
+            "secondary-col": 11,
+            "glow-enabled": false,
+            "glow-col": 12,
+            "death-effect-id": 3
         }
     ],
     "display_name_english": "Vietnamese",
@@ -281,7 +281,7 @@
             "classic-percentage": "Phần trăm cổ điển",
             "best-in-percentage": "Kỷ lục ở phần trăm",
             "accurate-percentage": "Phần trăm chính xác",
-            "accurate-percentage/places": "Khu vực",
+            "accurate-percentage/places": "Hàng thập phân",
             "hitbox-trail": "Dấu vết hitbox",
             "hitbox-trail/reset-positions-on-death": "Đặt lại vị trí khi chết",
             "hitbox-trail/stored-positions": "Vị trí được lưu trữ",
@@ -530,7 +530,7 @@
             "checkpoint-fix": "Sửa lỗi Checkpoint",
             "hitbox-trail/opacity": "Độ mờ",
             "shortcut/crash-the-game": "Làm sập game",
-            "paint/vertical-control": "Vertical Control",
+            "paint/vertical-control": "Điều khiển chiều dọc",
             "show-trajectory": "Thể hiện hướng đi",
             "show-trajectory/player1": "Người chơi 1",
             "show-trajectory/player2": "Người chơi 2",
@@ -761,7 +761,7 @@
             "hide-editor-ui": "Ẩn giao diện người dùng (UI) trong chế độ Editor, hiểu chứ?",
             "fast-end-screen": "Hiển thị màn hình kết thúc ngay khi bạn bị kéo vào cổng kết thúc.",
             "show-touches/use-trail": "Hiển thị một dấu vết phía sau vòng tròn chạm.",
-            "show-touches/show-duration": "Hiển thị khoảng thời gian một lần chạm diễn ra.",
+            "show-touches/show-duration": "Hiển thị thời gian chạm.",
             "hitbox-trail/no-limit": "Xóa giới hạn số lượng vị trí được lưu lại.",
             "safe-mode/disable-cheats-ui": "Làm cho các gian lận hoàn toàn không thể được kích hoạt trên giao diện (UI).",
             "no-circles-adv/orb-touch": "Vô hiệu hóa vòng tròn khi bạn chạm vào một quả cầu.",
@@ -795,7 +795,7 @@
             "no-editor-zoom-limit": "Cho phép bạn thu phóng vô hạn trong Editor.",
             "checkpoint-fix": "Lưu trữ mọi thông tin về người chơi ở mỗi checkpoint.",
             "shortcut/crash-the-game": "Bắt buộc trò chơi phải sập, hữu ích để đóng game mà không lưu lại.",
-            "paint/vertical-control": "Khiến cho các nút được dặt theo hướng dọc",
+            "paint/vertical-control": "Khiến cho các nút được đặt theo hướng dọc",
             "show-trajectory": "Hiện đường đi của người chơi nếu bạn nhấn (và không)",
             "show-trajectory/player1": "Hiện đường đi cho người chơi 1",
             "show-trajectory/player2": "Hiện đường đi cho người chơi 2",
