@@ -207,7 +207,7 @@
 	"options-ui": {
             "seperate-alert": {
                 "title": "Opciones separadas",
-                "text": "Las <cc>opciones</c> no han sido eliminadas.\nAhora se encuentran en menús separados para <cy>cada</c> jugador.\nPuedes acceder a ellas con el botón [+] junto al texto <cl>Jugador 1</c> y <cl>Jugador 2</c>"
+                "text": "Las <cc>opciones</c> de los módulos no han sido eliminadas.\nAhora se encuentran en menús separados para <cy>cada</c> jugador.\nPuedes acceder a ellas con el botón [+] junto al texto <cl>Jugador 1</c> y <cl>Jugador 2</c>"
             }
         },
         "iconic": {
@@ -555,7 +555,7 @@
             "show-trajectory/player2/hitbox-trail": "Trazar colisiones",
             "menu-snow": "Ambiente nevado",
             "show-hitboxes/circle-player-hitbox": "Colisión circular",
-	        "startpos-switcher/layout": "Mover controles"
+	          "startpos-switcher/layout": "Mover controles"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -817,7 +817,7 @@
             "show-trajectory/player2/hitbox-trail": "Muestra el trazo de la colisión de la trayectoria del jugador",
             "menu-snow": "Agrega nieve a la pantalla principal",
             "show-hitboxes/circle-player-hitbox": "Muestra la caja de colisión circular en el jugador, raramente usada la plena, plena",
-	        "startpos-switcher/layout": "Te permite cambiar la posición de los botones para navegar entre los startpos"
+	          "startpos-switcher/layout": "Te permite cambiar la posición de los botones para navegar entre los startpos"
         }
     }
 }
