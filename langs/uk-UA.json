@@ -62,10 +62,15 @@
             "button": "Кнопка",
             "theme": "Тема",
             "language": "Мова"
+            "shortcuts": "Швидкі функції"
         },
         "input-hints": {
             "seconds": "сек",
-            "semitones": "півтони"
+            "semitones": "семі-тони",
+            "fps": "кадри на сек",
+            "percentage": "%",
+            "tps": "тіки на сек",
+            "cps": "кліки на сек"
         },
         "ui": {
             "coming-soon": "Незабаром",
@@ -77,6 +82,20 @@
             "safe-mode-view-reason-button": "Подивитися причину",
             "export-to-file-button": "Експортувати у файл",
             "import-from-file-button": "Імпортувати з файлу"
+            "language-contributors-button": "Переглянути перекладачів",
+            "cancel-button": "Відмінити",
+            "confirm-button": "Підтвердити",
+            "notification-mos-enabled": "%ш увімкнено",
+            "notification-mod-disabled": "%ш вимкнено",
+            "notification-button-pressed": "%ш активовано",
+            "notification-speedhack-set": "Спідхак встановлено на %ш",
+            "notification-test": "Це тестове повідомлення :3",
+            "title-error": "Помилка",
+            "themes-edit-image-button": "Редагувати Зображення",
+            "language-missing-unfinished": "Цей переклад на жаль не завершений",
+            "language-contribute-button": "Стань перекладачем!",
+            "language-options-title": "налаштування мови",
+            "crash-confirmation": "Ти впевнений, що хочеш вийти з гри? ВСІ незбережені дані будуть ВТРАЧЕНІ."
         },
         "colour-setup": {
             "title": "Вибрати колір",
