@@ -230,6 +230,14 @@
 	"edit-layout": {
             "title": "Editar diseño"
         },
+    "edit-range-ui": {
+            "title": "Configurar rangos",
+            "add-button": "Agregar",
+            "info-alert": {
+                "title": "Guía para usar los rangos automáticos",
+                "text": "Los rangos permiten que un módulo se <cg>active</c> o <cr>desactive</c> automáticamente cuando el porcentaje se encuentre dentro de un rango especificado.\nLa opción \"Activar\" hará que el módulo se <cg>active</c> al estar dentro del rango.\nLa opción \"Desactivar\" hará que el módulo se <cr>desactive</c> al estar dentro del rango."
+            }
+        },
         "enums": {
             "kCCTransitionFade": "Desvanecer",
             "kCCTransitionCrossFade": "Desvanecimiento cruzado",
@@ -547,7 +555,7 @@
             "show-trajectory/player2/hitbox-trail": "Trazar colisiones",
             "menu-snow": "Ambiente nevado",
             "show-hitboxes/circle-player-hitbox": "Colisión circular",
-	    "startpos-switcher/layout": "Mover controles"
+	          "startpos-switcher/layout": "Mover controles"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -809,7 +817,7 @@
             "show-trajectory/player2/hitbox-trail": "Muestra el trazo de la colisión de la trayectoria del jugador",
             "menu-snow": "Agrega nieve a la pantalla principal",
             "show-hitboxes/circle-player-hitbox": "Muestra la caja de colisión circular en el jugador, raramente usada la plena, plena",
-	    "startpos-switcher/layout": "Te permite cambiar la posición de los botones para navegar entre los startpos"
+	          "startpos-switcher/layout": "Te permite cambiar la posición de los botones para navegar entre los startpos"
         }
     }
 }

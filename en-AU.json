@@ -188,6 +188,14 @@
         "edit-layout": {
             "title": "Edit Layout"
         },
+        "edit-range-ui": {
+            "title": "Edit Ranges",
+            "add-button": "Add",
+            "info-alert": {
+                "title": "Auto Range help",
+                "text": "Ranges allow you to have a module <cg>auto-activate</c> or <cr>deactivate</c> when your percentage is in a specified range.\nEnable will turn the module <cg>on</c> when in the range.\nDisable will turn the module <cr>off</c> when in the range."
+            }
+        },
         "enums": {
             "kCCTransitionFade": "Fade",
             "kCCTransitionCrossFade": "Cross Fade",
