@@ -11,7 +11,7 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 1
-        },
+        }
     ],
     "fallback-lang": "en-AU.json",
     "font": "lexend.fnt",

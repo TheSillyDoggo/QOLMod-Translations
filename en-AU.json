@@ -77,7 +77,13 @@
         },
         "edit-keybind-ui": {
             "title": "Edit Keybind",
-            "no-keybind": "No Keybind"
+            "no-keybind": "No Keybind",
+            "toggle-mode-title": "Toggle",
+            "hold-mode-title": "Hold",
+            "hold-inverted-mode-title": "Hold (Inverted)",
+            "toggle-mode-info": "<cc>Toggles</c> if the mod is enabled when you <cl>press</c> the keybind",
+            "hold-mode-info": "<cg>Enables</c> the mod when you press the keybind.\n<cr>Disables</c> the mod when you release the keybind.",
+            "hold-inverted-mode-info": "<cr>Disables</c> the mod when you press the keybind.\n<cg>Enables</c> the mod when you release the keybind."
         },
         "language-credits": {
             "title": "Language Credits",
@@ -156,6 +162,12 @@
         "clone-level": {
             "success": "<cg>Successfully</c> cloned level!"
         },
+        "options-ui": {
+            "seperate-alert": {
+                "title": "Seperated Options",
+                "text": "The <cc>options</c> for modules have not been removed,\nThey are now found in seperate menus for <cy>each</c> player.\nYou can find these with the [+] button next to the <cl>Player 1</c> and <cl>Player 2</c> text"
+            }
+        },
         "iconic": {
             "override-primary-label": "Override Primary",
             "override-secondary-label": "Override Secondary",
@@ -172,6 +184,17 @@
             "dual-mode-seperate": "Seperate",
             "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
             "profiles-title": "Icon Effect Profiles"
+        },
+        "edit-layout": {
+            "title": "Edit Layout"
+        },
+        "edit-range-ui": {
+            "title": "Edit Ranges",
+            "add-button": "Add",
+            "info-alert": {
+                "title": "Auto Range help",
+                "text": "Ranges allow you to have a module <cg>auto-activate</c> or <cr>deactivate</c> when your percentage is in a specified range.\nEnable will turn the module <cg>on</c> when in the range.\nDisable will turn the module <cr>off</c> when in the range."
+            }
         },
         "enums": {
             "kCCTransitionFade": "Fade",
@@ -283,7 +306,7 @@
             "hide-pause-menu": "Hide Pause Menu",
             "hide-pause-button": "Hide Pause Button",
             "frame-extrapolation": "Frame Extrapolation",
-            "december-snow": "December Snow",
+            "december-snow": "December Only",
             "syzzi.click_between_frames/soft-toggle": "Click between frames",
             "chest-unlock-bypass": "Treasure Room Chest Bypass",
             "suicide": "Suicide",
@@ -480,7 +503,17 @@
             "show-trajectory/player1/release-colour": "Release Colour:",
             "show-trajectory/player2/hold-colour": "Hold Colour:",
             "show-trajectory/player2/release-colour": "Release Colour:",
-            "shortcut/back-button": "Universal Back Button"
+            "shortcut/back-button": "Universal Back Button",
+            "editor-wave-trail": "Wave Trail in Editor",
+            "show-button-in-editor": "Show in Editor",
+            "show-button-in-endscreen": "Show in Endscreen",
+            "show-button-in-game": "Show in Levels",
+            "gravity-arrow": "Gravity Arrow",
+            "show-trajectory/player1/hitbox-trail": "Hitbox Trail",
+            "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
+            "menu-snow": "Menu Snow",
+            "show-hitboxes/circle-player-hitbox": "Circle Hitbox",
+            "startpos-switcher/layout": "Edit Layout"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -732,7 +765,17 @@
             "show-trajectory": "Shows the path that the player will take if you click or not",
             "show-trajectory/player1": "Shows the trajectory for player 1",
             "show-trajectory/player2": "Shows the trajectory for player 2",
-            "shortcut/back-button": "Activates the back button on whatever layer you are on.\nUseful on iOS where there is no physical back button"
+            "shortcut/back-button": "Activates the back button on whatever layer you are on.\nUseful on iOS where there is no physical back button",
+            "editor-wave-trail": "Shows the players wave trail in the editor",
+            "show-button-in-editor": "Shows the button to open the mod menu in the editor",
+            "show-button-in-endscreen": "Shows the button to open the mod menu in the end screen",
+            "show-button-in-game": "Shows the button to open the mod menu while playing a level",
+            "gravity-arrow": "Adds an arrow pointing in the direction that gravity is going",
+            "show-trajectory/player1/hitbox-trail": "Shows the hitbox trail of the players trajectory",
+            "show-trajectory/player2/hitbox-trail": "Shows the hitbox trail of the players trajectory",
+            "menu-snow": "Adds snow to the title screen",
+            "show-hitboxes/circle-player-hitbox": "Shows the rarely used circle hitbox on the player",
+            "startpos-switcher/layout": "Move the position of the startpos switcher UI"
         }
     }
 }
