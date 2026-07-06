@@ -2,19 +2,20 @@
     "display_name_english": "Turkish",
     "display_name_native": "Türkçe",
     "contributors": [
-    {
-        "username": "Enisty",
-        "account-id": 24866444,
-        "icon-id": 233,
-        "primary-col": 22,
-        "secondary-col": 16,
-        "glow-enabled": true,
-        "glow-col": 3,
-        "death-effect-id": 10
-    }
-],
+        {
+            "username": "Enisty",
+            "account-id": 24866444,
+            "icon-id": 233,
+            "primary-col": 22,
+            "secondary-col": 16,
+            "glow-enabled": true,
+            "glow-col": 3,
+            "death-effect-id": 10
+        }
+    ],
     "fallback-lang": "en-AU.json",
     "font": "lexend.fnt",
+    "alt-font-usage": "Forced",
     "strings": {
         "categories": {
             "level": "Seviye",
