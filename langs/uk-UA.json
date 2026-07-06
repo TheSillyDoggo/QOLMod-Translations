@@ -61,7 +61,7 @@
             "menu": "Меню",
             "button": "Кнопка",
             "theme": "Тема",
-            "language": "Мова"
+            "language": "Мова",
             "shortcuts": "Швидкі функції"
         },
         "input-hints": {
@@ -75,13 +75,13 @@
         "ui": {
             "coming-soon": "Незабаром",
             "themes-edit-button": "Редагувати кольори",
-            "ok-button": "ОК",
+            "ok-button": "OK",
             "default-button": "Скинути",
             "undo-button": "Скасувати дію",
             "change-font-button": "Змінити шрифт",
             "safe-mode-view-reason-button": "Подивитися причину",
             "export-to-file-button": "Експортувати у файл",
-            "import-from-file-button": "Імпортувати з файлу"
+            "import-from-file-button": "Імпортувати з файлу",
             "language-contributors-button": "Переглянути перекладачів",
             "cancel-button": "Відмінити",
             "confirm-button": "Підтвердити",
