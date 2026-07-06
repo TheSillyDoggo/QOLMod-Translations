@@ -90,6 +90,12 @@
         "edit-keybind-ui": {
             "title": "Edit Keybind",
             "no-keybind": "Tidak Ada Kaybind"
+            "toggle-mode-title": "Toggle",
+            "hold-mode-title": "Tahan",
+            "hold-inverted-mode-title": "Tahan (Terbalik)",
+            "toggle-mode-info": "<cc>MENYALAKAN / MEMATIKAN</c> Mod Saat Kamu <cl>MENEKAN</c> Keybind",
+            "hold-mode-info": "<cg>MENGAKTIFKAN</c> Mod Saat Kamu Menekan Keybind.\n<cr>MENONAKTIFKAN</c> Mod Saat Kamu Melepas Keybind.",
+            "hold-inverted-mode-info": "<cr>MENONAKTIFKAN</c> Mod Saat Kamu Menekan Keybind.\n<cg>MENGAKTIFKAN</c> Mod Saat Kamu Melepas Keybind."
         },
         "language-credits": {
             "title": "Kredit Bahasa",
@@ -168,6 +174,12 @@
         "clone-level": {
             "success": "<cg>BERHASIL</c> Menyalin Level!"
         },
+        "options-ui": {
+            "seperate-alert": {
+                "title": "Opsi Terpisah",
+                "text": "Opsi <cc>MODUL</c> Tidak Dihapus.\nSekarang Opsi Tersebut Berada Di Menu Terpisah Untuk <cy>MASING-MASING</c> Pemain.\nKamu Dapat Menemukannya Melalui Tombol [+] Di Samping Teks <cl>PEMAIN 1</c> & <cl>PEMAIN 2</c>."
+            }
+        },
         "iconic": {
             "override-primary-label": "Timpa Warna Utama",
             "override-secondary-label": "Timpa Warna Sekunder",
@@ -184,6 +196,17 @@
             "dual-mode-seperate": "Terpisah",
             "fine-outline-missing-error": "Fitur Ini Memerlukan Mod <cc>Fine Outline</c> Oleh <cp>Alphalaneous</c>.",
             "profiles-title": "Profil Efek Ikon"
+        },
+        "edit-layout": {
+            "title": "Edit Tata Letak"
+        },
+        "edit-range-ui": {
+            "title": "Edit Rentang",
+            "add-button": "Tambah",
+            "info-alert": {
+                "title": "Bantuan Rentang Otomatis",
+                "text": "Rentang memungkinkan modul <cg>aktif</c> atau <cr>nonaktif</c> secara otomatis saat persentase progresmu berada dalam rentang yang ditentukan.\nAktifkan akan membuat modul <cg>menyala</c> saat berada di dalam rentang.\nNonaktifkan akan membuat modul <cr>mati</c> saat berada di dalam rentang."
+            }
         },
         "enums": {
             "kCCTransitionFade": "Memudar",
@@ -493,6 +516,16 @@
             "show-trajectory/player2/hold-colour": "Warna Tahan:",
             "show-trajectory/player2/release-colour": "Warna Lepas:",
             "shortcut/back-button": "Tombol Kembali Universal"
+            "editor-wave-trail": "Wave Trail Di Editor",
+            "show-button-in-editor": "Tampilkan Di Editor",
+            "show-button-in-endscreen": "Tampilkan Di Endscreen",
+            "show-button-in-game": "Tampilkan Di Level",
+            "gravity-arrow": "Panah Gravitasi",
+            "show-trajectory/player1/hitbox-trail": "Hitbox Trail",
+            "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
+            "menu-snow": "Salju Menu",
+            "show-hitboxes/circle-player-hitbox": "Hitbox Lingkaran"
+            "startpos-switcher/layout": "Edit Layout"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -733,7 +766,7 @@
             "zoom-pause-menu/no-zoom-limit": "Tanpa Batas Zoom",
             "zoom-pause-menu/show-controls": "Menambahkan Tombol Zoom",
             "solid-wave/preserve-center": "Menjaga Bagian Tengah Wave",
-            "accurate-spike-hitboxes": "Hitbox Spike Jadi Segitiga Asli\nJadi... Bisakah Stereo Madness Ditamatkan Dengan Akurasinya? Apalah",
+            "accurate-spike-hitboxes": "Hitbox Spikenya Menjadi Segitiga Asli\nJadi... Bisakah Stereo Madness Ditamatkan Dengan Akurasi Hitbox? Apasih :v",
             "high-quality-circles": "Efek Lingkaran Lebih Halus",
             "transition-customiser": "Mengatur Transisi Scene",
             "paint": "Mengganti Di Atas Game",
@@ -745,6 +778,16 @@
             "show-trajectory/player1": "Untuk Player 1",
             "show-trajectory/player2": "Untuk Player 2",
             "shortcut/back-button": "Mengaktifkan Tombol Back\nBerguna Di iOS Tanpa Tombol Fisik"
+            "editor-wave-trail": "Menampilkan Wave Trail Player Di Editor",
+            "show-button-in-editor": "Menampilkan Tombol Untuk Membuka Menu Mod Di Editor",
+            "show-button-in-endscreen": "Menampilkan Tombol Untuk Membuka Menu Mod Di Endscreen",
+            "show-button-in-game": "Menampilkan Tombol Untuk Membuka Menu Mod Saat Bermain Level",
+            "gravity-arrow": "Menambahkan Panah Yang Menunjukkan Arah Gravitasi",
+            "show-trajectory/player1/hitbox-trail": "Menampilkan Hitbox Trail Dari Trajectory Player",
+            "show-trajectory/player2/hitbox-trail": "Menampilkan Hitbox Trail Dari Trajectory Player",
+            "menu-snow": "Menambahkan Salju Di Menu Utama",
+            "show-hitboxes/circle-player-hitbox": "Menampilkan Hitbox Lingkaran Yang Jarang Digunakan Pada Player"
+            "startpos-switcher/layout": "Atur Posisi UI Pengalih StartPos"
         }
     }
 }
