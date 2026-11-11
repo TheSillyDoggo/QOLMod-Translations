@@ -2,7 +2,7 @@
     "display_name_english": "English",
     "display_name_native": "English",
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "bigFont.fnt",
     "strings": {
         "categories": {
             "level": "Level",
