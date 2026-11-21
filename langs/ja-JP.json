@@ -15,7 +15,7 @@
   "display_name_native": "日本語",
   "fallback-lang": "en-AU.json",
   "split-desc-by-every-char": true,
-  "font": "kosugimaru.fnt",
+  "font": ["KosugiMaru-1.fnt", "KosugiMaru-2.fnt", "KosugiMaru-3.fnt", "KosugiMaru-4.fnt", "KosugiMaru-5.fnt", "KosugiMaru-6.fnt", "KosugiMaru-7.fnt"],
   "strings": {
     "categories": {
       "level": "レベル",
