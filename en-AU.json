@@ -45,6 +45,8 @@
             "notification-mod-enabled": "%s enabled",
             "notification-mod-disabled": "%s disabled",
             "notification-button-pressed": "%s activated",
+            "notification-entered-range-enable": "{mod} enabled ({percent}%)",
+            "notification-entered-range-disable": "{mod} disabled ({percent}%)",
             "notification-speedhack-set": "Speedhack set to %s",
             "notification-test": "This is a test notification :3",
             "title-error": "Error",
