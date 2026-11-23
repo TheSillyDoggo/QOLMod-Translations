@@ -54,7 +54,8 @@
             "language-missing-unfinished": "Language missing / unfinished?",
             "language-contribute-button": "Contribute!",
             "language-options-title": "Language Options",
-            "crash-confirmation": "Are you <cc>sure</c> you want to <cr>CRASH</c> the game?\nThis will <cr>NOT</c> save your data."
+            "crash-confirmation": "Are you <cc>sure</c> you want to <cr>CRASH</c> the game?\nThis will <cr>NOT</c> save your data.",
+            "anticheat-api-disabled": "<cc>{mod}</c> has <cr>disabled</c> activating cheats"
         },
         "colour-setup": {
             "title": "Select Colour",

@@ -63,7 +63,8 @@
       "title-error": "エラー",
       "themes-edit-image-button": "画像を編集",
       "language-missing-unfinished": "言語が未追加、または翻訳が未完成ですか？",
-      "language-contribute-button": "翻訳に貢献する！"
+      "language-contribute-button": "翻訳に貢献する！",
+      "anticheat-api-disabled": "<cc>{mod}</c>がチート機能を<cr>無効化しました</c>"
     },
     "colour-setup": {
       "title": "色を選択",
