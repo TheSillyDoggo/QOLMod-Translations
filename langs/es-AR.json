@@ -2,7 +2,7 @@
     "display_name_english": "Spanish (Argentina)",
     "display_name_native": "Español (Argentina)",
     "fallback-lang": "es",
-    "font": "chatFont.fnt",
+    "font": "bigFont.fnt",
     "alt-font-usage": "Forced",
     "contributors": [
         {

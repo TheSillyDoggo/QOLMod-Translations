@@ -15,7 +15,7 @@
   "display_name_native": "日本語",
   "fallback-lang": "en-AU.json",
   "split-desc-by-every-char": true,
-  "font": "kosugimaru.fnt",
+  "font": ["KosugiMaru-1.fnt", "KosugiMaru-2.fnt", "KosugiMaru-3.fnt", "KosugiMaru-4.fnt", "KosugiMaru-5.fnt", "KosugiMaru-6.fnt", "KosugiMaru-7.fnt"],
   "strings": {
     "categories": {
       "level": "レベル",
@@ -65,7 +65,8 @@
       "language-missing-unfinished": "言語が未追加、または翻訳が未完成ですか？",
       "language-contribute-button": "翻訳に貢献する！",
       "language-options-title": "言語オプション",
-      "crash-confirmation": "ゲームを<cr>クラッシュ</c>させても<cc>よろしいですか</c>？\nデータは<cr>保存されません</c>。"
+      "crash-confirmation": "ゲームを<cr>クラッシュ</c>させても<cc>よろしいですか</c>？\nデータは<cr>保存されません</c>。",
+      "anticheat-api-disabled": "<cc>{mod}</c>がチート機能を<cr>無効化しました</c>"
     },
     "colour-setup": {
       "title": "色を選択",

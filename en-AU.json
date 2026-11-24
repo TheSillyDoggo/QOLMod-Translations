@@ -2,7 +2,7 @@
     "display_name_english": "English",
     "display_name_native": "English",
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "bigFont.fnt",
     "strings": {
         "categories": {
             "level": "Level",
@@ -45,6 +45,8 @@
             "notification-mod-enabled": "%s enabled",
             "notification-mod-disabled": "%s disabled",
             "notification-button-pressed": "%s activated",
+            "notification-entered-range-enable": "{mod} enabled ({percent}%)",
+            "notification-entered-range-disable": "{mod} disabled ({percent}%)",
             "notification-speedhack-set": "Speedhack set to %s",
             "notification-test": "This is a test notification :3",
             "title-error": "Error",
@@ -52,7 +54,8 @@
             "language-missing-unfinished": "Language missing / unfinished?",
             "language-contribute-button": "Contribute!",
             "language-options-title": "Language Options",
-            "crash-confirmation": "Are you <cc>sure</c> you want to <cr>CRASH</c> the game?\nThis will <cr>NOT</c> save your data."
+            "crash-confirmation": "Are you <cc>sure</c> you want to <cr>CRASH</c> the game?\nThis will <cr>NOT</c> save your data.",
+            "anticheat-api-disabled": "<cc>{mod}</c> has <cr>disabled</c> activating cheats"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -191,6 +194,10 @@
         "edit-range-ui": {
             "title": "Edit Ranges",
             "add-button": "Add",
+            "enabled-label": "Enabled",
+            "practice-label": "Practice Only",
+            "notify-label": "Notify",
+            "per-level-error": "You must be in a level to edit per-level configs",
             "info-alert": {
                 "title": "Auto Range help",
                 "text": "Ranges allow you to have a module <cg>auto-activate</c> or <cr>deactivate</c> when your percentage is in a specified range.\nEnable will turn the module <cg>on</c> when in the range.\nDisable will turn the module <cr>off</c> when in the range."
