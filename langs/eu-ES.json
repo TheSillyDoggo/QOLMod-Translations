@@ -2,7 +2,7 @@
     "display_name_english": "Basque",
     "display_name_native": "Euskera",
     "fallback-lang": "en-AU.json",
-    "font": "chatFont.fnt",
+    "font": "bigFont.fnt",
     "contributors": [
         {
             "username": "Blue Heaven 567",

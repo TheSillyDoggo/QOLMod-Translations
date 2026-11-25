@@ -2,7 +2,7 @@
     "display_name_english": "English",
     "display_name_native": "English",
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "bigFont.fnt",
     "strings": {
         "categories": {
             "level": "Level",
@@ -45,6 +45,8 @@
             "notification-mod-enabled": "%s enabled",
             "notification-mod-disabled": "%s disabled",
             "notification-button-pressed": "%s activated",
+            "notification-entered-range-enable": "{mod} enabled ({percent}%)",
+            "notification-entered-range-disable": "{mod} disabled ({percent}%)",
             "notification-speedhack-set": "Speedhack set to %s",
             "notification-test": "This is a test notification :3",
             "title-error": "Error",
@@ -52,7 +54,8 @@
             "language-missing-unfinished": "Language missing / unfinished?",
             "language-contribute-button": "Contribute!",
             "language-options-title": "Language Options",
-            "crash-confirmation": "Are you <cc>sure</c> you want to <cr>CRASH</c> the game?\nThis will <cr>NOT</c> save your data."
+            "crash-confirmation": "Are you <cc>sure</c> you want to <cr>CRASH</c> the game?\nThis will <cr>NOT</c> save your data.",
+            "anticheat-api-disabled": "<cc>{mod}</c> has <cr>disabled</c> activating cheats"
         },
         "colour-setup": {
             "title": "Select Colour",
@@ -162,6 +165,12 @@
         "clone-level": {
             "success": "<cg>Successfully</c> cloned level!"
         },
+        "options-ui": {
+            "seperate-alert": {
+                "title": "Seperated Options",
+                "text": "The <cc>options</c> for modules have not been removed,\nThey are now found in seperate menus for <cy>each</c> player.\nYou can find these with the [+] button next to the <cl>Player 1</c> and <cl>Player 2</c> text"
+            }
+        },
         "iconic": {
             "override-primary-label": "Override Primary",
             "override-secondary-label": "Override Secondary",
@@ -178,6 +187,21 @@
             "dual-mode-seperate": "Seperate",
             "fine-outline-missing-error": "This requires the mod <cc>Fine Outline</c> by <cp>Alphalaneous</c> to be installed.",
             "profiles-title": "Icon Effect Profiles"
+        },
+        "edit-layout": {
+            "title": "Edit Layout"
+        },
+        "edit-range-ui": {
+            "title": "Edit Ranges",
+            "add-button": "Add",
+            "enabled-label": "Enabled",
+            "practice-label": "Practice Only",
+            "notify-label": "Notify",
+            "per-level-error": "You must be in a level to edit per-level configs",
+            "info-alert": {
+                "title": "Auto Range help",
+                "text": "Ranges allow you to have a module <cg>auto-activate</c> or <cr>deactivate</c> when your percentage is in a specified range.\nEnable will turn the module <cg>on</c> when in the range.\nDisable will turn the module <cr>off</c> when in the range."
+            }
         },
         "enums": {
             "kCCTransitionFade": "Fade",
@@ -495,7 +519,8 @@
             "show-trajectory/player1/hitbox-trail": "Hitbox Trail",
             "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
             "menu-snow": "Menu Snow",
-            "show-hitboxes/circle-player-hitbox": "Circle Hitbox"
+            "show-hitboxes/circle-player-hitbox": "Circle Hitbox",
+            "startpos-switcher/layout": "Edit Layout"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -756,7 +781,8 @@
             "show-trajectory/player1/hitbox-trail": "Shows the hitbox trail of the players trajectory",
             "show-trajectory/player2/hitbox-trail": "Shows the hitbox trail of the players trajectory",
             "menu-snow": "Adds snow to the title screen",
-            "show-hitboxes/circle-player-hitbox": "Shows the rarely used circle hitbox on the player"
+            "show-hitboxes/circle-player-hitbox": "Shows the rarely used circle hitbox on the player",
+            "startpos-switcher/layout": "Move the position of the startpos switcher UI"
         }
     }
 }
