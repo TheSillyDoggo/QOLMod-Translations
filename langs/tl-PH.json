@@ -791,7 +791,7 @@
             "show-trajectory/player1/hitbox-trail": "Pinapakita ang bakas ng hitbox ng tilapon ng player",
             "show-trajectory/player2/hitbox-trail": "Pinapakita ang bakas ng hitbox ng tilapon ng player",
             "menu-snow": "Dinadagdag ang niyebe sa title screen",
-            "show-hitboxes/circle-player-hitbox": "Pinapakita ang bihirang ginagamit na bilog na hitbox sa player"
+            "show-hitboxes/circle-player-hitbox": "Pinapakita ang bihirang ginagamit na bilog na hitbox sa player",
             "startpos-switcher/layout": "Ginagalaw ang posisyon ng startpos switcher UI"
         }
     }
