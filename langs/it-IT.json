@@ -14,7 +14,7 @@
             "death-effect-id": 20
         }
     ],
-    "font": "chatFont.fnt",
+    "font": "lexend.fnt",
     "strings": {
         "categories": {
             "level": "Livello",
