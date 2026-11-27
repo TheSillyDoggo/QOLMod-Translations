@@ -2,6 +2,7 @@
     "display_name_english": "Italian",
     "display_name_native": "Italiano",
     "fallback-lang": "en-AU.json",
+    "alt-font-usage": "Forced",
     "contributors": [
         {
             "username": "justty3p",

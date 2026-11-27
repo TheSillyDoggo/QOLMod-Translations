@@ -323,6 +323,8 @@
             "startpos-switcher/hide-ui": "Hide UI",
             "startpos-switcher/next-bind": "Next:",
             "startpos-switcher/prev-bind": "Prev:",
+            "startpos-switcher/show-name": "Show Name",
+            "startpos-switcher/opacity": "Opacity:",
             "smart-startpos": "Smart Startpos",
             "custom-respawn-time": "Custom Respawn Time",
             "instant-restart/practice": "Practice",
@@ -520,7 +522,8 @@
             "show-trajectory/player2/hitbox-trail": "Hitbox Trail",
             "menu-snow": "Menu Snow",
             "show-hitboxes/circle-player-hitbox": "Circle Hitbox",
-            "startpos-switcher/layout": "Edit Layout"
+            "startpos-switcher/layout": "Edit Layout",
+            "best-in-percentage/hide-from-startpos": "Hides from startpos"
         },
         "descriptions": {
             "internal/open-menu": "",
@@ -606,6 +609,7 @@
             "startpos-switcher/hide-ui": "Hides the UI and makes it non-interactable",
             "startpos-switcher/next-bind": "",
             "startpos-switcher/prev-bind": "",
+            "startpos-switcher/show-name": "Shows the name of a startpos on the startpos switcher UI",
             "smart-startpos": "Automatically adjusts the settings of a startpos to correctly set the gamemode, speed, gravity, etc",
             "custom-respawn-time": "Change how long it takes to respawn",
             "instant-restart/practice": "",
@@ -782,7 +786,8 @@
             "show-trajectory/player2/hitbox-trail": "Shows the hitbox trail of the players trajectory",
             "menu-snow": "Adds snow to the title screen",
             "show-hitboxes/circle-player-hitbox": "Shows the rarely used circle hitbox on the player",
-            "startpos-switcher/layout": "Move the position of the startpos switcher UI"
+            "startpos-switcher/layout": "Move the position of the startpos switcher UI",
+            "best-in-percentage/hide-from-startpos": "Hides the percentage when playing from a startpos"
         }
     }
 }
